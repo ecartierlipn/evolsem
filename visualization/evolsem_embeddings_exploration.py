@@ -175,7 +175,7 @@ analysis = st.sidebar.radio(
      'Dependency Analysis (global)'), index=1)
 
 # specific word/sentence analysis
-if analysis == 'Specific Sentence Analysis':
+if analysis == 'Specific Sentence Analysis2':
     
     # global variables for this case
     tokens=[]

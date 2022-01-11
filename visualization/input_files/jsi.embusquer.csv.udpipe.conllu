@@ -1,0 +1,2817 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = En effet , les gens du pays ne traquent l' ours qu' à deux ou trois au plus , et ils se contentent , pour le tuer , de s' embusquer sur son passage .
+1	En	en	ADP	_	_	2	case	_	SpacesAfter=\s\s
+2	effet	effet	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	SpacesAfter=\s\s
+3	,	,	PUNCT	_	_	10	punct	_	SpacesAfter=\s\s
+4	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	SpacesAfter=\s\s
+5	gens	gens	NOUN	_	Gender=Masc|Number=Plur	10	nsubj	_	SpacesAfter=\s\s
+6-7	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+6	de	de	ADP	_	_	8	case	_	_
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	pays	pays	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	SpacesAfter=\s\s
+9	ne	ne	ADV	_	Polarity=Neg	10	advmod	_	SpacesAfter=\s\s
+10	traquent	traquer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+11	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	SpacesAfter=\s\s
+12	ours	ours	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	SpacesAfter=\s\s
+13	qu'	que	SCONJ	_	_	25	mark	_	SpacesAfter=\s\s
+14	à	à	ADP	_	_	15	case	_	SpacesAfter=\s\s
+15	deux	deux	NUM	_	_	25	obl	_	SpacesAfter=\s\s
+16	ou	ou	CCONJ	_	_	17	cc	_	SpacesAfter=\s\s
+17	trois	trois	NUM	_	_	15	conj	_	SpacesAfter=\s\s
+18-19	au	_	_	_	_	_	_	_	SpacesAfter=\s\s
+18	à	à	ADP	_	_	25	advmod	_	_
+19	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	fixed	_	_
+20	plus	plus	ADV	_	_	18	fixed	_	SpacesAfter=\s\s
+21	,	,	PUNCT	_	_	25	punct	_	SpacesAfter=\s\s
+22	et	et	CCONJ	_	_	25	cc	_	SpacesAfter=\s\s
+23	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	25	nsubj	_	SpacesAfter=\s\s
+24	se	se	PRON	_	Person=3|PronType=Prs	25	obj	_	SpacesAfter=\s\s
+25	contentent	contenter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	ccomp	_	SpacesAfter=\s\s
+26	,	,	PUNCT	_	_	25	punct	_	SpacesAfter=\s\s
+27	pour	pour	ADP	_	_	29	mark	_	SpacesAfter=\s\s
+28	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	29	obj	_	SpacesAfter=\s\s
+29	tuer	tuer	VERB	_	VerbForm=Inf	26	advcl	_	SpacesAfter=\s\s
+30	,	,	PUNCT	_	_	33	punct	_	SpacesAfter=\s\s
+31	de	de	ADP	_	_	33	mark	_	SpacesAfter=\s\s
+32	s'	se	PRON	_	Person=3|PronType=Prs	33	obj	_	SpacesAfter=\s\s
+33	embusquer	embusquer	VERB	_	VerbForm=Inf	29	conj	_	SpacesAfter=\s\s
+34	sur	sur	ADP	_	_	36	case	_	SpacesAfter=\s\s
+35	son	son	DET	_	Gender=Masc|Number=Sing|PronType=Prs	36	nmod:poss	_	SpacesAfter=\s\s
+36	passage	passage	NOUN	_	Gender=Masc|Number=Sing	33	obl	_	SpacesAfter=\s\s
+37	.	.	PUNCT	_	_	25	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 2
+# text = On avait cherché à l' embusquer dans notre studio à Lyon pour faire un featuring , mais il a pris un peu ça pour un traquenard et il a filé .
+1	On	on	PRON	_	Gender=Masc|Number=Sing|Person=3	3	nsubj	_	SpacesAfter=\s\s
+2	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	aux	_	SpacesAfter=\s\s
+3	cherché	chercher	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\s\s
+4	à	à	ADP	_	_	6	mark	_	SpacesAfter=\s\s
+5	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	6	obj	_	SpacesAfter=\s\s
+6	embusquer	embusquer	VERB	_	VerbForm=Inf	3	acl	_	SpacesAfter=\s\s
+7	dans	dans	ADP	_	_	9	case	_	SpacesAfter=\s\s
+8	notre	son	DET	_	Gender=Masc|Number=Sing|PronType=Prs	9	nmod:poss	_	SpacesAfter=\s\s
+9	studio	studio	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	SpacesAfter=\s\s
+10	à	à	ADP	_	_	11	case	_	SpacesAfter=\s\s
+11	Lyon	Lyon	PROPN	_	_	6	obl	_	SpacesAfter=\s\s
+12	pour	pour	ADP	_	_	13	mark	_	SpacesAfter=\s\s
+13	faire	faire	VERB	_	VerbForm=Inf	6	advcl	_	SpacesAfter=\s\s
+14	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	SpacesAfter=\s\s
+15	featuring	featuring	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	SpacesAfter=\s\s
+16	,	,	PUNCT	_	_	3	punct	_	SpacesAfter=\s\s
+17	mais	mais	CCONJ	_	_	20	cc	_	SpacesAfter=\s\s
+18	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	SpacesAfter=\s\s
+19	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	SpacesAfter=\s\s
+20	pris	prendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	SpacesAfter=\s\s
+21	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	advmod	_	SpacesAfter=\s\s
+22	peu	peu	ADV	_	_	21	fixed	_	SpacesAfter=\s\s
+23	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	20	obj	_	SpacesAfter=\s\s
+24	pour	pour	ADP	_	_	26	case	_	SpacesAfter=\s\s
+25	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	SpacesAfter=\s\s
+26	traquenard	traquenard	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	SpacesAfter=\s\s
+27	et	et	CCONJ	_	_	30	cc	_	SpacesAfter=\s\s
+28	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	nsubj	_	SpacesAfter=\s\s
+29	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	aux	_	SpacesAfter=\s\s
+30	filé	filler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	SpacesAfter=\s\s
+31	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 3
+# text = Mr WADE aura préféré s' embusquer derrière un mentor , pour hériter de sa base historique ;
+1	Mr	Mr	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	SpacesAfter=\s\s
+2	WADE	Wade	PROPN	_	_	1	flat:name	_	SpacesAfter=\s\s
+3	aura	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	SpacesAfter=\s\s
+4	préféré	préférer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\s\s
+5	s'	se	PRON	_	Person=3|PronType=Prs	6	obj	_	SpacesAfter=\s\s
+6	embusquer	embusquer	VERB	_	VerbForm=Inf	4	xcomp	_	SpacesAfter=\s\s
+7	derrière	derrière	ADP	_	_	9	case	_	SpacesAfter=\s\s
+8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	SpacesAfter=\s\s
+9	mentor	mentor	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	SpacesAfter=\s\s
+10	,	,	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+11	pour	pour	ADP	_	_	12	mark	_	SpacesAfter=\s\s
+12	hériter	hériter	VERB	_	VerbForm=Inf	4	advcl	_	SpacesAfter=\s\s
+13	de	de	ADP	_	_	15	case	_	SpacesAfter=\s\s
+14	sa	son	DET	_	Gender=Fem|Number=Sing|PronType=Prs	15	nmod:poss	_	SpacesAfter=\s\s
+15	base	base	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	SpacesAfter=\s\s
+16	historique	historique	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	SpacesAfter=\s\s
+17	;	;	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+
+# sent_id = 4
+# text = tout en évitant du même coup un challenge suicidaire .
+1	tout	tout	ADV	_	_	3	advmod	_	SpacesAfter=\s\s
+2	en	en	ADP	_	_	3	mark	_	SpacesAfter=\s\s
+3	évitant	évitant	VERB	_	Tense=Pres|VerbForm=Part	0	root	_	SpacesAfter=\s\s
+4-5	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+4	de	de	ADP	_	_	7	case	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+6	même	même	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	SpacesAfter=\s\s
+7	coup	coup	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	SpacesAfter=\s\s
+8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	SpacesAfter=\s\s
+9	challenge	challenge	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	SpacesAfter=\s\s
+10	suicidaire	suicidaire	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	SpacesAfter=\s\s
+11	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 5
+# text = A l' arrivée de Sidi , il alla s' embusquer à la porte d' entrée principale , armé de la même daba .
+1	A	à	ADP	_	_	3	case	_	SpacesAfter=\s\s
+2	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	SpacesAfter=\s\s
+3	arrivée	arrivée	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	SpacesAfter=\s\s
+4	de	de	ADP	_	_	5	case	_	SpacesAfter=\s\s
+5	Sidi	Sidi	PROPN	_	_	3	nmod	_	SpacesAfter=\s\s
+6	,	,	PUNCT	_	_	8	punct	_	SpacesAfter=\s\s
+7	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	SpacesAfter=\s\s
+8	alla	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+9	s'	se	PRON	_	Person=3|PronType=Prs	10	obj	_	SpacesAfter=\s\s
+10	embusquer	embusquer	VERB	_	VerbForm=Inf	8	xcomp	_	SpacesAfter=\s\s
+11	à	à	ADP	_	_	13	case	_	SpacesAfter=\s\s
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	SpacesAfter=\s\s
+13	porte	porte	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	SpacesAfter=\s\s
+14	d'	de	ADP	_	_	15	case	_	SpacesAfter=\s\s
+15	entrée	entrée	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpacesAfter=\s\s
+16	principale	principal	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	SpacesAfter=\s\s
+17	,	,	PUNCT	_	_	13	punct	_	SpacesAfter=\s\s
+18	armé	armer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	acl	_	SpacesAfter=\s\s
+19	de	de	ADP	_	_	22	case	_	SpacesAfter=\s\s
+20	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	SpacesAfter=\s\s
+21	même	même	ADJ	_	Gender=Fem|Number=Sing	22	amod	_	SpacesAfter=\s\s
+22	daba	daba	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	SpacesAfter=\s\s
+23	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 6
+# text = Leurs collègues se sont fait embusquer par des narcoterroristes non loin de là , une semaine plus tôt .
+1	Leurs	son	DET	_	Gender=Masc|Number=Plur|PronType=Prs	2	nmod:poss	_	SpacesAfter=\s\s
+2	collègues	collègue	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	SpacesAfter=\s\s
+3	se	se	PRON	_	Person=3|PronType=Prs	5	obj	_	SpacesAfter=\s\s
+4	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	SpacesAfter=\s\s
+5	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\s\s
+6	embusquer	embusquer	VERB	_	VerbForm=Inf	5	xcomp	_	SpacesAfter=\s\s
+7	par	par	ADP	_	_	10	case	_	SpacesAfter=\s\s
+8-9	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+8	de	de	ADP	_	_	7	fixed	_	_
+9	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	narcoterroristes	narcoterroriste	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	SpacesAfter=\s\s
+11	non	non	ADV	_	_	12	advmod	_	SpacesAfter=\s\s
+12	loin	loin	ADV	_	_	14	case	_	SpacesAfter=\s\s
+13	de	de	ADP	_	_	12	fixed	_	SpacesAfter=\s\s
+14	là	là	ADV	_	_	6	advmod	_	SpacesAfter=\s\s
+15	,	,	PUNCT	_	_	5	punct	_	SpacesAfter=\s\s
+16	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	SpacesAfter=\s\s
+17	semaine	semaine	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	SpacesAfter=\s\s
+18	plus	plus	ADV	_	_	19	advmod	_	SpacesAfter=\s\s
+19	tôt	tôt	ADV	_	_	17	advmod	_	SpacesAfter=\s\s
+20	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 7
+# text = " Ainsi , les soldats du Midi seraient des lâches !
+1	"	"	PUNCT	_	_	12	punct	_	SpacesAfter=\s\s
+2	Ainsi	ainsi	ADV	_	_	12	advmod	_	SpacesAfter=\s\s
+3	,	,	PUNCT	_	_	12	punct	_	SpacesAfter=\s\s
+4	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	SpacesAfter=\s\s
+5	soldats	soldat	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	SpacesAfter=\s\s
+6-7	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+6	de	de	ADP	_	_	8	case	_	_
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	Midi	midi	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	SpacesAfter=\s\s
+9	seraient	être	AUX	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	SpacesAfter=\s\s
+10-11	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+10	de	de	ADP	_	_	12	case	_	_
+11	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
+12	lâches	lâche	NOUN	_	Gender=Fem|Number=Plur	0	root	_	SpacesAfter=\s\s
+13	!	!	PUNCT	_	_	12	punct	_	SpacesAfter=\s\s
+
+# sent_id = 8
+# text = "
+1	"	"	PUNCT	_	_	0	root	_	SpacesAfter=\s\s
+
+# sent_id = 9
+# text = D'après l' historien Jean Yves Le Naour , ce stéréotype peu reluisant du Méridional , toujours prêt à s' embusquer ou à battre en retraite , paresseux et indolent , fort en gueule et vantard , a été construit tout au long du XIXe siècle .
+1	D'	de	ADP	_	_	4	case	_	SpaceAfter=No
+2	après	après	ADP	_	_	1	fixed	_	SpacesAfter=\s\s
+3	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	SpacesAfter=\s\s
+4	historien	historien	NOUN	_	Gender=Masc|Number=Sing	41	obl	_	SpacesAfter=\s\s
+5	Jean	Jean	PROPN	_	_	4	appos	_	SpacesAfter=\s\s
+6	Yves	Yves	PROPN	_	_	5	flat:name	_	SpacesAfter=\s\s
+7	Le	Le	PROPN	_	_	5	flat:name	_	SpacesAfter=\s\s
+8	Naour	Naour	PROPN	_	_	5	flat:name	_	SpacesAfter=\s\s
+9	,	,	PUNCT	_	_	41	punct	_	SpacesAfter=\s\s
+10	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	SpacesAfter=\s\s
+11	stéréotype	stéréotype	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	SpacesAfter=\s\s
+12	peu	peu	ADV	_	_	13	advmod	_	SpacesAfter=\s\s
+13	reluisant	reluiser	VERB	_	Tense=Pres|VerbForm=Part	11	acl	_	SpacesAfter=\s\s
+14-15	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+14	de	de	ADP	_	_	16	case	_	_
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	Méridional	méridional	PROPN	_	_	13	obl	_	SpacesAfter=\s\s
+17	,	,	PUNCT	_	_	13	punct	_	SpacesAfter=\s\s
+18	toujours	toujours	ADV	_	_	19	advmod	_	SpacesAfter=\s\s
+19	prêt	prêt	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	SpacesAfter=\s\s
+20	à	à	ADP	_	_	22	mark	_	SpacesAfter=\s\s
+21	s'	se	PRON	_	Person=3|PronType=Prs	22	obj	_	SpacesAfter=\s\s
+22	embusquer	embusquer	VERB	_	VerbForm=Inf	19	acl	_	SpacesAfter=\s\s
+23	ou	ou	CCONJ	_	_	25	cc	_	SpacesAfter=\s\s
+24	à	à	ADP	_	_	25	mark	_	SpacesAfter=\s\s
+25	battre	battre	VERB	_	VerbForm=Inf	22	conj	_	SpacesAfter=\s\s
+26	en	en	ADP	_	_	27	case	_	SpacesAfter=\s\s
+27	retraite	retraite	NOUN	_	Gender=Fem|Number=Sing	25	obl	_	SpacesAfter=\s\s
+28	,	,	PUNCT	_	_	29	punct	_	SpacesAfter=\s\s
+29	paresseux	paresseux	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	SpacesAfter=\s\s
+30	et	et	CCONJ	_	_	31	cc	_	SpacesAfter=\s\s
+31	indolent	indolent	ADJ	_	Gender=Masc|Number=Sing	29	conj	_	SpacesAfter=\s\s
+32	,	,	PUNCT	_	_	29	punct	_	SpacesAfter=\s\s
+33	fort	fort	ADV	_	_	35	advmod	_	SpacesAfter=\s\s
+34	en	en	ADP	_	_	35	case	_	SpacesAfter=\s\s
+35	gueule	gueule	NOUN	_	Gender=Masc|Number=Sing	25	obl	_	SpacesAfter=\s\s
+36	et	et	CCONJ	_	_	37	cc	_	SpacesAfter=\s\s
+37	vantard	vantard	NOUN	_	Gender=Masc|Number=Sing	35	conj	_	SpacesAfter=\s\s
+38	,	,	PUNCT	_	_	41	punct	_	SpacesAfter=\s\s
+39	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	aux	_	SpacesAfter=\s\s
+40	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	41	aux:pass	_	SpacesAfter=\s\s
+41	construit	construire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\s\s
+42	tout	tout	ADV	_	_	45	advmod	_	SpacesAfter=\s\s
+43-44	au	_	_	_	_	_	_	_	SpacesAfter=\s\s
+43	à	à	ADP	_	_	45	case	_	_
+44	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	_
+45	long	long	NOUN	_	Gender=Masc|Number=Sing	41	obl	_	SpacesAfter=\s\s
+46-47	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+46	de	de	ADP	_	_	49	case	_	_
+47	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	49	det	_	_
+48	XIXe	XIXe	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	49	amod	_	SpacesAfter=\s\s
+49	siècle	siècle	NOUN	_	Gender=Masc|Number=Sing	45	nmod	_	SpacesAfter=\s\s
+50	.	.	PUNCT	_	_	41	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 10
+# text = "
+1	"	"	PUNCT	_	_	0	root	_	SpacesAfter=\s\s
+
+# sent_id = 11
+# text = Nous étions convaincus qu' il allait s' embusquer derrière l' avis consultatif du conseil constitutionnel pour maquiller son " wakh wakhet .
+1	Nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	3	nsubj	_	SpacesAfter=\s\s
+2	étions	être	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	3	aux	_	SpacesAfter=\s\s
+3	convaincus	convaincre	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\s\s
+4	qu'	que	SCONJ	_	_	8	mark	_	SpacesAfter=\s\s
+5	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	SpacesAfter=\s\s
+6	allait	aller	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux	_	SpacesAfter=\s\s
+7	s'	se	PRON	_	Person=3|PronType=Prs	8	obj	_	SpacesAfter=\s\s
+8	embusquer	embusquer	VERB	_	VerbForm=Inf	3	ccomp	_	SpacesAfter=\s\s
+9	derrière	derrière	ADP	_	_	11	case	_	SpacesAfter=\s\s
+10	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	SpacesAfter=\s\s
+11	avis	avis	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	SpacesAfter=\s\s
+12	consultatif	consultatif	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	SpacesAfter=\s\s
+13-14	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+13	de	de	ADP	_	_	15	case	_	_
+14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	conseil	conseil	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	SpacesAfter=\s\s
+16	constitutionnel	constitutionnel	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	SpacesAfter=\s\s
+17	pour	pour	ADP	_	_	18	mark	_	SpacesAfter=\s\s
+18	maquiller	maquiller	VERB	_	VerbForm=Inf	8	advcl	_	SpacesAfter=\s\s
+19	son	son	DET	_	Gender=Masc|Number=Sing|PronType=Prs	22	nmod:poss	_	SpacesAfter=\s\s
+20	"	"	PUNCT	_	_	22	punct	_	SpacesAfter=\s\s
+21	wakh	wakh	ADJ	_	Gender=Masc|Number=Sing	22	amod	_	SpacesAfter=\s\s
+22	wakhet	wakhet	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	SpacesAfter=\s\s
+23	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 12
+# text = Il se positionne pour les embusquer , c' est facile .
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	SpacesAfter=\s\s
+2	se	se	PRON	_	Person=3|PronType=Prs	3	obj	_	SpacesAfter=\s\s
+3	positionne	positionner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+4	pour	pour	ADP	_	_	6	mark	_	SpacesAfter=\s\s
+5	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	6	obj	_	SpacesAfter=\s\s
+6	embusquer	embusquer	VERB	_	VerbForm=Inf	3	advcl	_	SpacesAfter=\s\s
+7	,	,	PUNCT	_	_	10	punct	_	SpacesAfter=\s\s
+8	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	10	nsubj	_	SpacesAfter=\s\s
+9	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	SpacesAfter=\s\s
+10	facile	facile	ADJ	_	Gender=Masc|Number=Sing	3	conj	_	SpacesAfter=\s\s
+11	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 13
+# text = Mais si vous dites " là , il y a une mare avec des éléphants qui viennent boire , les braconniers vont se positionner pour les embusquer et nous , on va se positionner pour embusquer les braconniers " , c' est beaucoup plus compliqué .
+1	Mais	mais	CCONJ	_	_	10	cc	_	SpacesAfter=\s\s
+2	si	si	SCONJ	_	_	4	mark	_	SpacesAfter=\s\s
+3	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	4	nsubj	_	SpacesAfter=\s\s
+4	dites	dire	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	10	advcl	_	SpacesAfter=\s\s
+5	"	"	PUNCT	_	_	10	punct	_	SpacesAfter=\s\s
+6	là	là	ADV	_	_	10	advmod	_	SpacesAfter=\s\s
+7	,	,	PUNCT	_	_	10	punct	_	SpacesAfter=\s\s
+8	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	SpacesAfter=\s\s
+9	y	y	PRON	_	_	10	expl	_	SpacesAfter=\s\s
+10	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+11	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	SpacesAfter=\s\s
+12	mare	mare	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	SpacesAfter=\s\s
+13	avec	avec	ADP	_	_	16	case	_	SpacesAfter=\s\s
+14-15	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+14	de	un	ADP	_	_	16	case	_	_
+15	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	éléphants	éléphant	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	SpacesAfter=\s\s
+17	qui	qui	PRON	_	PronType=Rel	18	nsubj	_	SpacesAfter=\s\s
+18	viennent	venir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	SpacesAfter=\s\s
+19	boire	boir	PROPN	_	_	25	obl	_	SpacesAfter=\s\s
+20	,	,	PUNCT	_	_	19	punct	_	SpacesAfter=\s\s
+21	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	SpacesAfter=\s\s
+22	braconniers	braconnier	NOUN	_	Gender=Masc|Number=Plur	25	nsubj	_	SpacesAfter=\s\s
+23	vont	aller	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	SpacesAfter=\s\s
+24	se	se	PRON	_	Person=3|PronType=Prs	25	expl	_	SpacesAfter=\s\s
+25	positionner	positionner	VERB	_	VerbForm=Inf	18	xcomp	_	SpacesAfter=\s\s
+26	pour	pour	ADP	_	_	28	mark	_	SpacesAfter=\s\s
+27	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	28	obj	_	SpacesAfter=\s\s
+28	embusquer	embusquer	VERB	_	VerbForm=Inf	25	advcl	_	SpacesAfter=\s\s
+29	et	et	CCONJ	_	_	35	cc	_	SpacesAfter=\s\s
+30	nous	nous	PRON	_	Number=Plur|Person=1|PronType=Prs	35	obj	_	SpacesAfter=\s\s
+31	,	,	PUNCT	_	_	35	punct	_	SpacesAfter=\s\s
+32	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3	35	nsubj	_	SpacesAfter=\s\s
+33	va	aller	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	aux	_	SpacesAfter=\s\s
+34	se	se	PRON	_	Person=3|PronType=Prs	35	obj	_	SpacesAfter=\s\s
+35	positionner	positionner	VERB	_	VerbForm=Inf	25	conj	_	SpacesAfter=\s\s
+36	pour	pour	ADP	_	_	37	mark	_	SpacesAfter=\s\s
+37	embusquer	embusquer	VERB	_	VerbForm=Inf	35	advcl	_	SpacesAfter=\s\s
+38	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	39	det	_	SpacesAfter=\s\s
+39	braconniers	braconnier	NOUN	_	Gender=Masc|Number=Plur	37	obj	_	SpacesAfter=\s\s
+40	"	"	PUNCT	_	_	25	punct	_	SpacesAfter=\s\s
+41	,	,	PUNCT	_	_	46	punct	_	SpacesAfter=\s\s
+42	c'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	46	nsubj:pass	_	SpacesAfter=\s\s
+43	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	46	aux:pass	_	SpacesAfter=\s\s
+44	beaucoup	beaucoup	ADV	_	_	45	advmod	_	SpacesAfter=\s\s
+45	plus	plus	ADV	_	_	46	advmod	_	SpacesAfter=\s\s
+46	compliqué	compliquer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	25	conj	_	SpacesAfter=\s\s
+47	.	.	PUNCT	_	_	10	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 14
+# text = Ils s' apprêtent à traverser la forêt des ombres pour embusquer l' armée voisine .
+1	Ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	3	nsubj	_	SpacesAfter=\s\s
+2	s'	se	PRON	_	Person=3|PronType=Prs	3	obj	_	SpacesAfter=\s\s
+3	apprêtent	apprêter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+4	à	à	ADP	_	_	5	mark	_	SpacesAfter=\s\s
+5	traverser	traverser	VERB	_	VerbForm=Inf	3	acl	_	SpacesAfter=\s\s
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	SpacesAfter=\s\s
+7	forêt	forêt	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	SpacesAfter=\s\s
+8-9	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+8	de	de	ADP	_	_	10	case	_	_
+9	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
+10	ombres	ombre	NOUN	_	Gender=Fem|Number=Plur	7	nmod	_	SpacesAfter=\s\s
+11	pour	pour	ADP	_	_	12	mark	_	SpacesAfter=\s\s
+12	embusquer	embusquer	VERB	_	VerbForm=Inf	5	advcl	_	SpacesAfter=\s\s
+13	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	SpacesAfter=\s\s
+14	armée	armée	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	SpacesAfter=\s\s
+15	voisine	voisin	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	SpacesAfter=\s\s
+16	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 15
+# text = Très convoitées , ces pochettes font l' envie des autres joueurs qui peuvent nous embusquer pour les voler .
+1	Très	très	ADV	_	_	2	advmod	_	SpacesAfter=\s\s
+2	convoitées	convoiter	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	SpacesAfter=\s\s
+3	,	,	PUNCT	_	_	2	punct	_	SpacesAfter=\s\s
+4	ces	ce	DET	_	Gender=Fem|Number=Plur|PronType=Dem	5	det	_	SpacesAfter=\s\s
+5	pochettes	pochette	NOUN	_	Gender=Fem|Number=Plur	6	nsubj	_	SpacesAfter=\s\s
+6	font	faire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+7	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	SpacesAfter=\s\s
+8	envie	envie	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	SpacesAfter=\s\s
+9-10	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+9	de	de	ADP	_	_	12	case	_	_
+10	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+11	autres	autre	ADJ	_	Gender=Masc|Number=Plur	12	amod	_	SpacesAfter=\s\s
+12	joueurs	joueur	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	SpacesAfter=\s\s
+13	qui	qui	PRON	_	PronType=Rel	16	nsubj	_	SpacesAfter=\s\s
+14	peuvent	pouvoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	SpacesAfter=\s\s
+15	nous	le	PRON	_	Number=Plur|Person=1|PronType=Prs	16	obj	_	SpacesAfter=\s\s
+16	embusquer	embusquer	VERB	_	VerbForm=Inf	12	acl:relcl	_	SpacesAfter=\s\s
+17	pour	pour	ADP	_	_	19	mark	_	SpacesAfter=\s\s
+18	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	19	obj	_	SpacesAfter=\s\s
+19	voler	voler	VERB	_	VerbForm=Inf	16	advcl	_	SpacesAfter=\s\s
+20	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 16
+# text = Ce qui permet concrètement d' éviter de construire un escalier dans lequel un brancard ne passe pas , et un couloir dans les recoins duquel un malfaiteur peut s' embusquer .
+1	Ce	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	0	root	_	SpacesAfter=\s\s
+2	qui	qui	PRON	_	PronType=Rel	3	nsubj	_	SpacesAfter=\s\s
+3	permet	permettre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	SpacesAfter=\s\s
+4	concrètement	concrètement	ADV	_	_	3	advmod	_	SpacesAfter=\s\s
+5	d'	de	ADP	_	_	6	mark	_	SpacesAfter=\s\s
+6	éviter	éviter	VERB	_	VerbForm=Inf	3	acl	_	SpacesAfter=\s\s
+7	de	de	ADP	_	_	8	mark	_	SpacesAfter=\s\s
+8	construire	construire	VERB	_	VerbForm=Inf	6	acl	_	SpacesAfter=\s\s
+9	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	SpacesAfter=\s\s
+10	escalier	escalier	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	SpacesAfter=\s\s
+11	dans	dans	ADP	_	_	12	case	_	SpacesAfter=\s\s
+12	lequel	lequel	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	16	obl	_	SpacesAfter=\s\s
+13	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	SpacesAfter=\s\s
+14	brancard	brancard	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	SpacesAfter=\s\s
+15	ne	ne	ADV	_	Polarity=Neg	16	advmod	_	SpacesAfter=\s\s
+16	passe	passer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	SpacesAfter=\s\s
+17	pas	pas	ADV	_	Polarity=Neg	16	advmod	_	SpacesAfter=\s\s
+18	,	,	PUNCT	_	_	16	punct	_	SpacesAfter=\s\s
+19	et	et	CCONJ	_	_	21	cc	_	SpacesAfter=\s\s
+20	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	SpacesAfter=\s\s
+21	couloir	couloir	NOUN	_	Gender=Masc|Number=Sing	16	conj	_	SpacesAfter=\s\s
+22	dans	dans	ADP	_	_	24	case	_	SpacesAfter=\s\s
+23	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	SpacesAfter=\s\s
+24	recoins	recoin	NOUN	_	Gender=Masc|Number=Plur	21	nmod	_	SpacesAfter=\s\s
+25-26	duquel	_	_	_	_	_	_	_	SpacesAfter=\s\s
+25	de	de	ADP	_	_	26	case	_	_
+26	lequel	lequel	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	31	obl	_	_
+27	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	SpacesAfter=\s\s
+28	malfaiteur	malfaiteur	NOUN	_	Gender=Masc|Number=Sing	31	nsubj	_	SpacesAfter=\s\s
+29	peut	pouvoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	aux	_	SpacesAfter=\s\s
+30	s'	se	PRON	_	Person=3|PronType=Prs	31	obj	_	SpacesAfter=\s\s
+31	embusquer	embusquer	VERB	_	VerbForm=Inf	24	acl:relcl	_	SpacesAfter=\s\s
+32	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 17
+# text = Cette action avait permis d' embusquer une quantité importante de baroud , dynamite et munitions pour ceux qui faisaient la gloire de la grande révolution armée .
+1	Cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	SpacesAfter=\s\s
+2	action	action	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	SpacesAfter=\s\s
+3	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	_	SpacesAfter=\s\s
+4	permis	permettre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\s\s
+5	d'	de	ADP	_	_	6	mark	_	SpacesAfter=\s\s
+6	embusquer	embusquer	VERB	_	VerbForm=Inf	4	acl	_	SpacesAfter=\s\s
+7	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	SpacesAfter=\s\s
+8	quantité	quantité	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	SpacesAfter=\s\s
+9	importante	important	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	SpacesAfter=\s\s
+10	de	de	ADP	_	_	11	case	_	SpacesAfter=\s\s
+11	baroud	baroud	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpacesAfter=\s\s
+12	,	,	PUNCT	_	_	13	punct	_	SpacesAfter=\s\s
+13	dynamite	dynamite	NOUN	_	Gender=Masc|Number=Sing	11	conj	_	SpacesAfter=\s\s
+14	et	et	CCONJ	_	_	15	cc	_	SpacesAfter=\s\s
+15	munitions	munition	NOUN	_	Gender=Fem|Number=Plur	11	conj	_	SpacesAfter=\s\s
+16	pour	pour	ADP	_	_	17	case	_	SpacesAfter=\s\s
+17	ceux	celui	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	11	nmod	_	SpacesAfter=\s\s
+18	qui	qui	PRON	_	PronType=Rel	19	nsubj	_	SpacesAfter=\s\s
+19	faisaient	faire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	17	acl:relcl	_	SpacesAfter=\s\s
+20	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	SpacesAfter=\s\s
+21	gloire	gloire	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	SpacesAfter=\s\s
+22	de	de	ADP	_	_	25	case	_	SpacesAfter=\s\s
+23	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	SpacesAfter=\s\s
+24	grande	grand	ADJ	_	Gender=Fem|Number=Sing	25	amod	_	SpacesAfter=\s\s
+25	révolution	révolution	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	SpacesAfter=\s\s
+26	armée	armé	ADJ	_	Gender=Fem|Number=Sing	25	amod	_	SpacesAfter=\s\s
+27	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 18
+# text = Les léopards sont des prédateurs redoutables capables de s' embusquer pour s' approcher en toute discrétion de leurs proies .
+1	Les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	SpacesAfter=\s\s
+2	léopards	léopard	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	SpacesAfter=\s\s
+3	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	SpacesAfter=\s\s
+4-5	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+4	de	de	ADP	_	_	6	case	_	_
+5	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	prédateurs	prédateur	NOUN	_	Gender=Masc|Number=Plur	0	root	_	SpacesAfter=\s\s
+7	redoutables	redoutable	ADJ	_	Gender=Masc|Number=Plur	6	amod	_	SpacesAfter=\s\s
+8	capables	capable	ADJ	_	Gender=Masc|Number=Plur	6	amod	_	SpacesAfter=\s\s
+9	de	de	ADP	_	_	11	mark	_	SpacesAfter=\s\s
+10	s'	se	PRON	_	Person=3|PronType=Prs	11	obj	_	SpacesAfter=\s\s
+11	embusquer	embusquer	VERB	_	VerbForm=Inf	6	acl	_	SpacesAfter=\s\s
+12	pour	pour	ADP	_	_	14	mark	_	SpacesAfter=\s\s
+13	s'	se	PRON	_	Person=3|PronType=Prs	14	expl	_	SpacesAfter=\s\s
+14	approcher	approcher	VERB	_	VerbForm=Inf	11	advcl	_	SpacesAfter=\s\s
+15	en	en	ADP	_	_	17	case	_	SpacesAfter=\s\s
+16	toute	tout	DET	_	Gender=Fem|Number=Sing	17	det	_	SpacesAfter=\s\s
+17	discrétion	discrétion	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	SpacesAfter=\s\s
+18	de	de	ADP	_	_	20	case	_	SpacesAfter=\s\s
+19	leurs	son	DET	_	Gender=Fem|Number=Plur|PronType=Prs	20	nmod:poss	_	SpacesAfter=\s\s
+20	proies	proie	NOUN	_	Gender=Fem|Number=Plur	17	nmod	_	SpacesAfter=\s\s
+21	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 19
+# text = Ces kidnappeurs devaient l' embusquer pour opérer encore leur sale besogne .
+1	Ces	ce	DET	_	Gender=Masc|Number=Plur|PronType=Dem	2	det	_	SpacesAfter=\s\s
+2	kidnappeurs	kidnappeur	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	SpacesAfter=\s\s
+3	devaient	devoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	SpacesAfter=\s\s
+4	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	5	obj	_	SpacesAfter=\s\s
+5	embusquer	embusquer	VERB	_	VerbForm=Inf	0	root	_	SpacesAfter=\s\s
+6	pour	pour	ADP	_	_	7	mark	_	SpacesAfter=\s\s
+7	opérer	opérer	VERB	_	VerbForm=Inf	5	advcl	_	SpacesAfter=\s\s
+8	encore	encore	ADV	_	_	7	advmod	_	SpacesAfter=\s\s
+9	leur	son	DET	_	Gender=Fem|Number=Sing|PronType=Prs	11	nmod:poss	_	SpacesAfter=\s\s
+10	sale	sale	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	SpacesAfter=\s\s
+11	besogne	besogne	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	SpacesAfter=\s\s
+12	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 20
+# text = En mai 1660 , Des Ormeaux et ses hommes tentent d' embusquer un groupe nombreux d' Iroquois , eux-mêmes en chemin vers Ville-Marie .
+1	En	en	ADP	_	_	2	case	_	SpacesAfter=\s\s
+2	mai	mai	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	SpacesAfter=\s\s
+3	1660	1660	NUM	_	_	2	nmod	_	SpacesAfter=\s\s
+4	,	,	PUNCT	_	_	11	punct	_	SpacesAfter=\s\s
+5-6	Des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+5	De	de	ADP	_	_	7	case	_	_
+6	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	7	det	_	_
+7	Ormeaux	Ormeaux	PROPN	_	_	11	nsubj	_	SpacesAfter=\s\s
+8	et	et	CCONJ	_	_	10	cc	_	SpacesAfter=\s\s
+9	ses	son	DET	_	Gender=Masc|Number=Plur|PronType=Prs	10	nmod:poss	_	SpacesAfter=\s\s
+10	hommes	homme	NOUN	_	Gender=Masc|Number=Plur	7	conj	_	SpacesAfter=\s\s
+11	tentent	tenter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+12	d'	de	ADP	_	_	13	mark	_	SpacesAfter=\s\s
+13	embusquer	embusquer	VERB	_	VerbForm=Inf	11	acl	_	SpacesAfter=\s\s
+14	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	SpacesAfter=\s\s
+15	groupe	groupe	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	SpacesAfter=\s\s
+16	nombreux	nombreux	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	SpacesAfter=\s\s
+17	d'	de	ADP	_	_	18	case	_	SpacesAfter=\s\s
+18	Iroquois	Iroquois	PROPN	_	_	15	nmod	_	SpacesAfter=\s\s
+19	,	,	PUNCT	_	_	15	punct	_	SpacesAfter=\s\s
+20	eux-mêmes	eux-mêmes	PRON	_	Gender=Masc|Number=Plur|Person=3|Reflex=Yes	15	nmod	_	SpacesAfter=\s\s
+21	en	en	ADP	_	_	22	case	_	SpacesAfter=\s\s
+22	chemin	chemin	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	SpacesAfter=\s\s
+23	vers	vers	ADP	_	_	24	case	_	SpacesAfter=\s\s
+24	Ville-Marie	Ville-Marie	PROPN	_	_	15	nmod	_	SpacesAfter=\s\s
+25	.	.	PUNCT	_	_	11	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 21
+# text = Pas de doute , ce groupe est chassé par un prédateur qui profite du crépuscule pour s' embusquer .
+1	Pas	pas	ADV	_	Polarity=Neg	3	det	_	SpacesAfter=\s\s
+2	de	de	ADP	_	_	1	fixed	_	SpacesAfter=\s\s
+3	doute	doute	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	SpacesAfter=\s\s
+4	,	,	PUNCT	_	_	8	punct	_	SpacesAfter=\s\s
+5	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	SpacesAfter=\s\s
+6	groupe	groupe	NOUN	_	Gender=Masc|Number=Sing	8	nsubj:pass	_	SpacesAfter=\s\s
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux:pass	_	SpacesAfter=\s\s
+8	chassé	chasser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\s\s
+9	par	par	ADP	_	_	11	case	_	SpacesAfter=\s\s
+10	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	SpacesAfter=\s\s
+11	prédateur	prédateur	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	SpacesAfter=\s\s
+12	qui	qui	PRON	_	PronType=Rel	13	nsubj	_	SpacesAfter=\s\s
+13	profite	profiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	SpacesAfter=\s\s
+14-15	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+14	de	de	ADP	_	_	16	case	_	_
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+16	crépuscule	crépuscule	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	SpacesAfter=\s\s
+17	pour	pour	ADP	_	_	19	mark	_	SpacesAfter=\s\s
+18	s'	se	PRON	_	Person=3|PronType=Prs	19	obj	_	SpacesAfter=\s\s
+19	embusquer	embusquer	VERB	_	VerbForm=Inf	13	advcl	_	SpacesAfter=\s\s
+20	.	.	PUNCT	_	_	8	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 22
+# text = On peut donc choisir trois montres pour s' embusquer dans le monde du silence : les gros poissons vont découvrir avec stupeur qu' ils n' ont plus le temps pour eux !
+1	On	on	PRON	_	Gender=Masc|Number=Sing|Person=3	4	nsubj	_	SpacesAfter=\s\s
+2	peut	pouvoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	SpacesAfter=\s\s
+3	donc	donc	ADV	_	_	4	advmod	_	SpacesAfter=\s\s
+4	choisir	choisir	VERB	_	VerbForm=Inf	0	root	_	SpacesAfter=\s\s
+5	trois	trois	NUM	_	_	6	nummod	_	SpacesAfter=\s\s
+6	montres	montres	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	SpacesAfter=\s\s
+7	pour	pour	ADP	_	_	9	mark	_	SpacesAfter=\s\s
+8	s'	se	PRON	_	Person=3|PronType=Prs	9	obj	_	SpacesAfter=\s\s
+9	embusquer	embusquer	VERB	_	VerbForm=Inf	4	advcl	_	SpacesAfter=\s\s
+10	dans	dans	ADP	_	_	12	case	_	SpacesAfter=\s\s
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	SpacesAfter=\s\s
+12	monde	monde	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	SpacesAfter=\s\s
+13-14	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+13	de	de	ADP	_	_	15	case	_	_
+14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	silence	silence	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	SpacesAfter=\s\s
+16	:	:	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+17	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	SpacesAfter=\s\s
+18	gros	gros	ADJ	_	Gender=Masc|Number=Plur	19	amod	_	SpacesAfter=\s\s
+19	poissons	poisson	NOUN	_	Gender=Masc|Number=Plur	21	nsubj	_	SpacesAfter=\s\s
+20	vont	aller	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	SpacesAfter=\s\s
+21	découvrir	découvrir	VERB	_	VerbForm=Inf	4	parataxis	_	SpacesAfter=\s\s
+22	avec	avec	ADP	_	_	23	case	_	SpacesAfter=\s\s
+23	stupeur	stupeur	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	SpacesAfter=\s\s
+24	qu'	que	PRON	_	PronType=Rel	28	obj	_	SpacesAfter=\s\s
+25	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	28	nsubj	_	SpacesAfter=\s\s
+26	n	n	ADJ	_	_	25	amod	_	SpaceAfter=No
+27	'	'	PUNCT	_	_	26	punct	_	SpacesAfter=\s\s
+28	ont	avoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	SpacesAfter=\s\s
+29	plus	plus	ADV	_	_	31	advmod	_	SpacesAfter=\s\s
+30	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	SpacesAfter=\s\s
+31	temps	temps	NOUN	_	Gender=Masc|Number=Sing	28	obl	_	SpacesAfter=\s\s
+32	pour	pour	ADP	_	_	33	case	_	SpacesAfter=\s\s
+33	eux	soi	PRON	_	Gender=Masc|Number=Plur|Person=3	31	nmod	_	SpacesAfter=\s\s
+34	!	!	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+
+# sent_id = 23
+# text = Même sans combinaison camouflée , le " prestige de l' uniforme " est assuré .
+1	Même	même	ADV	_	_	3	advmod	_	SpacesAfter=\s\s
+2	sans	sans	ADP	_	_	3	case	_	SpacesAfter=\s\s
+3	combinaison	combinaison	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	SpacesAfter=\s\s
+4	camouflée	camoufler	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	SpacesAfter=\s\s
+5	,	,	PUNCT	_	_	14	punct	_	SpacesAfter=\s\s
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	SpacesAfter=\s\s
+7	"	"	PUNCT	_	_	8	punct	_	SpacesAfter=\s\s
+8	prestige	prestige	NOUN	_	Gender=Masc|Number=Sing	14	nsubj:pass	_	SpacesAfter=\s\s
+9	de	de	ADP	_	_	11	case	_	SpacesAfter=\s\s
+10	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	11	det	_	SpacesAfter=\s\s
+11	uniforme	uniforme	PROPN	_	_	8	nmod	_	SpacesAfter=\s\s
+12	"	"	PUNCT	_	_	14	punct	_	SpacesAfter=\s\s
+13	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	SpacesAfter=\s\s
+14	assuré	assurer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\s\s
+15	.	.	PUNCT	_	_	14	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 24
+# text = Les touladis tenteront de les embusquer lorsque ces petits poissons voudront y accéder ou en ressortir .
+1	Les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	SpacesAfter=\s\s
+2	touladis	touladis	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	SpacesAfter=\s\s
+3	tenteront	tenter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+4	de	de	ADP	_	_	6	mark	_	SpacesAfter=\s\s
+5	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	6	obj	_	SpacesAfter=\s\s
+6	embusquer	embusquer	VERB	_	VerbForm=Inf	3	acl	_	SpacesAfter=\s\s
+7	lorsque	lorsque	SCONJ	_	_	11	mark	_	SpacesAfter=\s\s
+8	ces	ce	DET	_	Gender=Masc|Number=Plur|PronType=Dem	10	det	_	SpacesAfter=\s\s
+9	petits	petit	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	SpacesAfter=\s\s
+10	poissons	poisson	NOUN	_	Gender=Masc|Number=Plur	11	nsubj	_	SpacesAfter=\s\s
+11	voudront	voudr	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	6	advcl	_	SpacesAfter=\s\s
+12	y	y	ADV	_	_	13	advmod	_	SpacesAfter=\s\s
+13	accéder	accéder	VERB	_	VerbForm=Inf	11	xcomp	_	SpacesAfter=\s\s
+14	ou	ou	CCONJ	_	_	16	cc	_	SpacesAfter=\s\s
+15	en	en	PRON	_	Person=3	16	iobj	_	SpacesAfter=\s\s
+16	ressortir	ressortir	VERB	_	VerbForm=Inf	13	conj	_	SpacesAfter=\s\s
+17	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 25
+# text = " Alors , le media sportif est-il devenu l' ennemi de tous les continents ?
+1	"	"	PUNCT	_	_	9	punct	_	SpacesAfter=\s\s
+2	Alors	alors	ADV	_	_	9	advmod	_	SpacesAfter=\s\s
+3	,	,	PUNCT	_	_	9	punct	_	SpacesAfter=\s\s
+4	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	SpacesAfter=\s\s
+5	media	media	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	SpacesAfter=\s\s
+6	sportif	sportif	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	SpacesAfter=\s\s
+7	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	SpaceAfter=No
+8	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	expl	_	SpacesAfter=\s\s
+9	devenu	devenir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\s\s
+10	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	SpacesAfter=\s\s
+11	ennemi	ennemi	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	SpacesAfter=\s\s
+12	de	de	ADP	_	_	15	case	_	SpacesAfter=\s\s
+13	tous	tout	DET	_	Gender=Masc|Number=Plur	15	det	_	SpacesAfter=\s\s
+14	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	SpacesAfter=\s\s
+15	continents	continent	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	SpacesAfter=\s\s
+16	?	?	PUNCT	_	_	9	punct	_	SpacesAfter=\s\s
+
+# sent_id = 26
+# text = Où peut se blottir la superstition , où peut se cacher l' erreur , où peut s' embusquer le cinéma ?
+1	Où	où	ADV	_	_	4	advmod	_	SpacesAfter=\s\s
+2	peut	pouvoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	SpacesAfter=\s\s
+3	se	se	PRON	_	Person=3|PronType=Prs	4	expl	_	SpacesAfter=\s\s
+4	blottir	blottir	VERB	_	VerbForm=Inf	0	root	_	SpacesAfter=\s\s
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	SpacesAfter=\s\s
+6	superstition	superstition	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	SpacesAfter=\s\s
+7	,	,	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+8	où	où	PRON	_	PronType=Rel	11	advmod	_	SpacesAfter=\s\s
+9	peut	pouvoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	SpacesAfter=\s\s
+10	se	se	PRON	_	Person=3|PronType=Prs	11	expl	_	SpacesAfter=\s\s
+11	cacher	cacher	VERB	_	VerbForm=Inf	4	acl:relcl	_	SpacesAfter=\s\s
+12	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	SpacesAfter=\s\s
+13	erreur	erreur	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	SpacesAfter=\s\s
+14	,	,	PUNCT	_	_	13	punct	_	SpacesAfter=\s\s
+15	où	où	PRON	_	PronType=Rel	18	obl	_	SpacesAfter=\s\s
+16	peut	pouvoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	SpacesAfter=\s\s
+17	s'	se	PRON	_	Person=3|PronType=Prs	18	expl	_	SpacesAfter=\s\s
+18	embusquer	embusquer	VERB	_	VerbForm=Inf	13	acl:relcl	_	SpacesAfter=\s\s
+19	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	SpacesAfter=\s\s
+20	cinéma	cinéma	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	SpacesAfter=\s\s
+21	?	?	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+
+# sent_id = 27
+# text = L' ignorance est un crépuscule , le mal y rôde .
+1	L'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	SpacesAfter=\s\s
+2	ignorance	ignorance	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	SpacesAfter=\s\s
+3	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	SpacesAfter=\s\s
+4	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	SpacesAfter=\s\s
+5	crépuscule	crépuscule	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+6	,	,	PUNCT	_	_	5	punct	_	SpacesAfter=\s\s
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	SpacesAfter=\s\s
+8	mal	mal	NOUN	_	Gender=Masc|Number=Sing	5	appos	_	SpacesAfter=\s\s
+9	y	y	ADV	_	_	10	advmod	_	SpacesAfter=\s\s
+10	rôde	rôder	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	SpacesAfter=\s\s
+11	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 28
+# text = "
+1	"	"	PUNCT	_	_	0	root	_	SpacesAfter=\s\s
+
+# sent_id = 29
+# text = Le dark net n' est pas un endroit où s' embusquer " , a dit Jeff Sessions lors d' un point de presse à Washington pour annoncer le démantèlement d' AlphaBay .
+1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	SpacesAfter=\s\s
+2	dark	dark	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	SpacesAfter=\s\s
+3	net	net	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	SpacesAfter=\s\s
+4	n	n	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
+5	'	'	PUNCT	_	_	2	punct	_	SpacesAfter=\s\s
+6	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	SpacesAfter=\s\s
+7	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	SpacesAfter=\s\s
+8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	SpacesAfter=\s\s
+9	endroit	endroit	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+10	où	où	PRON	_	PronType=Rel	12	advmod	_	SpacesAfter=\s\s
+11	s'	se	PRON	_	Person=3|PronType=Prs	12	obj	_	SpacesAfter=\s\s
+12	embusquer	embusquer	VERB	_	VerbForm=Inf	16	ccomp	_	SpacesAfter=\s\s
+13	"	"	PUNCT	_	_	16	punct	_	SpacesAfter=\s\s
+14	,	,	PUNCT	_	_	16	punct	_	SpacesAfter=\s\s
+15	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	SpacesAfter=\s\s
+16	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl	_	SpacesAfter=\s\s
+17	Jeff	Jeff	PROPN	_	_	16	nsubj	_	SpacesAfter=\s\s
+18	Sessions	sessions	PROPN	_	_	17	flat:name	_	SpacesAfter=\s\s
+19	lors	lors	ADV	_	_	22	case	_	SpacesAfter=\s\s
+20	d'	de	ADP	_	_	19	fixed	_	SpacesAfter=\s\s
+21	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	SpacesAfter=\s\s
+22	point	point	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	SpacesAfter=\s\s
+23	de	de	ADP	_	_	24	case	_	SpacesAfter=\s\s
+24	presse	presse	NOUN	_	Gender=Fem|Number=Sing	22	nmod	_	SpacesAfter=\s\s
+25	à	à	ADP	_	_	26	case	_	SpacesAfter=\s\s
+26	Washington	Washington	PROPN	_	_	16	obl	_	SpacesAfter=\s\s
+27	pour	pour	ADP	_	_	28	mark	_	SpacesAfter=\s\s
+28	annoncer	annoncer	VERB	_	VerbForm=Inf	16	advcl	_	SpacesAfter=\s\s
+29	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	SpacesAfter=\s\s
+30	démantèlement	démantèlement	NOUN	_	Gender=Masc|Number=Sing	28	obj	_	SpacesAfter=\s\s
+31	d'	de	ADP	_	_	32	case	_	SpacesAfter=\s\s
+32	AlphaBay	AlphaBay	PROPN	_	_	30	nmod	_	SpacesAfter=\s\s
+33	.	.	PUNCT	_	_	9	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 30
+# text = S' adressant , lors d' un point de presse , à celles et ceux qui seraient tentés de cacher leurs activités illégales sur le web profond , Jeff Sessions a déclaré que " le dark net n' est plus un endroit où s' embusquer " pour les criminels .
+1	S'	se	PRON	_	Person=3|PronType=Prs	2	obj	_	SpacesAfter=\s\s
+2	adressant	adresser	VERB	_	Tense=Pres|VerbForm=Part	31	advcl	_	SpacesAfter=\s\s
+3	,	,	PUNCT	_	_	2	punct	_	SpacesAfter=\s\s
+4	lors	lors	ADV	_	_	7	case	_	SpacesAfter=\s\s
+5	d'	de	ADP	_	_	4	fixed	_	SpacesAfter=\s\s
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	SpacesAfter=\s\s
+7	point	point	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	SpacesAfter=\s\s
+8	de	de	ADP	_	_	9	case	_	SpacesAfter=\s\s
+9	presse	presse	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	SpacesAfter=\s\s
+10	,	,	PUNCT	_	_	2	punct	_	SpacesAfter=\s\s
+11	à	à	ADP	_	_	12	case	_	SpacesAfter=\s\s
+12	celles	celui	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	2	obl	_	SpacesAfter=\s\s
+13	et	et	CCONJ	_	_	14	cc	_	SpacesAfter=\s\s
+14	ceux	celui	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	12	conj	_	SpacesAfter=\s\s
+15	qui	qui	PRON	_	PronType=Rel	17	nsubj	_	SpacesAfter=\s\s
+16	seraient	être	AUX	_	Mood=Cnd|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	SpacesAfter=\s\s
+17	tentés	tenter	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	14	acl:relcl	_	SpacesAfter=\s\s
+18	de	de	ADP	_	_	19	mark	_	SpacesAfter=\s\s
+19	cacher	cacher	VERB	_	VerbForm=Inf	17	acl	_	SpacesAfter=\s\s
+20	leurs	son	DET	_	Gender=Fem|Number=Plur|PronType=Prs	21	nmod:poss	_	SpacesAfter=\s\s
+21	activités	activité	NOUN	_	Gender=Fem|Number=Plur	19	obj	_	SpacesAfter=\s\s
+22	illégales	illégal	ADJ	_	Gender=Fem|Number=Plur	21	amod	_	SpacesAfter=\s\s
+23	sur	sur	ADP	_	_	25	case	_	SpacesAfter=\s\s
+24	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	SpacesAfter=\s\s
+25	web	web	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	SpacesAfter=\s\s
+26	profond	profond	ADJ	_	Gender=Masc|Number=Sing	25	amod	_	SpacesAfter=\s\s
+27	,	,	PUNCT	_	_	31	punct	_	SpacesAfter=\s\s
+28	Jeff	Jeff	PROPN	_	_	31	nsubj	_	SpacesAfter=\s\s
+29	Sessions	sessions	PROPN	_	_	28	flat:name	_	SpacesAfter=\s\s
+30	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	aux	_	SpacesAfter=\s\s
+31	déclaré	déclarer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\s\s
+32	que	que	SCONJ	_	_	42	mark	_	SpacesAfter=\s\s
+33	"	"	PUNCT	_	_	42	punct	_	SpacesAfter=\s\s
+34	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	SpacesAfter=\s\s
+35	dark	dark	NOUN	_	Gender=Masc|Number=Sing	42	nsubj	_	SpacesAfter=\s\s
+36	net	net	ADJ	_	Gender=Masc|Number=Sing	35	amod	_	SpacesAfter=\s\s
+37	n	n	ADJ	_	Gender=Masc|Number=Sing	35	amod	_	SpaceAfter=No
+38	'	'	PUNCT	_	_	35	punct	_	SpacesAfter=\s\s
+39	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	cop	_	SpacesAfter=\s\s
+40	plus	plus	ADV	_	_	42	advmod	_	SpacesAfter=\s\s
+41	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	42	det	_	SpacesAfter=\s\s
+42	endroit	endroit	NOUN	_	Gender=Masc|Number=Sing	31	ccomp	_	SpacesAfter=\s\s
+43	où	où	PRON	_	PronType=Rel	45	advmod	_	SpacesAfter=\s\s
+44	s'	se	PRON	_	Person=3|PronType=Prs	45	obj	_	SpacesAfter=\s\s
+45	embusquer	embusquer	VERB	_	VerbForm=Inf	42	acl:relcl	_	SpacesAfter=\s\s
+46	"	"	PUNCT	_	_	49	punct	_	SpacesAfter=\s\s
+47	pour	pour	ADP	_	_	49	case	_	SpacesAfter=\s\s
+48	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	49	det	_	SpacesAfter=\s\s
+49	criminels	criminel	NOUN	_	Gender=Masc|Number=Plur	45	obl	_	SpacesAfter=\s\s
+50	.	.	PUNCT	_	_	31	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 31
+# text = Une alerte lancée par les victimes a alors permis aux habitants de l' embusquer .
+1	Une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	SpacesAfter=\s\s
+2	alerte	alerte	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	SpacesAfter=\s\s
+3	lancée	lancer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	SpacesAfter=\s\s
+4	par	par	ADP	_	_	6	case	_	SpacesAfter=\s\s
+5	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	SpacesAfter=\s\s
+6	victimes	victime	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	SpacesAfter=\s\s
+7	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	SpacesAfter=\s\s
+8	alors	alors	ADV	_	_	9	advmod	_	SpacesAfter=\s\s
+9	permis	permettre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\s\s
+10-11	aux	_	_	_	_	_	_	_	SpacesAfter=\s\s
+10	à	à	ADP	_	_	12	case	_	_
+11	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
+12	habitants	habitant	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	SpacesAfter=\s\s
+13	de	de	ADP	_	_	15	mark	_	SpacesAfter=\s\s
+14	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	15	obj	_	SpacesAfter=\s\s
+15	embusquer	embusquer	VERB	_	VerbForm=Inf	9	acl	_	SpacesAfter=\s\s
+16	.	.	PUNCT	_	_	9	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 32
+# text = Les Kanuri décrivent ces " peuples des herbes " , les Yedina , comme des " amphibiens " capables de s' embusquer dans les marais , sous l' eau , respirant à l' aide de roseaux et ainsi de s' y déplacer .
+1	Les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	2	det	_	SpacesAfter=\s\s
+2	Kanuri	Kanuri	PROPN	_	_	3	nsubj	_	SpacesAfter=\s\s
+3	décrivent	décrire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+4	ces	ce	DET	_	Gender=Masc|Number=Plur|PronType=Dem	6	det	_	SpacesAfter=\s\s
+5	"	"	PUNCT	_	_	6	punct	_	SpacesAfter=\s\s
+6	peuples	peuple	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	SpacesAfter=\s\s
+7-8	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+7	de	de	ADP	_	_	9	case	_	_
+8	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	herbes	herbe	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	SpacesAfter=\s\s
+10	"	"	PUNCT	_	_	6	punct	_	SpacesAfter=\s\s
+11	,	,	PUNCT	_	_	13	punct	_	SpacesAfter=\s\s
+12	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	13	det	_	SpacesAfter=\s\s
+13	Yedina	Yedina	PROPN	_	_	6	conj	_	SpacesAfter=\s\s
+14	,	,	PUNCT	_	_	6	punct	_	SpacesAfter=\s\s
+15	comme	comme	ADP	_	_	19	case	_	SpacesAfter=\s\s
+16-17	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+16	de	de	ADP	_	_	19	case	_	_
+17	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+18	"	"	PUNCT	_	_	19	punct	_	SpacesAfter=\s\s
+19	amphibiens	amphibien	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	SpacesAfter=\s\s
+20	"	"	PUNCT	_	_	21	punct	_	SpacesAfter=\s\s
+21	capables	capable	ADJ	_	Gender=Masc|Number=Plur	19	amod	_	SpacesAfter=\s\s
+22	de	de	ADP	_	_	24	mark	_	SpacesAfter=\s\s
+23	s'	se	PRON	_	Person=3|PronType=Prs	24	obj	_	SpacesAfter=\s\s
+24	embusquer	embusquer	VERB	_	VerbForm=Inf	19	acl	_	SpacesAfter=\s\s
+25	dans	dans	ADP	_	_	27	case	_	SpacesAfter=\s\s
+26	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	SpacesAfter=\s\s
+27	marais	marais	NOUN	_	Gender=Masc|Number=Plur	24	obl	_	SpacesAfter=\s\s
+28	,	,	PUNCT	_	_	3	punct	_	SpacesAfter=\s\s
+29	sous	sous	ADP	_	_	31	case	_	SpacesAfter=\s\s
+30	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	SpacesAfter=\s\s
+31	eau	eau	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	SpacesAfter=\s\s
+32	,	,	PUNCT	_	_	3	punct	_	SpacesAfter=\s\s
+33	respirant	respirer	VERB	_	Tense=Pres|VerbForm=Part	3	advcl	_	SpacesAfter=\s\s
+34	à	à	ADP	_	_	36	case	_	SpacesAfter=\s\s
+35	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	SpacesAfter=\s\s
+36	aide	aide	NOUN	_	Gender=Fem|Number=Sing	33	obl	_	SpacesAfter=\s\s
+37	de	de	ADP	_	_	38	case	_	SpacesAfter=\s\s
+38	roseaux	roseau	NOUN	_	Gender=Masc|Number=Plur	36	nmod	_	SpacesAfter=\s\s
+39	et	et	CCONJ	_	_	44	cc	_	SpacesAfter=\s\s
+40	ainsi	ainsi	ADV	_	_	39	advmod	_	SpacesAfter=\s\s
+41	de	de	ADP	_	_	44	mark	_	SpacesAfter=\s\s
+42	s'	se	PRON	_	Person=3|PronType=Prs	44	obj	_	SpacesAfter=\s\s
+43	y	y	PRON	_	_	44	iobj	_	SpacesAfter=\s\s
+44	déplacer	déplacer	VERB	_	VerbForm=Inf	38	conj	_	SpacesAfter=\s\s
+45	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 33
+# text = Le Pentagone a en outre admis qu' au moins 29 patrouilles similaires à celle qui s' est faite fatalement embusquer ont été menées par des soldats américains au Niger .
+1	Le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	SpacesAfter=\s\s
+2	Pentagone	Pentagone	PROPN	_	_	3	nsubj	_	SpacesAfter=\s\s
+3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	nsubj:pass	_	SpacesAfter=\s\s
+4	en	en	ADP	_	_	5	case	_	SpacesAfter=\s\s
+5	outre	outre	ADV	_	_	6	advmod	_	SpacesAfter=\s\s
+6	admis	admettre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	SpacesAfter=\s\s
+7	qu'	que	ADV	_	_	12	advmod	_	SpacesAfter=\s\s
+8-9	au	_	_	_	_	_	_	_	SpacesAfter=\s\s
+8	à	à	ADP	_	_	12	case	_	_
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	fixed	_	_
+10	moins	moins	ADV	_	_	11	advmod	_	SpacesAfter=\s\s
+11	29	29	NUM	_	_	12	nummod	_	SpacesAfter=\s\s
+12	patrouilles	patrouilles	NOUN	_	Gender=Fem|Number=Plur	6	obl	_	SpacesAfter=\s\s
+13	similaires	similaire	ADJ	_	Gender=Fem|Number=Plur	12	amod	_	SpacesAfter=\s\s
+14	à	à	ADP	_	_	15	case	_	SpacesAfter=\s\s
+15	celle	celui	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	6	obl	_	SpacesAfter=\s\s
+16	qui	qui	PRON	_	PronType=Rel	19	nsubj	_	SpacesAfter=\s\s
+17	s'	se	PRON	_	Person=3|PronType=Prs	19	obj	_	SpacesAfter=\s\s
+18	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	SpacesAfter=\s\s
+19	faite	faire	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	15	acl:relcl	_	SpacesAfter=\s\s
+20	fatalement	fatalement	ADV	_	_	19	advmod	_	SpacesAfter=\s\s
+21	embusquer	embusquer	VERB	_	VerbForm=Inf	19	xcomp	_	SpacesAfter=\s\s
+22	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	SpacesAfter=\s\s
+23	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	24	aux:pass	_	SpacesAfter=\s\s
+24	menées	mener	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\s\s
+25	par	par	ADP	_	_	28	case	_	SpacesAfter=\s\s
+26-27	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+26	de	de	ADP	_	_	28	case	_	_
+27	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	_
+28	soldats	soldat	NOUN	_	Gender=Masc|Number=Plur	24	obl	_	SpacesAfter=\s\s
+29	américains	américain	ADJ	_	Gender=Masc|Number=Plur	28	amod	_	SpacesAfter=\s\s
+30-31	au	_	_	_	_	_	_	_	SpacesAfter=\s\s
+30	à	à	ADP	_	_	32	case	_	_
+31	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
+32	Niger	Niger	PROPN	_	_	24	obl	_	SpacesAfter=\s\s
+33	.	.	PUNCT	_	_	24	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 34
+# text = Dans une époque qui préfère souvent s' embusquer derrière l' ironie , il est le dernier des romantiques .
+1	Dans	dans	ADP	_	_	3	case	_	SpacesAfter=\s\s
+2	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	SpacesAfter=\s\s
+3	époque	époque	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	SpacesAfter=\s\s
+4	qui	qui	PRON	_	PronType=Rel	5	nsubj	_	SpacesAfter=\s\s
+5	préfère	préférer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	SpacesAfter=\s\s
+6	souvent	souvent	ADV	_	_	5	advmod	_	SpacesAfter=\s\s
+7	s'	se	PRON	_	Person=3|PronType=Prs	8	expl	_	SpacesAfter=\s\s
+8	embusquer	embusquer	VERB	_	VerbForm=Inf	5	xcomp	_	SpacesAfter=\s\s
+9	derrière	derrière	ADP	_	_	11	case	_	SpacesAfter=\s\s
+10	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	SpacesAfter=\s\s
+11	ironie	ironie	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	SpacesAfter=\s\s
+12	,	,	PUNCT	_	_	16	punct	_	SpacesAfter=\s\s
+13	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	SpacesAfter=\s\s
+14	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	SpacesAfter=\s\s
+15	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	SpacesAfter=\s\s
+16	dernier	dernier	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+17-18	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+17	de	de	ADP	_	_	19	case	_	_
+18	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
+19	romantiques	romantique	NOUN	_	Gender=Masc|Number=Plur	16	nmod	_	SpacesAfter=\s\s
+20	.	.	PUNCT	_	_	16	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 35
+# text = Pour pouvoir les abattre et récupérer leur peau que vous pourrez revendre afin d' augmenter votre pécule , il sera utile de constituer des appâts et de vous embusquer dans les parages .
+1	Pour	pour	ADP	_	_	4	mark	_	SpacesAfter=\s\s
+2	pouvoir	pouvoir	AUX	_	VerbForm=Inf	4	aux	_	SpacesAfter=\s\s
+3	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	4	obj	_	SpacesAfter=\s\s
+4	abattre	abattre	VERB	_	VerbForm=Inf	21	advcl	_	SpacesAfter=\s\s
+5	et	et	CCONJ	_	_	6	cc	_	SpacesAfter=\s\s
+6	récupérer	récupérer	VERB	_	VerbForm=Inf	4	conj	_	SpacesAfter=\s\s
+7	leur	son	DET	_	Gender=Fem|Number=Sing|PronType=Prs	8	nmod:poss	_	SpacesAfter=\s\s
+8	peau	peau	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	SpacesAfter=\s\s
+9	que	que	SCONJ	_	_	12	mark	_	SpacesAfter=\s\s
+10	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	12	nsubj	_	SpacesAfter=\s\s
+11	pourrez	pouvoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	12	aux	_	SpacesAfter=\s\s
+12	revendre	revendre	VERB	_	VerbForm=Inf	4	ccomp	_	SpacesAfter=\s\s
+13	afin	afin	ADV	_	_	15	mark	_	SpacesAfter=\s\s
+14	d'	de	ADP	_	_	13	fixed	_	SpacesAfter=\s\s
+15	augmenter	augmenter	VERB	_	VerbForm=Inf	12	advcl	_	SpacesAfter=\s\s
+16	votre	son	DET	_	Gender=Masc|Number=Sing|PronType=Prs	17	nmod:poss	_	SpacesAfter=\s\s
+17	pécule	pécule	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	SpacesAfter=\s\s
+18	,	,	PUNCT	_	_	21	punct	_	SpacesAfter=\s\s
+19	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nsubj	_	SpacesAfter=\s\s
+20	sera	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	21	cop	_	SpacesAfter=\s\s
+21	utile	utile	ADJ	_	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+22	de	de	ADP	_	_	23	mark	_	SpacesAfter=\s\s
+23	constituer	constituer	VERB	_	VerbForm=Inf	21	acl	_	SpacesAfter=\s\s
+24-25	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+24	de	de	ADP	_	_	26	case	_	_
+25	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
+26	appâts	appât	NOUN	_	Gender=Masc|Number=Plur	23	obl	_	SpacesAfter=\s\s
+27	et	et	CCONJ	_	_	30	cc	_	SpacesAfter=\s\s
+28	de	de	ADP	_	_	30	mark	_	SpacesAfter=\s\s
+29	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	30	obj	_	SpacesAfter=\s\s
+30	embusquer	embusquer	VERB	_	VerbForm=Inf	26	conj	_	SpacesAfter=\s\s
+31	dans	dans	ADP	_	_	33	case	_	SpacesAfter=\s\s
+32	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	SpacesAfter=\s\s
+33	parages	parage	NOUN	_	Gender=Masc|Number=Plur	30	obl	_	SpacesAfter=\s\s
+34	.	.	PUNCT	_	_	21	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 36
+# text = Les moudjahidine étaient postés sur le pont séparant les Aït Maouche et les Aït Ourtilane pour s' embusquer de part et d' autre du pont et attendre l' arrivée du convoi ennemi ; et voilà qu' ils entendirent le ronronnement des moteurs .
+1	Les	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	SpacesAfter=\s\s
+2	moudjahidine	moudjahidine	NOUN	_	Gender=Fem|Number=Sing	4	nsubj:pass	_	SpacesAfter=\s\s
+3	étaient	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	4	aux:pass	_	SpacesAfter=\s\s
+4	postés	poster	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\s\s
+5	sur	sur	ADP	_	_	7	case	_	SpacesAfter=\s\s
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	SpacesAfter=\s\s
+7	pont	pont	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	SpacesAfter=\s\s
+8	séparant	séparer	VERB	_	Tense=Pres|VerbForm=Part	7	acl	_	SpacesAfter=\s\s
+9	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	10	det	_	SpacesAfter=\s\s
+10	Aït	Aït	PROPN	_	_	8	obj	_	SpacesAfter=\s\s
+11	Maouche	Maouche	PROPN	_	_	10	flat:name	_	SpacesAfter=\s\s
+12	et	et	CCONJ	_	_	14	cc	_	SpacesAfter=\s\s
+13	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	14	det	_	SpacesAfter=\s\s
+14	Aït	Aït	PROPN	_	_	10	conj	_	SpacesAfter=\s\s
+15	Ourtilane	Ourtilane	PROPN	_	_	14	flat:name	_	SpacesAfter=\s\s
+16	pour	pour	ADP	_	_	18	mark	_	SpacesAfter=\s\s
+17	s'	se	PRON	_	Person=3|PronType=Prs	18	expl	_	SpacesAfter=\s\s
+18	embusquer	embusquer	VERB	_	VerbForm=Inf	4	advcl	_	SpacesAfter=\s\s
+19	de	de	ADP	_	_	20	case	_	SpacesAfter=\s\s
+20	part	part	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	SpacesAfter=\s\s
+21	et	et	CCONJ	_	_	23	cc	_	SpacesAfter=\s\s
+22	d'	de	ADP	_	_	23	case	_	SpacesAfter=\s\s
+23	autre	autre	NOUN	_	Gender=Masc|Number=Sing	20	conj	_	SpacesAfter=\s\s
+24-25	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+24	de	de	ADP	_	_	26	case	_	_
+25	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	pont	pont	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	SpacesAfter=\s\s
+27	et	et	CCONJ	_	_	28	cc	_	SpacesAfter=\s\s
+28	attendre	attendre	VERB	_	VerbForm=Inf	18	conj	_	SpacesAfter=\s\s
+29	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	SpacesAfter=\s\s
+30	arrivée	arrivée	NOUN	_	Gender=Fem|Number=Sing	28	obj	_	SpacesAfter=\s\s
+31-32	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+31	de	de	ADP	_	_	33	case	_	_
+32	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
+33	convoi	convoi	NOUN	_	Gender=Masc|Number=Sing	30	nmod	_	SpacesAfter=\s\s
+34	ennemi	ennemi	ADJ	_	Gender=Masc|Number=Sing	33	amod	_	SpacesAfter=\s\s
+35	;	;	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+36	et	et	CCONJ	_	_	37	cc	_	SpacesAfter=\s\s
+37	voilà	voilà	VERB	_	_	40	mark	_	SpacesAfter=\s\s
+38	qu'	que	SCONJ	_	_	37	fixed	_	SpacesAfter=\s\s
+39	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	40	nsubj	_	SpacesAfter=\s\s
+40	entendirent	entendirer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	SpacesAfter=\s\s
+41	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	SpacesAfter=\s\s
+42	ronronnement	ronronnement	NOUN	_	Gender=Masc|Number=Sing	40	obj	_	SpacesAfter=\s\s
+43-44	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+43	de	de	ADP	_	_	45	case	_	_
+44	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	45	det	_	_
+45	moteurs	moteur	NOUN	_	Gender=Masc|Number=Plur	42	nmod	_	SpacesAfter=\s\s
+46	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 37
+# text = Peu après la contemplation du feu d' artifice , lundi soir , devant la stèle à Esso Maty-Morondava , plusieurs personnes allaient s' embusquer dans une église à Tanambao .
+1	Peu	peu	ADV	_	_	4	advmod	_	SpacesAfter=\s\s
+2	après	après	ADP	_	_	4	case	_	SpacesAfter=\s\s
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	SpacesAfter=\s\s
+4	contemplation	contemplation	NOUN	_	Gender=Fem|Number=Sing	25	obl	_	SpacesAfter=\s\s
+5-6	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+5	de	de	ADP	_	_	7	case	_	_
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	feu	feu	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	SpacesAfter=\s\s
+8	d'	de	ADP	_	_	9	case	_	SpacesAfter=\s\s
+9	artifice	artifice	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	SpacesAfter=\s\s
+10	,	,	PUNCT	_	_	11	punct	_	SpacesAfter=\s\s
+11	lundi	lundi	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	SpacesAfter=\s\s
+12	soir	soir	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	SpacesAfter=\s\s
+13	,	,	PUNCT	_	_	11	punct	_	SpacesAfter=\s\s
+14	devant	devant	ADP	_	_	16	case	_	SpacesAfter=\s\s
+15	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	SpacesAfter=\s\s
+16	stèle	stèle	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpacesAfter=\s\s
+17	à	à	ADP	_	_	18	case	_	SpacesAfter=\s\s
+18	Esso	Esso	PROPN	_	_	16	nmod	_	SpacesAfter=\s\s
+19	Maty-Morondava	Maty-Morondava	PROPN	_	_	18	flat:name	_	SpacesAfter=\s\s
+20	,	,	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+21	plusieurs	plusieurs	DET	_	Gender=Fem|Number=Plur	22	det	_	SpacesAfter=\s\s
+22	personnes	personne	NOUN	_	Gender=Fem|Number=Plur	25	nsubj	_	SpacesAfter=\s\s
+23	allaient	aller	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	25	aux	_	SpacesAfter=\s\s
+24	s'	se	PRON	_	Person=3|PronType=Prs	25	obj	_	SpacesAfter=\s\s
+25	embusquer	embusquer	VERB	_	VerbForm=Inf	0	root	_	SpacesAfter=\s\s
+26	dans	dans	ADP	_	_	28	case	_	SpacesAfter=\s\s
+27	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	28	det	_	SpacesAfter=\s\s
+28	église	église	NOUN	_	Gender=Fem|Number=Sing	25	obl	_	SpacesAfter=\s\s
+29	à	à	ADP	_	_	30	case	_	SpacesAfter=\s\s
+30	Tanambao	Tanambao	PROPN	_	_	28	nmod	_	SpacesAfter=\s\s
+31	.	.	PUNCT	_	_	25	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 38
+# text = Avec une population de seulement 12.000 habitants , cette zone revêtait une importance stratégique de par sa nature : un terrain sauvage traversé par des montagnes , des forêts et des cours d' eau , où les guérillos pouvaient aisément s' embusquer .
+1	Avec	avec	ADP	_	_	3	case	_	SpacesAfter=\s\s
+2	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	SpacesAfter=\s\s
+3	population	population	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	SpacesAfter=\s\s
+4	de	de	ADP	_	_	7	case	_	SpacesAfter=\s\s
+5	seulement	seulement	ADV	_	_	6	advmod	_	SpacesAfter=\s\s
+6	12.000	12.000	NUM	_	_	7	nummod	_	SpacesAfter=\s\s
+7	habitants	habitant	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	SpacesAfter=\s\s
+8	,	,	PUNCT	_	_	3	punct	_	SpacesAfter=\s\s
+9	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	SpacesAfter=\s\s
+10	zone	zone	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	SpacesAfter=\s\s
+11	revêtait	revêtir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+12	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	SpacesAfter=\s\s
+13	importance	importance	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	SpacesAfter=\s\s
+14	stratégique	stratégique	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	SpacesAfter=\s\s
+15	de	de	ADP	_	_	18	case	_	SpacesAfter=\s\s
+16	par	par	ADP	_	_	18	case	_	SpacesAfter=\s\s
+17	sa	son	DET	_	Gender=Fem|Number=Sing|PronType=Prs	18	nmod:poss	_	SpacesAfter=\s\s
+18	nature	nature	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	SpacesAfter=\s\s
+19	:	:	PUNCT	_	_	11	punct	_	SpacesAfter=\s\s
+20	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	SpacesAfter=\s\s
+21	terrain	terrain	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	SpacesAfter=\s\s
+22	sauvage	sauvage	ADJ	_	Gender=Masc|Number=Sing	21	amod	_	SpacesAfter=\s\s
+23	traversé	traverser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	acl	_	SpacesAfter=\s\s
+24	par	par	ADP	_	_	27	case	_	SpacesAfter=\s\s
+25-26	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+25	de	de	ADP	_	_	27	case	_	_
+26	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	27	det	_	_
+27	montagnes	montagne	NOUN	_	Gender=Fem|Number=Plur	23	obl	_	SpacesAfter=\s\s
+28	,	,	PUNCT	_	_	31	punct	_	SpacesAfter=\s\s
+29-30	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+29	de	de	ADP	_	_	31	case	_	_
+30	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	31	det	_	_
+31	forêts	forêt	NOUN	_	Gender=Fem|Number=Plur	27	conj	_	SpacesAfter=\s\s
+32	et	et	CCONJ	_	_	35	cc	_	SpacesAfter=\s\s
+33-34	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+33	de	de	ADP	_	_	35	case	_	_
+34	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	35	det	_	_
+35	cours	cours	NOUN	_	Gender=Masc|Number=Plur	27	conj	_	SpacesAfter=\s\s
+36	d'	de	ADP	_	_	37	case	_	SpacesAfter=\s\s
+37	eau	eau	NOUN	_	Gender=Fem|Number=Sing	35	nmod	_	SpacesAfter=\s\s
+38	,	,	PUNCT	_	_	35	punct	_	SpacesAfter=\s\s
+39	où	où	PRON	_	PronType=Rel	45	advmod	_	SpacesAfter=\s\s
+40	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	41	det	_	SpacesAfter=\s\s
+41	guérillos	guérillo	NOUN	_	Gender=Masc|Number=Plur	45	nsubj	_	SpacesAfter=\s\s
+42	pouvaient	pouvoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	45	aux	_	SpacesAfter=\s\s
+43	aisément	aisément	ADV	_	_	45	advmod	_	SpacesAfter=\s\s
+44	s'	se	PRON	_	Person=3|PronType=Prs	45	obj	_	SpacesAfter=\s\s
+45	embusquer	embusquer	VERB	_	VerbForm=Inf	35	acl:relcl	_	SpacesAfter=\s\s
+46	.	.	PUNCT	_	_	11	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 39
+# text = Il est trop facile de jouer les snipers fantômes , de s' embusquer dans une technologie pour mieux armer sa défiance , pour mieux brailler contre les différentes engeances , avant de se rendormir sur le mol édredon de sa pusillanimité après avoir fait bicher les copains retweeteurs .
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpacesAfter=\s\s
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	SpacesAfter=\s\s
+3	trop	trop	ADV	_	_	4	advmod	_	SpacesAfter=\s\s
+4	facile	facile	ADJ	_	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+5	de	de	ADP	_	_	6	mark	_	SpacesAfter=\s\s
+6	jouer	jouer	VERB	_	VerbForm=Inf	4	acl	_	SpacesAfter=\s\s
+7	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	SpacesAfter=\s\s
+8	snipers	sniper	NOUN	_	Gender=Masc|Number=Plur	6	obj	_	SpacesAfter=\s\s
+9	fantômes	fantôme	ADJ	_	Gender=Masc|Number=Plur	8	amod	_	SpacesAfter=\s\s
+10	,	,	PUNCT	_	_	13	punct	_	SpacesAfter=\s\s
+11	de	de	ADP	_	_	13	mark	_	SpacesAfter=\s\s
+12	s'	se	PRON	_	Person=3|PronType=Prs	13	obj	_	SpacesAfter=\s\s
+13	embusquer	embusquer	VERB	_	VerbForm=Inf	6	conj	_	SpacesAfter=\s\s
+14	dans	dans	ADP	_	_	16	case	_	SpacesAfter=\s\s
+15	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	SpacesAfter=\s\s
+16	technologie	technologie	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	SpacesAfter=\s\s
+17	pour	pour	ADP	_	_	19	mark	_	SpacesAfter=\s\s
+18	mieux	mieux	ADV	_	_	19	advmod	_	SpacesAfter=\s\s
+19	armer	arer	VERB	_	VerbForm=Inf	6	advcl	_	SpacesAfter=\s\s
+20	sa	son	DET	_	Gender=Fem|Number=Sing|PronType=Prs	21	nmod:poss	_	SpacesAfter=\s\s
+21	défiance	défiance	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	SpacesAfter=\s\s
+22	,	,	PUNCT	_	_	19	punct	_	SpacesAfter=\s\s
+23	pour	pour	ADP	_	_	25	mark	_	SpacesAfter=\s\s
+24	mieux	mieux	ADV	_	_	25	advmod	_	SpacesAfter=\s\s
+25	brailler	brailler	VERB	_	VerbForm=Inf	19	advcl	_	SpacesAfter=\s\s
+26	contre	contre	ADP	_	_	29	case	_	SpacesAfter=\s\s
+27	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	29	det	_	SpacesAfter=\s\s
+28	différentes	différent	DET	_	Gender=Fem|Number=Plur	29	det	_	SpacesAfter=\s\s
+29	engeances	engeance	NOUN	_	Gender=Fem|Number=Plur	25	obl	_	SpacesAfter=\s\s
+30	,	,	PUNCT	_	_	19	punct	_	SpacesAfter=\s\s
+31	avant	avant	ADV	_	_	34	mark	_	SpacesAfter=\s\s
+32	de	de	ADP	_	_	31	fixed	_	SpacesAfter=\s\s
+33	se	se	PRON	_	Person=3|PronType=Prs	34	expl	_	SpacesAfter=\s\s
+34	rendormir	rendormir	VERB	_	VerbForm=Inf	19	advcl	_	SpacesAfter=\s\s
+35	sur	sur	ADP	_	_	38	case	_	SpacesAfter=\s\s
+36	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	SpacesAfter=\s\s
+37	mol	mole	ADJ	_	Gender=Masc|Number=Sing	38	amod	_	SpacesAfter=\s\s
+38	édredon	édredon	NOUN	_	Gender=Masc|Number=Sing	34	obl	_	SpacesAfter=\s\s
+39	de	de	ADP	_	_	41	case	_	SpacesAfter=\s\s
+40	sa	son	DET	_	Gender=Fem|Number=Sing|PronType=Prs	41	nmod:poss	_	SpacesAfter=\s\s
+41	pusillanimité	pusillanimité	NOUN	_	Gender=Fem|Number=Sing	38	nmod	_	SpacesAfter=\s\s
+42	après	après	ADP	_	_	44	mark	_	SpacesAfter=\s\s
+43	avoir	avoir	AUX	_	VerbForm=Inf	44	aux	_	SpacesAfter=\s\s
+44	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	34	advcl	_	SpacesAfter=\s\s
+45	bicher	bicher	VERB	_	VerbForm=Inf	44	xcomp	_	SpacesAfter=\s\s
+46	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	47	det	_	SpacesAfter=\s\s
+47	copains	copain	NOUN	_	Gender=Masc|Number=Plur	45	obj	_	SpacesAfter=\s\s
+48	retweeteurs	retweeteur	ADJ	_	Gender=Masc|Number=Plur	47	amod	_	SpacesAfter=\s\s
+49	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 40
+# text = En effet , les Nautilus , Sargo , Seawolf , Skate ( 1 ) , Triton et autres submersibles atomiques américains ( onze seront en service cette année , vingt autres sont commandés ) pourront , dans un avenir prochain , s' embusquer sous les glaces arctiques , à l' abri de toute détection , quasi invulnérables , et y attendre des mois durant l' heure d' une éventuelle attaque contre l' U.R.S.S.
+1	En	en	ADP	_	_	2	case	_	SpacesAfter=\s\s
+2	effet	effet	NOUN	_	Gender=Masc|Number=Sing	43	obl	_	SpacesAfter=\s\s
+3	,	,	PUNCT	_	_	43	punct	_	SpacesAfter=\s\s
+4	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	5	det	_	SpacesAfter=\s\s
+5	Nautilus	Nautilus	PROPN	_	_	43	nsubj	_	SpacesAfter=\s\s
+6	,	,	PUNCT	_	_	7	punct	_	SpacesAfter=\s\s
+7	Sargo	Sargo	PROPN	_	_	5	conj	_	SpacesAfter=\s\s
+8	,	,	PUNCT	_	_	9	punct	_	SpacesAfter=\s\s
+9	Seawolf	Seawolf	PROPN	_	_	5	conj	_	SpacesAfter=\s\s
+10	,	,	PUNCT	_	_	11	punct	_	SpacesAfter=\s\s
+11	Skate	Skate	PROPN	_	_	5	conj	_	SpacesAfter=\s\s
+12	(	(	PUNCT	_	_	13	punct	_	SpacesAfter=\s\s
+13	1	1	NUM	_	_	11	nmod	_	SpacesAfter=\s\s
+14	)	)	PUNCT	_	_	13	punct	_	SpacesAfter=\s\s
+15	,	,	PUNCT	_	_	16	punct	_	SpacesAfter=\s\s
+16	Triton	Triton	PROPN	_	_	5	conj	_	SpacesAfter=\s\s
+17	et	et	CCONJ	_	_	19	cc	_	SpacesAfter=\s\s
+18	autres	autre	ADJ	_	Gender=Masc|Number=Plur	19	amod	_	SpacesAfter=\s\s
+19	submersibles	submersible	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	SpacesAfter=\s\s
+20	atomiques	atomique	ADJ	_	Gender=Masc|Number=Plur	19	amod	_	SpacesAfter=\s\s
+21	américains	américain	ADJ	_	Gender=Masc|Number=Plur	19	amod	_	SpacesAfter=\s\s
+22	(	(	PUNCT	_	_	26	punct	_	SpacesAfter=\s\s
+23	onze	onze	PRON	_	Number=Plur	26	nsubj	_	SpacesAfter=\s\s
+24	seront	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	26	cop	_	SpacesAfter=\s\s
+25	en	en	ADP	_	_	26	case	_	SpacesAfter=\s\s
+26	service	service	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	SpacesAfter=\s\s
+27	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	28	det	_	SpacesAfter=\s\s
+28	année	année	NOUN	_	Gender=Fem|Number=Sing	26	nmod	_	SpacesAfter=\s\s
+29	,	,	PUNCT	_	_	33	punct	_	SpacesAfter=\s\s
+30	vingt	vingt	NUM	_	_	31	nummod	_	SpacesAfter=\s\s
+31	autres	autre	PRON	_	Number=Plur	33	nsubj:pass	_	SpacesAfter=\s\s
+32	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	33	aux:pass	_	SpacesAfter=\s\s
+33	commandés	commandé	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	26	conj	_	SpacesAfter=\s\s
+34	)	)	PUNCT	_	_	26	punct	_	SpacesAfter=\s\s
+35	pourront	pouvoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	43	aux	_	SpacesAfter=\s\s
+36	,	,	PUNCT	_	_	43	punct	_	SpacesAfter=\s\s
+37	dans	dans	ADP	_	_	39	case	_	SpacesAfter=\s\s
+38	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	39	det	_	SpacesAfter=\s\s
+39	avenir	avenir	NOUN	_	Gender=Masc|Number=Sing	43	obl	_	SpacesAfter=\s\s
+40	prochain	prochain	ADJ	_	Gender=Masc|Number=Sing	39	amod	_	SpacesAfter=\s\s
+41	,	,	PUNCT	_	_	43	punct	_	SpacesAfter=\s\s
+42	s'	se	PRON	_	Person=3|PronType=Prs	43	obj	_	SpacesAfter=\s\s
+43	embusquer	embusquer	VERB	_	VerbForm=Inf	0	root	_	SpacesAfter=\s\s
+44	sous	sous	ADP	_	_	46	case	_	SpacesAfter=\s\s
+45	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	46	det	_	SpacesAfter=\s\s
+46	glaces	glace	NOUN	_	Gender=Fem|Number=Plur	43	obl	_	SpacesAfter=\s\s
+47	arctiques	arctique	ADJ	_	Gender=Fem|Number=Plur	46	amod	_	SpacesAfter=\s\s
+48	,	,	PUNCT	_	_	43	punct	_	SpacesAfter=\s\s
+49	à	à	ADP	_	_	51	case	_	SpacesAfter=\s\s
+50	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	51	det	_	SpacesAfter=\s\s
+51	abri	abri	NOUN	_	Gender=Masc|Number=Sing	43	obl	_	SpacesAfter=\s\s
+52	de	de	ADP	_	_	54	case	_	SpacesAfter=\s\s
+53	toute	tout	DET	_	Gender=Fem|Number=Sing	54	det	_	SpacesAfter=\s\s
+54	détection	détection	NOUN	_	Gender=Fem|Number=Sing	51	nmod	_	SpacesAfter=\s\s
+55	,	,	PUNCT	_	_	51	punct	_	SpacesAfter=\s\s
+56	quasi	quasi	ADV	_	_	57	advmod	_	SpacesAfter=\s\s
+57	invulnérables	invulnérable	ADJ	_	Gender=Masc|Number=Plur	51	amod	_	SpacesAfter=\s\s
+58	,	,	PUNCT	_	_	43	punct	_	SpacesAfter=\s\s
+59	et	et	CCONJ	_	_	61	cc	_	SpacesAfter=\s\s
+60	y	y	ADV	_	_	61	advmod	_	SpacesAfter=\s\s
+61	attendre	attendre	VERB	_	VerbForm=Inf	43	conj	_	SpacesAfter=\s\s
+62-63	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+62	de	de	ADP	_	_	64	case	_	_
+63	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	64	det	_	_
+64	mois	mois	NOUN	_	Gender=Masc|Number=Plur	61	obl	_	SpacesAfter=\s\s
+65	durant	durant	ADP	_	_	67	case	_	SpacesAfter=\s\s
+66	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	67	det	_	SpacesAfter=\s\s
+67	heure	heure	NOUN	_	Gender=Fem|Number=Sing	61	obl	_	SpacesAfter=\s\s
+68	d'	de	ADP	_	_	71	case	_	SpacesAfter=\s\s
+69	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	71	det	_	SpacesAfter=\s\s
+70	éventuelle	éventuel	ADJ	_	Gender=Fem|Number=Sing	71	amod	_	SpacesAfter=\s\s
+71	attaque	attaque	NOUN	_	Gender=Fem|Number=Sing	67	nmod	_	SpacesAfter=\s\s
+72	contre	contre	ADP	_	_	74	case	_	SpacesAfter=\s\s
+73	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	74	det	_	SpacesAfter=\s\s
+74	U.R.S.S.	U.R.S.S.	PROPN	_	_	71	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 41
+# text = C' est là que cet homme qui faisait profession d' athéisme avait décidé de s' embusquer pendant cinq semaines pour guetter Dieu .
+1	C'	ce	PRON	_	Number=Sing|Person=3|PronType=Dem	3	nsubj	_	SpacesAfter=\s\s
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	SpacesAfter=\s\s
+3	là	là	ADV	_	_	0	root	_	SpacesAfter=\s\s
+4	que	que	SCONJ	_	_	13	mark	_	SpacesAfter=\s\s
+5	cet	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	SpacesAfter=\s\s
+6	homme	homme	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	SpacesAfter=\s\s
+7	qui	qui	PRON	_	PronType=Rel	8	nsubj	_	SpacesAfter=\s\s
+8	faisait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	acl:relcl	_	SpacesAfter=\s\s
+9	profession	profession	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	SpacesAfter=\s\s
+10	d'	de	ADP	_	_	11	case	_	SpacesAfter=\s\s
+11	athéisme	athéisme	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	SpacesAfter=\s\s
+12	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	aux	_	SpacesAfter=\s\s
+13	décidé	décider	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	ccomp	_	SpacesAfter=\s\s
+14	de	de	ADP	_	_	16	mark	_	SpacesAfter=\s\s
+15	s'	se	PRON	_	Person=3|PronType=Prs	16	obj	_	SpacesAfter=\s\s
+16	embusquer	embusquer	VERB	_	VerbForm=Inf	13	acl	_	SpacesAfter=\s\s
+17	pendant	pendant	ADP	_	_	19	case	_	SpacesAfter=\s\s
+18	cinq	cinq	NUM	_	_	19	nummod	_	SpacesAfter=\s\s
+19	semaines	semaine	NOUN	_	Gender=Fem|Number=Plur	16	obl	_	SpacesAfter=\s\s
+20	pour	pour	ADP	_	_	21	mark	_	SpacesAfter=\s\s
+21	guetter	guetter	VERB	_	VerbForm=Inf	16	advcl	_	SpacesAfter=\s\s
+22	Dieu	Dieu	PROPN	_	_	21	obj	_	SpacesAfter=\s\s
+23	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 42
+# text = En fait , partout où les dorés peuvent se cacher afin de se sentir en sécurité et se reposer ainsi que pour chasser et embusquer d' éventuelles proies .
+1	En	en	ADP	_	_	2	case	_	SpacesAfter=\s\s
+2	fait	fait	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+3	,	,	PUNCT	_	_	2	punct	_	SpacesAfter=\s\s
+4	partout	partout	ADV	_	_	2	advmod	_	SpacesAfter=\s\s
+5	où	où	PRON	_	PronType=Rel	10	advmod	_	SpacesAfter=\s\s
+6	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	SpacesAfter=\s\s
+7	dorés	doré	NOUN	_	Gender=Masc|Number=Plur	10	nsubj	_	SpacesAfter=\s\s
+8	peuvent	pouvoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	SpacesAfter=\s\s
+9	se	se	PRON	_	Person=3|PronType=Prs	10	obj	_	SpacesAfter=\s\s
+10	cacher	cacher	VERB	_	VerbForm=Inf	4	acl:relcl	_	SpacesAfter=\s\s
+11	afin	afin	ADV	_	_	14	mark	_	SpacesAfter=\s\s
+12	de	de	ADP	_	_	11	fixed	_	SpacesAfter=\s\s
+13	se	se	PRON	_	Person=3|PronType=Prs	14	obj	_	SpacesAfter=\s\s
+14	sentir	sentir	VERB	_	VerbForm=Inf	10	advcl	_	SpacesAfter=\s\s
+15	en	en	ADP	_	_	16	case	_	SpacesAfter=\s\s
+16	sécurité	sécurité	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	SpacesAfter=\s\s
+17	et	et	CCONJ	_	_	19	cc	_	SpacesAfter=\s\s
+18	se	se	PRON	_	Person=3|PronType=Prs	19	expl	_	SpacesAfter=\s\s
+19	reposer	reposer	VERB	_	VerbForm=Inf	14	conj	_	SpacesAfter=\s\s
+20	ainsi	ainsi	ADV	_	_	19	advmod	_	SpacesAfter=\s\s
+21	que	que	SCONJ	_	_	23	mark	_	SpacesAfter=\s\s
+22	pour	pour	ADP	_	_	23	mark	_	SpacesAfter=\s\s
+23	chasser	chasser	VERB	_	VerbForm=Inf	19	advcl	_	SpacesAfter=\s\s
+24	et	et	CCONJ	_	_	25	cc	_	SpacesAfter=\s\s
+25	embusquer	embusquer	VERB	_	VerbForm=Inf	23	conj	_	SpacesAfter=\s\s
+26	d'	de	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	28	det	_	SpacesAfter=\s\s
+27	éventuelles	éventuel	ADJ	_	Gender=Fem|Number=Plur	28	amod	_	SpacesAfter=\s\s
+28	proies	proie	NOUN	_	Gender=Fem|Number=Plur	25	obj	_	SpacesAfter=\s\s
+29	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 43
+# text = Sitôt dit , sitôt compris , l' un de ses frères , meilleur tireur de la région , prit le fusil de chasse pour aller s' embusquer sur un chemin habituellement emprunté par le caïd .
+1	Sitôt	sitôt	ADV	_	_	2	advmod	_	SpacesAfter=\s\s
+2	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	acl	_	SpacesAfter=\s\s
+3	,	,	PUNCT	_	_	5	punct	_	SpacesAfter=\s\s
+4	sitôt	sitôt	ADV	_	_	5	advmod	_	SpacesAfter=\s\s
+5	compris	comprendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	SpacesAfter=\s\s
+6	,	,	PUNCT	_	_	19	punct	_	SpacesAfter=\s\s
+7	l'	l'	PART	_	_	8	expl	_	SpacesAfter=\s\s
+8	un	un	PRON	_	Gender=Masc|Number=Sing	19	nsubj	_	SpacesAfter=\s\s
+9	de	de	ADP	_	_	11	case	_	SpacesAfter=\s\s
+10	ses	son	DET	_	Gender=Masc|Number=Plur|PronType=Prs	11	nmod:poss	_	SpacesAfter=\s\s
+11	frères	frère	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	SpacesAfter=\s\s
+12	,	,	PUNCT	_	_	14	punct	_	SpacesAfter=\s\s
+13	meilleur	meilleur	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	SpacesAfter=\s\s
+14	tireur	tireur	NOUN	_	Gender=Masc|Number=Sing	8	appos	_	SpacesAfter=\s\s
+15	de	de	ADP	_	_	17	case	_	SpacesAfter=\s\s
+16	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	SpacesAfter=\s\s
+17	région	région	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	SpacesAfter=\s\s
+18	,	,	PUNCT	_	_	14	punct	_	SpacesAfter=\s\s
+19	prit	prendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+20	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	SpacesAfter=\s\s
+21	fusil	fusil	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	SpacesAfter=\s\s
+22	de	de	ADP	_	_	23	case	_	SpacesAfter=\s\s
+23	chasse	chasse	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	SpacesAfter=\s\s
+24	pour	pour	ADP	_	_	25	mark	_	SpacesAfter=\s\s
+25	aller	aller	VERB	_	VerbForm=Inf	19	advcl	_	SpacesAfter=\s\s
+26	s'	se	PRON	_	Person=3|PronType=Prs	27	obj	_	SpacesAfter=\s\s
+27	embusquer	embusquer	VERB	_	VerbForm=Inf	25	xcomp	_	SpacesAfter=\s\s
+28	sur	sur	ADP	_	_	30	case	_	SpacesAfter=\s\s
+29	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	30	det	_	SpacesAfter=\s\s
+30	chemin	chemin	NOUN	_	Gender=Masc|Number=Sing	27	obl	_	SpacesAfter=\s\s
+31	habituellement	habituellement	ADV	_	_	32	advmod	_	SpacesAfter=\s\s
+32	emprunté	emprunter	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	30	acl	_	SpacesAfter=\s\s
+33	par	par	ADP	_	_	35	case	_	SpacesAfter=\s\s
+34	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	SpacesAfter=\s\s
+35	caïd	caïd	NOUN	_	Gender=Masc|Number=Sing	32	obl	_	SpacesAfter=\s\s
+36	.	.	PUNCT	_	_	19	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 44
+# text = Que non , pour faire leur sale guerre , ils préfèrent comme toujours , s' embusquer .
+1	Que	que	ADV	_	_	2	advmod	_	SpacesAfter=\s\s
+2	non	non	ADV	_	_	11	advmod	_	SpacesAfter=\s\s
+3	,	,	PUNCT	_	_	11	punct	_	SpacesAfter=\s\s
+4	pour	pour	ADP	_	_	5	mark	_	SpacesAfter=\s\s
+5	faire	faire	VERB	_	VerbForm=Inf	11	advcl	_	SpacesAfter=\s\s
+6	leur	son	DET	_	Gender=Fem|Number=Sing|PronType=Prs	8	nmod:poss	_	SpacesAfter=\s\s
+7	sale	sale	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	SpacesAfter=\s\s
+8	guerre	guerre	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	SpacesAfter=\s\s
+9	,	,	PUNCT	_	_	5	punct	_	SpacesAfter=\s\s
+10	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	11	nsubj	_	SpacesAfter=\s\s
+11	préfèrent	préférer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+12	comme	comme	ADP	_	_	13	case	_	SpacesAfter=\s\s
+13	toujours	toujours	ADV	_	_	11	advmod	_	SpacesAfter=\s\s
+14	,	,	PUNCT	_	_	11	punct	_	SpacesAfter=\s\s
+15	s'	se	PRON	_	Person=3|PronType=Prs	16	obj	_	SpacesAfter=\s\s
+16	embusquer	embusquer	VERB	_	VerbForm=Inf	11	xcomp	_	SpacesAfter=\s\s
+17	.	.	PUNCT	_	_	11	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 45
+# text = Dans le sud-est de la Creuse , l' association Pays ' sage aime embusquer des comédiens , conteurs ou bateleurs au long de ses populaires Chemins de rencontre du 15 août .
+1	Dans	dans	ADP	_	_	3	case	_	SpacesAfter=\s\s
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	SpacesAfter=\s\s
+3	sud-est	sud-est	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	SpacesAfter=\s\s
+4	de	de	ADP	_	_	6	case	_	SpacesAfter=\s\s
+5	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	SpacesAfter=\s\s
+6	Creuse	Creuse	PROPN	_	_	3	nmod	_	SpacesAfter=\s\s
+7	,	,	PUNCT	_	_	13	punct	_	SpacesAfter=\s\s
+8	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	SpacesAfter=\s\s
+9	association	association	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	SpacesAfter=\s\s
+10	Pays	pays	PROPN	_	_	9	appos	_	SpacesAfter=\s\s
+11	'	'	PUNCT	_	_	10	punct	_	SpacesAfter=\s\s
+12	sage	sage	NOUN	_	Gender=Masc|Number=Sing	10	compound	_	SpacesAfter=\s\s
+13	aime	amie	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+14	embusquer	embusquer	VERB	_	VerbForm=Inf	13	xcomp	_	SpacesAfter=\s\s
+15-16	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+15	de	de	ADP	_	_	17	case	_	_
+16	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
+17	comédiens	comédien	NOUN	_	Gender=Masc|Number=Plur	14	obl	_	SpacesAfter=\s\s
+18	,	,	PUNCT	_	_	19	punct	_	SpacesAfter=\s\s
+19	conteurs	conteur	NOUN	_	Gender=Masc|Number=Plur	17	conj	_	SpacesAfter=\s\s
+20	ou	ou	CCONJ	_	_	21	cc	_	SpacesAfter=\s\s
+21	bateleurs	bateleur	NOUN	_	Gender=Masc|Number=Plur	19	conj	_	SpacesAfter=\s\s
+22-23	au	_	_	_	_	_	_	_	SpacesAfter=\s\s
+22	à	à	ADP	_	_	24	case	_	_
+23	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	long	long	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	SpacesAfter=\s\s
+25	de	de	ADP	_	_	28	case	_	SpacesAfter=\s\s
+26	ses	son	DET	_	Gender=Masc|Number=Plur|PronType=Prs	28	nmod:poss	_	SpacesAfter=\s\s
+27	populaires	populaire	ADJ	_	Gender=Masc|Number=Plur	28	amod	_	SpacesAfter=\s\s
+28	Chemins	Chemins	NOUN	_	Gender=Masc|Number=Plur	24	nmod	_	SpacesAfter=\s\s
+29	de	de	ADP	_	_	30	case	_	SpacesAfter=\s\s
+30	rencontre	rencontre	NOUN	_	Gender=Fem|Number=Sing	28	nmod	_	SpacesAfter=\s\s
+31-32	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+31	de	de	ADP	_	_	34	case	_	_
+32	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
+33	15	15	NUM	_	_	34	nummod	_	SpacesAfter=\s\s
+34	août	août	NOUN	_	Gender=Masc|Number=Sing	30	nmod	_	SpacesAfter=\s\s
+35	.	.	PUNCT	_	_	13	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 46
+# text = Avant de s' embusquer à un endroit spécifique , il faut préparer des petites branches à casser au besoin suivant l' approche probable d' un orignal .
+1	Avant	avant	ADV	_	_	4	mark	_	SpacesAfter=\s\s
+2	de	de	ADP	_	_	1	fixed	_	SpacesAfter=\s\s
+3	s'	se	PRON	_	Person=3|PronType=Prs	4	obj	_	SpacesAfter=\s\s
+4	embusquer	embusquer	VERB	_	VerbForm=Inf	12	advcl	_	SpacesAfter=\s\s
+5	à	à	ADP	_	_	7	case	_	SpacesAfter=\s\s
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	SpacesAfter=\s\s
+7	endroit	endroit	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	SpacesAfter=\s\s
+8	spécifique	spécifique	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	SpacesAfter=\s\s
+9	,	,	PUNCT	_	_	12	punct	_	SpacesAfter=\s\s
+10	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	SpacesAfter=\s\s
+11	faut	falloir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	SpacesAfter=\s\s
+12	préparer	préparer	VERB	_	VerbForm=Inf	0	root	_	SpacesAfter=\s\s
+13-14	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+13	de	de	ADP	_	_	16	case	_	_
+14	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
+15	petites	petit	ADJ	_	Gender=Fem|Number=Plur	16	amod	_	SpacesAfter=\s\s
+16	branches	branche	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	SpacesAfter=\s\s
+17	à	à	ADP	_	_	18	mark	_	SpacesAfter=\s\s
+18	casser	casser	VERB	_	VerbForm=Inf	12	acl	_	SpacesAfter=\s\s
+19-20	au	_	_	_	_	_	_	_	SpacesAfter=\s\s
+19	à	à	ADP	_	_	21	case	_	_
+20	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	besoin	besoin	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	SpacesAfter=\s\s
+22	suivant	suivant	ADP	_	_	24	case	_	SpacesAfter=\s\s
+23	l'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	SpacesAfter=\s\s
+24	approche	approche	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	SpacesAfter=\s\s
+25	probable	probable	ADJ	_	Gender=Fem|Number=Sing	24	amod	_	SpacesAfter=\s\s
+26	d'	de	ADP	_	_	28	case	_	SpacesAfter=\s\s
+27	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	SpacesAfter=\s\s
+28	orignal	orignal	NOUN	_	Gender=Masc|Number=Sing	24	nmod	_	SpacesAfter=\s\s
+29	.	.	PUNCT	_	_	12	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 47
+# text = Comme le glisse avec humour un éminent membre du groupe Les Républicains de la Chambre haute , " une partie des sénateurs LR veut embusquer le gouvernement comme à la bataille de Roncevaux " .
+1	Comme	comme	ADP	_	_	3	case	_	SpacesAfter=\s\s
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	SpacesAfter=\s\s
+3	glisse	glisse	NOUN	_	Gender=Fem|Number=Sing	27	obl	_	SpacesAfter=\s\s
+4	avec	avec	ADP	_	_	5	case	_	SpacesAfter=\s\s
+5	humour	humour	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	SpacesAfter=\s\s
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	SpacesAfter=\s\s
+7	éminent	éminent	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	SpacesAfter=\s\s
+8	membre	membre	NOUN	_	Gender=Masc|Number=Sing	27	nsubj	_	SpacesAfter=\s\s
+9-10	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+9	de	de	ADP	_	_	11	case	_	_
+10	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	groupe	groupe	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpacesAfter=\s\s
+12	Les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	SpacesAfter=\s\s
+13	Républicains	républicain	NOUN	_	Gender=Masc|Number=Plur	11	appos	_	SpacesAfter=\s\s
+14	de	de	ADP	_	_	16	case	_	SpacesAfter=\s\s
+15	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	SpacesAfter=\s\s
+16	Chambre	chambre	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpacesAfter=\s\s
+17	haute	haut	ADJ	_	Gender=Fem|Number=Sing	16	amod	_	SpacesAfter=\s\s
+18	,	,	PUNCT	_	_	13	punct	_	SpacesAfter=\s\s
+19	"	"	PUNCT	_	_	21	punct	_	SpacesAfter=\s\s
+20	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	SpacesAfter=\s\s
+21	partie	partie	NOUN	_	Gender=Fem|Number=Sing	13	appos	_	SpacesAfter=\s\s
+22-23	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+22	de	de	ADP	_	_	24	case	_	_
+23	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
+24	sénateurs	sénateur	NOUN	_	Gender=Masc|Number=Plur	21	nmod	_	SpacesAfter=\s\s
+25	LR	LR	PROPN	_	_	24	appos	_	SpacesAfter=\s\s
+26	veut	vouloir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux	_	SpacesAfter=\s\s
+27	embusquer	embusquer	VERB	_	VerbForm=Inf	0	root	_	SpacesAfter=\s\s
+28	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	SpacesAfter=\s\s
+29	gouvernement	gouvernement	NOUN	_	Gender=Masc|Number=Sing	27	obj	_	SpacesAfter=\s\s
+30	comme	comme	ADP	_	_	33	case	_	SpacesAfter=\s\s
+31	à	à	ADP	_	_	33	case	_	SpacesAfter=\s\s
+32	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	SpacesAfter=\s\s
+33	bataille	bataille	NOUN	_	Gender=Fem|Number=Sing	27	obl	_	SpacesAfter=\s\s
+34	de	de	ADP	_	_	35	case	_	SpacesAfter=\s\s
+35	Roncevaux	Roncevaux	PROPN	_	_	33	nmod	_	SpacesAfter=\s\s
+36	"	"	PUNCT	_	_	27	punct	_	SpacesAfter=\s\s
+37	.	.	PUNCT	_	_	27	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 48
+# text = Les développeurs évoquent par exemple " des tunnels de contrebandiers pour éviter ou embusquer vos ennemis .
+1	Les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	SpacesAfter=\s\s
+2	développeurs	développeur	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	SpacesAfter=\s\s
+3	évoquent	évoquer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+4	par	par	ADP	_	_	5	case	_	SpacesAfter=\s\s
+5	exemple	exemple	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	SpacesAfter=\s\s
+6	"	"	PUNCT	_	_	5	punct	_	SpacesAfter=\s\s
+7-8	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+7	de	de	ADP	_	_	9	case	_	_
+8	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	tunnels	tunnel	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	SpacesAfter=\s\s
+10	de	de	ADP	_	_	11	case	_	SpacesAfter=\s\s
+11	contrebandiers	contrebandier	NOUN	_	Gender=Masc|Number=Plur	9	nmod	_	SpacesAfter=\s\s
+12	pour	pour	ADP	_	_	13	mark	_	SpacesAfter=\s\s
+13	éviter	éviter	VERB	_	VerbForm=Inf	9	advcl	_	SpacesAfter=\s\s
+14	ou	ou	CCONJ	_	_	15	cc	_	SpacesAfter=\s\s
+15	embusquer	embusquer	VERB	_	VerbForm=Inf	13	conj	_	SpacesAfter=\s\s
+16	vos	son	DET	_	Gender=Masc|Number=Plur|PronType=Prs	17	nmod:poss	_	SpacesAfter=\s\s
+17	ennemis	ennemi	NOUN	_	Gender=Masc|Number=Plur	13	obj	_	SpacesAfter=\s\s
+18	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 49
+# text = Les joueurs peuvent également interagir sur Karakin comme jamais auparavant avec des points d' entrée dans certains bâtiments , la pénétration des balles à travers certains murs et des tunnels de contrebandiers pour éviter ou embusquer vos ennemis .
+1	Les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	SpacesAfter=\s\s
+2	joueurs	joueur	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	SpacesAfter=\s\s
+3	peuvent	pouvoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	SpacesAfter=\s\s
+4	également	également	ADV	_	_	5	advmod	_	SpacesAfter=\s\s
+5	interagir	interagir	VERB	_	VerbForm=Inf	0	root	_	SpacesAfter=\s\s
+6	sur	sur	ADP	_	_	7	case	_	SpacesAfter=\s\s
+7	Karakin	Karakin	PROPN	_	_	5	obl	_	SpacesAfter=\s\s
+8	comme	comme	ADP	_	_	10	case	_	SpacesAfter=\s\s
+9	jamais	jamais	ADV	_	_	10	advmod	_	SpacesAfter=\s\s
+10	auparavant	auparavant	ADV	_	_	5	advmod	_	SpacesAfter=\s\s
+11	avec	avec	ADP	_	_	14	case	_	SpacesAfter=\s\s
+12-13	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+12	de	de	ADP	_	_	14	case	_	_
+13	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
+14	points	point	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	SpacesAfter=\s\s
+15	d'	de	ADP	_	_	16	case	_	SpacesAfter=\s\s
+16	entrée	entrée	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	SpacesAfter=\s\s
+17	dans	dans	ADP	_	_	19	case	_	SpacesAfter=\s\s
+18	certains	certain	DET	_	Gender=Masc|Number=Plur	19	det	_	SpacesAfter=\s\s
+19	bâtiments	bâtiment	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	SpacesAfter=\s\s
+20	,	,	PUNCT	_	_	22	punct	_	SpacesAfter=\s\s
+21	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	SpacesAfter=\s\s
+22	pénétration	pénétration	NOUN	_	Gender=Fem|Number=Sing	14	conj	_	SpacesAfter=\s\s
+23-24	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+23	de	de	ADP	_	_	25	case	_	_
+24	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	25	det	_	_
+25	balles	balle	NOUN	_	Gender=Fem|Number=Plur	22	nmod	_	SpacesAfter=\s\s
+26	à	à	ADP	_	_	29	case	_	SpacesAfter=\s\s
+27	travers	travers	NOUN	_	Gender=Masc|Number=Sing	26	fixed	_	SpacesAfter=\s\s
+28	certains	certain	DET	_	Gender=Masc|Number=Plur	29	det	_	SpacesAfter=\s\s
+29	murs	mur	NOUN	_	Gender=Masc|Number=Plur	25	nmod	_	SpacesAfter=\s\s
+30	et	et	CCONJ	_	_	33	cc	_	SpacesAfter=\s\s
+31-32	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+31	de	de	ADP	_	_	33	case	_	_
+32	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	_
+33	tunnels	tunnel	NOUN	_	Gender=Masc|Number=Plur	29	conj	_	SpacesAfter=\s\s
+34	de	de	ADP	_	_	35	case	_	SpacesAfter=\s\s
+35	contrebandiers	contrebandier	NOUN	_	Gender=Masc|Number=Plur	33	nmod	_	SpacesAfter=\s\s
+36	pour	pour	ADP	_	_	37	mark	_	SpacesAfter=\s\s
+37	éviter	éviter	VERB	_	VerbForm=Inf	25	acl	_	SpacesAfter=\s\s
+38	ou	ou	CCONJ	_	_	39	cc	_	SpacesAfter=\s\s
+39	embusquer	embusquer	VERB	_	VerbForm=Inf	37	conj	_	SpacesAfter=\s\s
+40	vos	son	DET	_	Gender=Masc|Number=Plur|PronType=Prs	41	nmod:poss	_	SpacesAfter=\s\s
+41	ennemis	ennemi	NOUN	_	Gender=Masc|Number=Plur	37	obj	_	SpacesAfter=\s\s
+42	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 50
+# text = Les combattants vendéens avaient en effet pour habitude de s' embusquer en se mettant à plat ventre dans les champs où l' on cultivait bien souvent des choux pour échapper à la vue des troupes républicaines .
+1	Les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	SpacesAfter=\s\s
+2	combattants	combattant	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	SpacesAfter=\s\s
+3	vendéens	vendéen	ADJ	_	Gender=Masc|Number=Plur	2	amod	_	SpacesAfter=\s\s
+4	avaient	avoir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+5	en	en	ADP	_	_	6	case	_	SpacesAfter=\s\s
+6	effet	effet	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	SpacesAfter=\s\s
+7	pour	pour	ADP	_	_	8	case	_	SpacesAfter=\s\s
+8	habitude	habitude	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	SpacesAfter=\s\s
+9	de	de	ADP	_	_	11	mark	_	SpacesAfter=\s\s
+10	s'	se	PRON	_	Person=3|PronType=Prs	11	obj	_	SpacesAfter=\s\s
+11	embusquer	embusquer	VERB	_	VerbForm=Inf	4	acl	_	SpacesAfter=\s\s
+12	en	en	ADP	_	_	14	mark	_	SpacesAfter=\s\s
+13	se	se	PRON	_	Person=3|PronType=Prs	14	obj	_	SpacesAfter=\s\s
+14	mettant	mettre	VERB	_	Tense=Pres|VerbForm=Part	11	advcl	_	SpacesAfter=\s\s
+15	à	à	ADP	_	_	17	case	_	SpacesAfter=\s\s
+16	plat	plat	ADJ	_	Gender=Masc|Number=Sing	17	amod	_	SpacesAfter=\s\s
+17	ventre	ventre	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	SpacesAfter=\s\s
+18	dans	dans	ADP	_	_	20	case	_	SpacesAfter=\s\s
+19	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	SpacesAfter=\s\s
+20	champs	champ	NOUN	_	Gender=Masc|Number=Plur	14	obl	_	SpacesAfter=\s\s
+21	où	où	PRON	_	PronType=Rel	24	obl	_	SpacesAfter=\s\s
+22	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	23	expl	_	SpacesAfter=\s\s
+23	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3	24	nsubj	_	SpacesAfter=\s\s
+24	cultivait	cultiver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	acl:relcl	_	SpacesAfter=\s\s
+25	bien	bien	ADV	_	_	26	advmod	_	SpacesAfter=\s\s
+26	souvent	souvent	ADV	_	_	24	advmod	_	SpacesAfter=\s\s
+27-28	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+27	de	de	ADP	_	_	29	case	_	_
+28	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	_
+29	choux	choux	NOUN	_	Gender=Masc|Number=Plur	24	obl	_	SpacesAfter=\s\s
+30	pour	pour	ADP	_	_	31	mark	_	SpacesAfter=\s\s
+31	échapper	échapper	VERB	_	VerbForm=Inf	24	advcl	_	SpacesAfter=\s\s
+32	à	à	ADP	_	_	34	case	_	SpacesAfter=\s\s
+33	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	SpacesAfter=\s\s
+34	vue	vue	NOUN	_	Gender=Fem|Number=Sing	31	obl	_	SpacesAfter=\s\s
+35-36	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+35	de	de	ADP	_	_	37	case	_	_
+36	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	37	det	_	_
+37	troupes	troupe	NOUN	_	Gender=Fem|Number=Plur	34	nmod	_	SpacesAfter=\s\s
+38	républicaines	républicain	ADJ	_	Gender=Fem|Number=Plur	37	amod	_	SpacesAfter=\s\s
+39	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 51
+# text = On aimerait mieux les voir , tels des lions couronnés de succès , sur les écrans de télévision exhiber régulièrement leurs nouvelles œuvres , au lieu de s' embusquer , tels des loups , derrière l' écran de leur ordinateur à scruter la moindre sortie médiatique de Kamel Daoud , de Boualem Sansal ou autre écrivain algérien , pour bondir sur leur Personne ( et non pas sur leurs productions littéraires ) en vue de les dépecer à belles dents , les livrer en pâture à la vindicte populeuse .
+1	On	on	PRON	_	Gender=Masc|Number=Sing|Person=3	2	nsubj	_	SpacesAfter=\s\s
+2	aimerait	aimer	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+3	mieux	mieux	ADV	_	_	2	advmod	_	SpacesAfter=\s\s
+4	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	5	obj	_	SpacesAfter=\s\s
+5	voir	voir	VERB	_	VerbForm=Inf	2	xcomp	_	SpacesAfter=\s\s
+6	,	,	PUNCT	_	_	5	punct	_	SpacesAfter=\s\s
+7	tels	tel	ADJ	_	Gender=Masc|Number=Plur	10	case	_	SpacesAfter=\s\s
+8-9	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+8	de	de	ADP	_	_	7	fixed	_	_
+9	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
+10	lions	lion	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	SpacesAfter=\s\s
+11	couronnés	couronner	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	acl	_	SpacesAfter=\s\s
+12	de	de	ADP	_	_	13	case	_	SpacesAfter=\s\s
+13	succès	succès	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	SpacesAfter=\s\s
+14	,	,	PUNCT	_	_	5	punct	_	SpacesAfter=\s\s
+15	sur	sur	ADP	_	_	17	case	_	SpacesAfter=\s\s
+16	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	SpacesAfter=\s\s
+17	écrans	écran	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	SpacesAfter=\s\s
+18	de	de	ADP	_	_	19	case	_	SpacesAfter=\s\s
+19	télévision	télévision	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	SpacesAfter=\s\s
+20	exhiber	exhiber	VERB	_	VerbForm=Inf	17	acl	_	SpacesAfter=\s\s
+21	régulièrement	régulièrement	ADV	_	_	20	advmod	_	SpacesAfter=\s\s
+22	leurs	son	DET	_	Gender=Fem|Number=Plur|PronType=Prs	24	nmod:poss	_	SpacesAfter=\s\s
+23	nouvelles	nouveau	ADJ	_	Gender=Fem|Number=Plur	24	amod	_	SpacesAfter=\s\s
+24	œuvres	œuvre	NOUN	_	Gender=Fem|Number=Plur	20	obj	_	SpacesAfter=\s\s
+25	,	,	PUNCT	_	_	20	punct	_	SpacesAfter=\s\s
+26-27	au	_	_	_	_	_	_	_	SpacesAfter=\s\s
+26	à	à	ADP	_	_	28	case	_	_
+27	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+28	lieu	lieu	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	SpacesAfter=\s\s
+29	de	de	ADP	_	_	31	mark	_	SpacesAfter=\s\s
+30	s'	se	PRON	_	Person=3|PronType=Prs	31	obj	_	SpacesAfter=\s\s
+31	embusquer	embusquer	VERB	_	VerbForm=Inf	28	acl	_	SpacesAfter=\s\s
+32	,	,	PUNCT	_	_	2	punct	_	SpacesAfter=\s\s
+33	tels	tel	ADJ	_	Gender=Masc|Number=Plur	36	case	_	SpacesAfter=\s\s
+34-35	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+34	de	de	ADP	_	_	33	fixed	_	_
+35	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	36	det	_	_
+36	loups	loup	NOUN	_	Gender=Masc|Number=Plur	31	obl	_	SpacesAfter=\s\s
+37	,	,	PUNCT	_	_	86	punct	_	SpacesAfter=\s\s
+38	derrière	derrière	ADP	_	_	40	case	_	SpacesAfter=\s\s
+39	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	SpacesAfter=\s\s
+40	écran	écran	NOUN	_	Gender=Masc|Number=Sing	86	obl	_	SpacesAfter=\s\s
+41	de	de	ADP	_	_	43	case	_	SpacesAfter=\s\s
+42	leur	son	DET	_	Gender=Masc|Number=Sing|PronType=Prs	43	nmod:poss	_	SpacesAfter=\s\s
+43	ordinateur	ordinateur	NOUN	_	Gender=Masc|Number=Sing	40	nmod	_	SpacesAfter=\s\s
+44	à	à	ADP	_	_	45	mark	_	SpacesAfter=\s\s
+45	scruter	scruter	VERB	_	VerbForm=Inf	43	acl	_	SpacesAfter=\s\s
+46	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	48	det	_	SpacesAfter=\s\s
+47	moindre	moindre	ADJ	_	Gender=Fem|Number=Sing	48	amod	_	SpacesAfter=\s\s
+48	sortie	sortie	NOUN	_	Gender=Fem|Number=Sing	45	obj	_	SpacesAfter=\s\s
+49	médiatique	médiatique	ADJ	_	Gender=Fem|Number=Sing	48	amod	_	SpacesAfter=\s\s
+50	de	de	ADP	_	_	51	case	_	SpacesAfter=\s\s
+51	Kamel	Kamel	PROPN	_	_	48	nmod	_	SpacesAfter=\s\s
+52	Daoud	Daoud	PROPN	_	_	51	flat:name	_	SpacesAfter=\s\s
+53	,	,	PUNCT	_	_	55	punct	_	SpacesAfter=\s\s
+54	de	de	ADP	_	_	55	case	_	SpacesAfter=\s\s
+55	Boualem	Boualem	PROPN	_	_	51	conj	_	SpacesAfter=\s\s
+56	Sansal	Sansal	PROPN	_	_	55	flat:name	_	SpacesAfter=\s\s
+57	ou	ou	CCONJ	_	_	59	cc	_	SpacesAfter=\s\s
+58	autre	autre	ADJ	_	Gender=Masc|Number=Sing	59	amod	_	SpacesAfter=\s\s
+59	écrivain	écrivain	NOUN	_	Gender=Masc|Number=Sing	51	conj	_	SpacesAfter=\s\s
+60	algérien	algérien	ADJ	_	Gender=Masc|Number=Sing	59	amod	_	SpacesAfter=\s\s
+61	,	,	PUNCT	_	_	45	punct	_	SpacesAfter=\s\s
+62	pour	pour	ADP	_	_	63	mark	_	SpacesAfter=\s\s
+63	bondir	bondir	VERB	_	VerbForm=Inf	45	advcl	_	SpacesAfter=\s\s
+64	sur	sur	ADP	_	_	66	case	_	SpacesAfter=\s\s
+65	leur	son	DET	_	Number=Sing|PronType=Prs	66	nmod:poss	_	SpacesAfter=\s\s
+66	Personne	personne	PROPN	_	_	63	obl	_	SpacesAfter=\s\s
+67	(	(	PUNCT	_	_	68	punct	_	SpacesAfter=\s\s
+68	et	et	CCONJ	_	_	73	cc	_	SpacesAfter=\s\s
+69	non	non	ADV	_	_	70	advmod	_	SpacesAfter=\s\s
+70	pas	pas	ADV	_	_	73	advmod	_	SpacesAfter=\s\s
+71	sur	sur	ADP	_	_	73	case	_	SpacesAfter=\s\s
+72	leurs	son	DET	_	Gender=Fem|Number=Plur|PronType=Prs	73	nmod:poss	_	SpacesAfter=\s\s
+73	productions	production	NOUN	_	Gender=Fem|Number=Plur	40	conj	_	SpacesAfter=\s\s
+74	littéraires	littéraire	ADJ	_	Gender=Fem|Number=Plur	73	amod	_	SpacesAfter=\s\s
+75	)	)	PUNCT	_	_	73	punct	_	SpacesAfter=\s\s
+76	en	en	ADP	_	_	77	case	_	SpacesAfter=\s\s
+77	vue	vue	NOUN	_	Gender=Fem|Number=Sing	40	nmod	_	SpacesAfter=\s\s
+78	de	de	ADP	_	_	80	mark	_	SpacesAfter=\s\s
+79	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	80	obj	_	SpacesAfter=\s\s
+80	dépecer	dépecer	VERB	_	VerbForm=Inf	77	acl	_	SpacesAfter=\s\s
+81	à	à	ADP	_	_	83	case	_	SpacesAfter=\s\s
+82	belles	beau	DET	_	Gender=Fem|Number=Plur	83	det	_	SpacesAfter=\s\s
+83	dents	dent	NOUN	_	Gender=Fem|Number=Plur	80	obl	_	SpacesAfter=\s\s
+84	,	,	PUNCT	_	_	86	punct	_	SpacesAfter=\s\s
+85	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	86	obj	_	SpacesAfter=\s\s
+86	livrer	livrer	VERB	_	VerbForm=Inf	36	acl	_	SpacesAfter=\s\s
+87	en	en	ADP	_	_	88	case	_	SpacesAfter=\s\s
+88	pâture	pâture	NOUN	_	Gender=Fem|Number=Sing	86	obl	_	SpacesAfter=\s\s
+89	à	à	ADP	_	_	91	case	_	SpacesAfter=\s\s
+90	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	91	det	_	SpacesAfter=\s\s
+91	vindicte	vindicte	NOUN	_	Gender=Fem|Number=Sing	86	obl	_	SpacesAfter=\s\s
+92	populeuse	populeux	ADJ	_	Gender=Fem|Number=Sing	91	amod	_	SpacesAfter=\s\s
+93	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 52
+# text = Il ne s' agit pas de s' embusquer , guetter le moment propice de sortie de bois pour se présenter en rédempteur , détenteur de solution miracle , dans la perspective du meilleur positionnement pour la suite des événements .
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpacesAfter=\s\s
+2	ne	ne	ADV	_	Polarity=Neg	4	advmod	_	SpacesAfter=\s\s
+3	s'	se	PRON	_	Person=3|PronType=Prs	4	obj	_	SpacesAfter=\s\s
+4	agit	agir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+5	pas	pas	ADV	_	Polarity=Neg	4	advmod	_	SpacesAfter=\s\s
+6	de	de	ADP	_	_	8	mark	_	SpacesAfter=\s\s
+7	s'	se	PRON	_	Person=3|PronType=Prs	8	obj	_	SpacesAfter=\s\s
+8	embusquer	embusquer	VERB	_	VerbForm=Inf	4	acl	_	SpacesAfter=\s\s
+9	,	,	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+10	guetter	guetter	VERB	_	VerbForm=Inf	4	xcomp	_	SpacesAfter=\s\s
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	SpacesAfter=\s\s
+12	moment	moment	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	SpacesAfter=\s\s
+13	propice	propice	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	SpacesAfter=\s\s
+14	de	de	ADP	_	_	15	case	_	SpacesAfter=\s\s
+15	sortie	sortie	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpacesAfter=\s\s
+16	de	de	ADP	_	_	17	case	_	SpacesAfter=\s\s
+17	bois	bois	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	SpacesAfter=\s\s
+18	pour	pour	ADP	_	_	20	mark	_	SpacesAfter=\s\s
+19	se	se	PRON	_	Person=3|PronType=Prs	20	obj	_	SpacesAfter=\s\s
+20	présenter	présenter	VERB	_	VerbForm=Inf	10	advcl	_	SpacesAfter=\s\s
+21	en	en	ADP	_	_	22	case	_	SpacesAfter=\s\s
+22	rédempteur	rédempteur	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	SpacesAfter=\s\s
+23	,	,	PUNCT	_	_	27	punct	_	SpacesAfter=\s\s
+24	détenteur	détenteur	NOUN	_	Gender=Masc|Number=Sing	27	compound	_	SpacesAfter=\s\s
+25	de	de	ADP	_	_	26	case	_	SpacesAfter=\s\s
+26	solution	solution	NOUN	_	Gender=Fem|Number=Sing	24	nmod	_	SpacesAfter=\s\s
+27	miracle	miracle	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	SpacesAfter=\s\s
+28	,	,	PUNCT	_	_	27	punct	_	SpacesAfter=\s\s
+29	dans	dans	ADP	_	_	31	case	_	SpacesAfter=\s\s
+30	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	SpacesAfter=\s\s
+31	perspective	perspective	NOUN	_	Gender=Fem|Number=Sing	27	nmod	_	SpacesAfter=\s\s
+32-33	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+32	de	de	ADP	_	_	35	case	_	_
+33	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
+34	meilleur	meilleur	ADJ	_	Gender=Masc|Number=Sing	35	amod	_	SpacesAfter=\s\s
+35	positionnement	positionnement	NOUN	_	Gender=Masc|Number=Sing	31	nmod	_	SpacesAfter=\s\s
+36	pour	pour	ADP	_	_	38	case	_	SpacesAfter=\s\s
+37	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	38	det	_	SpacesAfter=\s\s
+38	suite	suite	NOUN	_	Gender=Fem|Number=Sing	31	nmod	_	SpacesAfter=\s\s
+39-40	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+39	de	de	ADP	_	_	41	case	_	_
+40	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	41	det	_	_
+41	événements	événement	NOUN	_	Gender=Masc|Number=Plur	38	nmod	_	SpacesAfter=\s\s
+42	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 53
+# text = Pourquoi , s' insurge-t-il , à l' improviste à la place de au dépourvu ?
+1	Pourquoi	pourquoi	ADV	_	_	4	advmod	_	SpacesAfter=\s\s
+2	,	,	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+3	s'	se	PRON	_	Person=3|PronType=Prs	4	expl	_	SpacesAfter=\s\s
+4	insurge	insurger	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+5	-t	t	PART	_	_	6	expl	_	SpaceAfter=No
+6	-il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	SpacesAfter=\s\s
+7	,	,	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+8	à	à	ADP	_	_	10	case	_	SpacesAfter=\s\s
+9	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	SpacesAfter=\s\s
+10	improviste	improviste	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	SpacesAfter=\s\s
+11	à	à	ADP	_	_	13	case	_	SpacesAfter=\s\s
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	SpacesAfter=\s\s
+13	place	place	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	SpacesAfter=\s\s
+14	de	de	ADP	_	_	17	case	_	SpacesAfter=\s\s
+15-16	au	_	_	_	_	_	_	_	SpacesAfter=\s\s
+15	à	à	ADP	_	_	17	case	_	_
+16	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	dépourvu	dépourvu	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	SpacesAfter=\s\s
+18	?	?	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+
+# sent_id = 54
+# text = Pourquoi embusquer à la place de embuschier ?
+1	Pourquoi	pourquoi	ADV	_	_	2	advmod	_	SpacesAfter=\s\s
+2	embusquer	embusquer	VERB	_	VerbForm=Inf	0	root	_	SpacesAfter=\s\s
+3	à	à	ADP	_	_	5	case	_	SpacesAfter=\s\s
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	SpacesAfter=\s\s
+5	place	place	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	SpacesAfter=\s\s
+6	de	de	ADP	_	_	7	mark	_	SpacesAfter=\s\s
+7	embuschier	embuschier	VERB	_	VerbForm=Inf	5	acl	_	SpacesAfter=\s\s
+8	?	?	PUNCT	_	_	2	punct	_	SpacesAfter=\s\s
+
+# sent_id = 55
+# text = Pourquoi ?
+1	Pourquoi	pourquoi	ADV	_	_	0	root	_	SpacesAfter=\s\s
+2	?	?	PUNCT	_	_	1	punct	_	SpacesAfter=\s\s
+
+# sent_id = 56
+# text = Tout simplement parce que l' Italie , sous la Renaissance , donne le la .
+1	Tout	tout	ADV	_	_	2	advmod	_	SpacesAfter=\s\s
+2	simplement	simplement	ADV	_	_	12	advmod	_	SpacesAfter=\s\s
+3	parce	parce	ADV	_	_	12	mark	_	SpacesAfter=\s\s
+4	que	que	SCONJ	_	_	3	fixed	_	SpacesAfter=\s\s
+5	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	6	det	_	SpacesAfter=\s\s
+6	Italie	Italie	PROPN	_	_	12	nsubj	_	SpacesAfter=\s\s
+7	,	,	PUNCT	_	_	6	punct	_	SpacesAfter=\s\s
+8	sous	sous	ADP	_	_	10	case	_	SpacesAfter=\s\s
+9	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	SpacesAfter=\s\s
+10	Renaissance	Renaissance	PROPN	_	_	6	nmod	_	SpacesAfter=\s\s
+11	,	,	PUNCT	_	_	12	punct	_	SpacesAfter=\s\s
+12	donne	donner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+13	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	SpacesAfter=\s\s
+14	la	la	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	SpacesAfter=\s\s
+15	.	.	PUNCT	_	_	12	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 57
+# text = Un peuple qui dispose d' un " arrière-pays culturel " où s' embusquer ( coutumes ancestrales , religion , langue , mythes , etc . ) peut résister longtemps à la non-productivité .
+1	Un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	det	_	SpacesAfter=\s\s
+2	peuple	peuple	NOUN	_	Gender=Masc|Number=Sing	28	nsubj	_	SpacesAfter=\s\s
+3	qui	qui	PRON	_	PronType=Rel	4	nsubj	_	SpacesAfter=\s\s
+4	dispose	disposer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	SpacesAfter=\s\s
+5	d'	de	ADP	_	_	8	case	_	SpacesAfter=\s\s
+6	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	SpacesAfter=\s\s
+7	"	"	PUNCT	_	_	8	punct	_	SpacesAfter=\s\s
+8	arrière-pays	arrière-pays	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	SpacesAfter=\s\s
+9	culturel	culturel	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	SpacesAfter=\s\s
+10	"	"	PUNCT	_	_	8	punct	_	SpacesAfter=\s\s
+11	où	où	PRON	_	PronType=Rel	13	obl	_	SpacesAfter=\s\s
+12	s'	se	PRON	_	Person=3|PronType=Prs	13	obj	_	SpacesAfter=\s\s
+13	embusquer	embusquer	VERB	_	VerbForm=Inf	8	acl:relcl	_	SpacesAfter=\s\s
+14	(	(	PUNCT	_	_	15	punct	_	SpacesAfter=\s\s
+15	coutumes	coutume	NOUN	_	Gender=Fem|Number=Plur	13	obl	_	SpacesAfter=\s\s
+16	ancestrales	ancestral	ADJ	_	Gender=Fem|Number=Plur	15	amod	_	SpacesAfter=\s\s
+17	,	,	PUNCT	_	_	18	punct	_	SpacesAfter=\s\s
+18	religion	religion	NOUN	_	Gender=Fem|Number=Sing	15	conj	_	SpacesAfter=\s\s
+19	,	,	PUNCT	_	_	20	punct	_	SpacesAfter=\s\s
+20	langue	langue	NOUN	_	Gender=Fem|Number=Sing	15	conj	_	SpacesAfter=\s\s
+21	,	,	PUNCT	_	_	22	punct	_	SpacesAfter=\s\s
+22	mythes	mythe	NOUN	_	Gender=Fem|Number=Plur	15	conj	_	SpacesAfter=\s\s
+23	,	,	PUNCT	_	_	24	punct	_	SpacesAfter=\s\s
+24	etc	etc	X	_	_	15	conj	_	SpacesAfter=\s\s
+25	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\s\s
+26	)	)	PUNCT	_	_	25	punct	_	SpacesAfter=\s\s
+27	peut	pouvoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	aux	_	SpacesAfter=\s\s
+28	résister	résister	VERB	_	VerbForm=Inf	0	root	_	SpacesAfter=\s\s
+29	longtemps	longtemps	ADV	_	_	28	advmod	_	SpacesAfter=\s\s
+30	à	à	ADP	_	_	32	case	_	SpacesAfter=\s\s
+31	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	SpacesAfter=\s\s
+32	non-productivité	non-productivité	NOUN	_	Gender=Fem|Number=Sing	28	obl	_	SpacesAfter=\s\s
+33	.	.	PUNCT	_	_	28	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 58
+# text = Cette arrogance déplut fortement à Héra qui , pour donner une leçon ( La leçon est un terme qui revêt diverses significations dans le domaine de l' enseignement . ) d' humilité à Orion , commanda à un scorpion de s' embusquer en attendant le passage du chasseur .
+1	Cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	SpacesAfter=\s\s
+2	arrogance	arrogance	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	SpacesAfter=\s\s
+3	déplut	déplure	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+4	fortement	fortement	ADV	_	_	3	advmod	_	SpacesAfter=\s\s
+5	à	à	ADP	_	_	6	case	_	SpacesAfter=\s\s
+6	Héra	Héra	PROPN	_	_	3	obl	_	SpacesAfter=\s\s
+7	qui	qui	PRON	_	PronType=Rel	36	nsubj	_	SpacesAfter=\s\s
+8	,	,	PUNCT	_	_	36	punct	_	SpacesAfter=\s\s
+9	pour	pour	ADP	_	_	10	mark	_	SpacesAfter=\s\s
+10	donner	donner	VERB	_	VerbForm=Inf	36	advcl	_	SpacesAfter=\s\s
+11	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	SpacesAfter=\s\s
+12	leçon	leçon	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	SpacesAfter=\s\s
+13	(	(	PUNCT	_	_	18	punct	_	SpacesAfter=\s\s
+14	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	SpacesAfter=\s\s
+15	leçon	leçon	NOUN	_	Gender=Fem|Number=Sing	18	nsubj	_	SpacesAfter=\s\s
+16	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	SpacesAfter=\s\s
+17	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	SpacesAfter=\s\s
+18	terme	terme	NOUN	_	Gender=Masc|Number=Sing	12	appos	_	SpacesAfter=\s\s
+19	qui	qui	PRON	_	PronType=Rel	18	appos	_	SpacesAfter=\s\s
+20	revêt	revêt	ADV	_	_	21	advmod	_	SpacesAfter=\s\s
+21	diverses	divers	ADJ	_	Gender=Fem|Number=Plur	22	amod	_	SpacesAfter=\s\s
+22	significations	signification	NOUN	_	Gender=Fem|Number=Plur	19	appos	_	SpacesAfter=\s\s
+23	dans	dans	ADP	_	_	25	case	_	SpacesAfter=\s\s
+24	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	SpacesAfter=\s\s
+25	domaine	domaine	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	SpacesAfter=\s\s
+26	de	de	ADP	_	_	28	case	_	SpacesAfter=\s\s
+27	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	SpacesAfter=\s\s
+28	enseignement	enseignement	NOUN	_	Gender=Masc|Number=Sing	25	nmod	_	SpacesAfter=\s\s
+29	.	.	PUNCT	_	_	18	punct	_	SpacesAfter=\s\s
+30	)	)	PUNCT	_	_	18	punct	_	SpacesAfter=\s\s
+31	d'	de	ADP	_	_	32	case	_	SpacesAfter=\s\s
+32	humilité	humilité	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpacesAfter=\s\s
+33	à	à	ADP	_	_	34	case	_	SpacesAfter=\s\s
+34	Orion	Orion	PROPN	_	_	32	nmod	_	SpacesAfter=\s\s
+35	,	,	PUNCT	_	_	36	punct	_	SpacesAfter=\s\s
+36	commanda	commander	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	SpacesAfter=\s\s
+37	à	à	ADP	_	_	39	case	_	SpacesAfter=\s\s
+38	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	39	det	_	SpacesAfter=\s\s
+39	scorpion	scorpion	NOUN	_	Gender=Masc|Number=Sing	36	obl	_	SpacesAfter=\s\s
+40	de	de	ADP	_	_	42	mark	_	SpacesAfter=\s\s
+41	s'	se	PRON	_	Person=3|PronType=Prs	42	obj	_	SpacesAfter=\s\s
+42	embusquer	embusquer	VERB	_	VerbForm=Inf	39	acl	_	SpacesAfter=\s\s
+43	en	en	ADP	_	_	44	mark	_	SpacesAfter=\s\s
+44	attendant	attendre	VERB	_	Tense=Pres|VerbForm=Part	42	advcl	_	SpacesAfter=\s\s
+45	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	46	det	_	SpacesAfter=\s\s
+46	passage	passage	NOUN	_	Gender=Masc|Number=Sing	44	obj	_	SpacesAfter=\s\s
+47-48	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+47	de	de	ADP	_	_	49	case	_	_
+48	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	49	det	_	_
+49	chasseur	chasseur	NOUN	_	Gender=Masc|Number=Sing	46	nmod	_	SpacesAfter=\s\s
+50	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 59
+# text = Instagram nenni autorise en aucun cas aux diffГ © rents vigilance tierces d' inscrire avГ © rГ © dessin au sein d' un d'ailleurs billet ( lorsque vous tenez moyenSauf Que vous allez pouvoir Sur notre site internet , vous trouverez les informations relatives aux besoins en vitamineplus de r opportunГ © ment vrais limites techniques de la publication claire Instagram ) Cette problГ © matique actuellement levant avoir la certitude Le quвЂ ™ il embryon cortГЁge si vous guidez-vous avec Agorapulse tout comme aspirez embusquer votre carriГЁre en surfant sur Instagram
+1	Instagram	Instagram	PROPN	_	_	3	nsubj	_	SpacesAfter=\s\s
+2	nenni	nenni	CCONJ	_	_	1	flat:name	_	SpacesAfter=\s\s
+3	autorise	autoriser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+4	en	en	ADP	_	_	6	case	_	SpacesAfter=\s\s
+5	aucun	aucun	DET	_	Gender=Masc|Number=Sing|Polarity=Neg|PronType=Neg	6	det	_	SpacesAfter=\s\s
+6	cas	cas	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	SpacesAfter=\s\s
+7-8	aux	_	_	_	_	_	_	_	SpacesAfter=\s\s
+7	à	à	ADP	_	_	9	case	_	_
+8	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	9	det	_	_
+9	diffГ	diffГ	PROPN	_	_	3	obl	_	SpacesAfter=\s\s
+10	©	©	SYM	_	_	11	compound	_	SpacesAfter=\s\s
+11	rents	rent	NOUN	_	Gender=Masc|Number=Plur	9	appos	_	SpacesAfter=\s\s
+12	vigilance	vigilance	NOUN	_	Gender=Fem|Number=Sing	11	appos	_	SpacesAfter=\s\s
+13	tierces	tierce	NOUN	_	Gender=Fem|Number=Plur	12	appos	_	SpacesAfter=\s\s
+14	d'	de	ADP	_	_	15	mark	_	SpacesAfter=\s\s
+15	inscrire	inscrire	VERB	_	VerbForm=Inf	13	acl	_	SpacesAfter=\s\s
+16	avГ	avГ	PROPN	_	_	15	obj	_	SpacesAfter=\s\s
+17	©	©	SYM	_	_	16	flat:name	_	SpacesAfter=\s\s
+18	rГ	rГ	PROPN	_	_	16	flat:name	_	SpacesAfter=\s\s
+19	©	©	SYM	_	_	16	flat:name	_	SpacesAfter=\s\s
+20	dessin	dessin	NOUN	_	Gender=Masc|Number=Sing	16	flat:name	_	SpacesAfter=\s\s
+21-22	au	_	_	_	_	_	_	_	SpacesAfter=\s\s
+21	à	à	ADP	_	_	23	case	_	_
+22	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	sein	sein	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	SpacesAfter=\s\s
+24	d'	de	ADP	_	_	28	mark	_	SpacesAfter=\s\s
+25	un	un	PRON	_	Gender=Masc|Number=Sing	28	obj	_	SpacesAfter=\s\s
+26	d'	de	ADP	_	_	27	case	_	SpaceAfter=No
+27	ailleurs	ailleurs	ADV	_	_	25	advmod	_	SpacesAfter=\s\s
+28	billet	billet	VERB	_	_	23	acl	_	SpacesAfter=\s\s
+29	(	(	PUNCT	_	_	32	punct	_	SpacesAfter=\s\s
+30	lorsque	lorsque	SCONJ	_	_	32	mark	_	SpacesAfter=\s\s
+31	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	32	nsubj	_	SpacesAfter=\s\s
+32	tenez	tenir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	28	advcl	_	SpacesAfter=\s\s
+33	moyenSauf	moyenSauf	ADP	_	_	44	mark	_	SpacesAfter=\s\s
+34	Que	que	SCONJ	_	_	36	mark	_	SpacesAfter=\s\s
+35	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	36	nsubj	_	SpacesAfter=\s\s
+36	allez	aller	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	44	advcl	_	SpacesAfter=\s\s
+37	pouvoir	pouvoir	NOUN	_	Gender=Masc|Number=Sing	36	obj	_	SpacesAfter=\s\s
+38	Sur	sur	ADP	_	_	40	case	_	SpacesAfter=\s\s
+39	notre	son	DET	_	Gender=Masc|Number=Sing|PronType=Prs	40	nmod:poss	_	SpacesAfter=\s\s
+40	site	site	NOUN	_	Gender=Masc|Number=Sing	36	obl	_	SpacesAfter=\s\s
+41	internet	internet	NOUN	_	Gender=Masc|Number=Sing	40	compound	_	SpacesAfter=\s\s
+42	,	,	PUNCT	_	_	44	punct	_	SpacesAfter=\s\s
+43	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	44	nsubj	_	SpacesAfter=\s\s
+44	trouverez	trouver	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	32	ccomp	_	SpacesAfter=\s\s
+45	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	46	det	_	SpacesAfter=\s\s
+46	informations	information	NOUN	_	Gender=Fem|Number=Plur	44	obj	_	SpacesAfter=\s\s
+47	relatives	relatif	ADJ	_	Gender=Fem|Number=Plur	46	amod	_	SpacesAfter=\s\s
+48-49	aux	_	_	_	_	_	_	_	SpacesAfter=\s\s
+48	à	à	ADP	_	_	50	case	_	_
+49	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	50	det	_	_
+50	besoins	besoin	NOUN	_	Gender=Masc|Number=Plur	47	obl	_	SpacesAfter=\s\s
+51	en	en	ADP	_	_	52	case	_	SpacesAfter=\s\s
+52	vitamineplus	vitamineplus	NOUN	_	Gender=Masc|Number=Sing	50	nmod	_	SpacesAfter=\s\s
+53	de	de	ADP	_	_	54	mark	_	SpacesAfter=\s\s
+54	r	r	VERB	_	VerbForm=Inf	46	acl	_	SpacesAfter=\s\s
+55	opportunГ	opportunГ	PROPN	_	_	54	obj	_	SpacesAfter=\s\s
+56	©	©	SYM	_	_	54	appos	_	SpacesAfter=\s\s
+57	ment	ment	ADV	_	_	58	advmod	_	SpacesAfter=\s\s
+58	vrais	vrai	ADJ	_	Gender=Masc|Number=Plur	59	amod	_	SpacesAfter=\s\s
+59	limites	limite	NOUN	_	Gender=Fem|Number=Plur	56	appos	_	SpacesAfter=\s\s
+60	techniques	technique	ADJ	_	Gender=Fem|Number=Plur	59	amod	_	SpacesAfter=\s\s
+61	de	de	ADP	_	_	63	case	_	SpacesAfter=\s\s
+62	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	63	det	_	SpacesAfter=\s\s
+63	publication	publication	NOUN	_	Gender=Fem|Number=Sing	59	nmod	_	SpacesAfter=\s\s
+64	claire	clair	ADJ	_	Gender=Fem|Number=Sing	63	amod	_	SpacesAfter=\s\s
+65	Instagram	Instagram	PROPN	_	_	63	appos	_	SpacesAfter=\s\s
+66	)	)	PUNCT	_	_	59	punct	_	SpacesAfter=\s\s
+67	Cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	68	det	_	SpacesAfter=\s\s
+68	problГ	problГ	PROPN	_	_	56	flat:name	_	SpacesAfter=\s\s
+69	©	©	SYM	_	_	68	appos	_	SpacesAfter=\s\s
+70	matique	matique	ADJ	_	Gender=Masc|Number=Sing	69	amod	_	SpacesAfter=\s\s
+71	actuellement	actuellement	ADV	_	_	72	advmod	_	SpacesAfter=\s\s
+72	levant	lever	VERB	_	Tense=Pres|VerbForm=Part	69	acl	_	SpacesAfter=\s\s
+73	avoir	avoir	VERB	_	VerbForm=Inf	72	xcomp	_	SpacesAfter=\s\s
+74	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	75	det	_	SpacesAfter=\s\s
+75	certitude	certitude	NOUN	_	Gender=Fem|Number=Sing	73	obj	_	SpacesAfter=\s\s
+76	Le	Le	PROPN	_	_	75	appos	_	SpacesAfter=\s\s
+77	quвЂ	quвЂ	PROPN	_	_	76	flat:name	_	SpacesAfter=\s\s
+78	™	™	SYM	_	_	77	flat:name	_	SpacesAfter=\s\s
+79	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	80	nsubj	_	SpacesAfter=\s\s
+80	embryon	embryon	NOUN	_	Gender=Masc|Number=Sing	75	acl:relcl	_	SpacesAfter=\s\s
+81	cortГЁge	cortГЁge	ADV	_	_	82	advmod	_	SpacesAfter=\s\s
+82	si	si	SCONJ	_	_	84	mark	_	SpacesAfter=\s\s
+83	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	84	nsubj	_	SpacesAfter=\s\s
+84	guidez-vous	guidez-le	PRON	_	Number=Plur|Person=2|PronType=Prs	80	advcl	_	SpacesAfter=\s\s
+85	avec	avec	ADP	_	_	86	case	_	SpacesAfter=\s\s
+86	Agorapulse	Agorapulse	PROPN	_	_	84	obl	_	SpacesAfter=\s\s
+87	tout	tout	ADV	_	_	89	advmod	_	SpacesAfter=\s\s
+88	comme	comme	ADP	_	_	89	mark	_	SpacesAfter=\s\s
+89	aspirez	aspirer	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	86	advcl	_	SpacesAfter=\s\s
+90	embusquer	embusquer	VERB	_	VerbForm=Inf	89	xcomp	_	SpacesAfter=\s\s
+91	votre	son	DET	_	Gender=Masc|Number=Sing|PronType=Prs	92	nmod:poss	_	SpacesAfter=\s\s
+92	carriГЁre	carriГЁre	NOUN	_	Gender=Masc|Number=Sing	90	obj	_	SpacesAfter=\s\s
+93	en	en	ADP	_	_	94	mark	_	SpacesAfter=\s\s
+94	surfant	surfant	VERB	_	Tense=Pres|VerbForm=Part	89	advcl	_	SpacesAfter=\s\s
+95	sur	sur	ADP	_	_	96	case	_	SpacesAfter=\s\s
+96	Instagram	Instagram	PROPN	_	_	94	obl	_	SpacesAfter=\s\s
+
+# sent_id = 60
+# text = Il vous suffira dвЂ ™ utiliser lвЂ ™ application mobile !
+1	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	SpacesAfter=\s\s
+2	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	3	iobj	_	SpacesAfter=\s\s
+3	suffira	suffire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+4	dвЂ	dвЂ	PROPN	_	_	3	obj	_	SpacesAfter=\s\s
+5	™	™	SYM	_	_	4	flat:name	_	SpacesAfter=\s\s
+6	utiliser	utiliser	VERB	_	VerbForm=Inf	5	acl	_	SpacesAfter=\s\s
+7	lвЂ	lвЂ	PROPN	_	_	6	obj	_	SpacesAfter=\s\s
+8	™	™	SYM	_	_	7	flat:name	_	SpacesAfter=\s\s
+9	application	application	NOUN	_	Gender=Fem|Number=Sing	7	flat:name	_	SpacesAfter=\s\s
+10	mobile	mobile	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	SpacesAfter=\s\s
+11	!	!	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 61
+# text = Pseudo abrogГ © Embusquer Victime de guГ © rilla Sur les forumsComme Religion moi admet leurs fps amicaux
+1	Pseudo	Pseudo	PROPN	_	_	9	nsubj	_	SpacesAfter=\s\s
+2	abrogГ	abrogГ	PROPN	_	_	1	flat:name	_	SpacesAfter=\s\s
+3	©	©	SYM	_	_	1	flat:name	_	SpacesAfter=\s\s
+4	Embusquer	Embusquer	PROPN	_	_	1	flat:name	_	SpacesAfter=\s\s
+5	Victime	victime	PROPN	_	_	9	nsubj	_	SpacesAfter=\s\s
+6	de	de	ADP	_	_	5	flat:name	_	SpacesAfter=\s\s
+7	guГ	guГ	PROPN	_	_	5	flat:name	_	SpacesAfter=\s\s
+8	©	©	SYM	_	_	5	flat:name	_	SpacesAfter=\s\s
+9	rilla	riller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+10	Sur	sur	ADP	_	_	12	case	_	SpacesAfter=\s\s
+11	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	SpacesAfter=\s\s
+12	forumsComme	forumsComme	PROPN	_	_	9	obl	_	SpacesAfter=\s\s
+13	Religion	religion	PROPN	_	_	12	flat:name	_	SpacesAfter=\s\s
+14	moi	soi	PRON	_	Number=Sing|Person=1	15	nsubj	_	SpacesAfter=\s\s
+15	admet	admettre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	SpacesAfter=\s\s
+16	leurs	son	DET	_	Gender=Masc|Number=Plur|PronType=Prs	17	nmod:poss	_	SpacesAfter=\s\s
+17	fps	fp	NOUN	_	Gender=Masc|Number=Plur	15	obj	_	SpacesAfter=\s\s
+18	amicaux	amical	ADJ	_	Gender=Masc|Number=Plur	17	amod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 62
+# text = Aurait Obtient toi d' enter vous faire le compte rendu Qu' il toi cadreEt auprГЁs postГ © rieurement alphabГ © tiser une dГ © licate conversation d' une bonne avГ © rГ © s maniГЁres Embusquer Mon annotation toute virtuositГ © pour messagerie nГ © gatif fera pas publiГ © e
+1	Aurait	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	SpacesAfter=\s\s
+2	Obtient	obtenir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+3	toi	soi	PRON	_	Number=Sing|Person=2	2	nsubj	_	SpacesAfter=\s\s
+4	d'	de	ADP	_	_	5	mark	_	SpacesAfter=\s\s
+5	enter	enter	VERB	_	VerbForm=Inf	2	acl	_	SpacesAfter=\s\s
+6	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	7	iobj	_	SpacesAfter=\s\s
+7	faire	faire	VERB	_	VerbForm=Inf	5	xcomp	_	SpacesAfter=\s\s
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	SpacesAfter=\s\s
+9	compte	compte	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	SpacesAfter=\s\s
+10	rendu	rendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	xcomp	_	SpacesAfter=\s\s
+11	Qu'	que	SCONJ	_	_	47	mark	_	SpacesAfter=\s\s
+12	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	47	nsubj	_	SpacesAfter=\s\s
+13	toi	soi	PRON	_	Number=Sing|Person=2	47	obj	_	SpacesAfter=\s\s
+14	cadreEt	cadreEt	PROPN	_	_	47	nsubj	_	SpacesAfter=\s\s
+15	auprГЁs	auprГЁs	PROPN	_	_	14	flat:name	_	SpacesAfter=\s\s
+16	postГ	postГ	PROPN	_	_	14	flat:name	_	SpacesAfter=\s\s
+17	©	©	SYM	_	_	14	flat:name	_	SpacesAfter=\s\s
+18	rieurement	rieurement	ADV	_	_	21	advmod	_	SpacesAfter=\s\s
+19	alphabГ	alphabГ	PROPN	_	_	21	nsubj	_	SpacesAfter=\s\s
+20	©	©	SYM	_	_	19	flat:name	_	SpacesAfter=\s\s
+21	tiser	tiser	VERB	_	VerbForm=Inf	17	acl	_	SpacesAfter=\s\s
+22	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	SpacesAfter=\s\s
+23	dГ	dГ	PROPN	_	_	21	obj	_	SpacesAfter=\s\s
+24	©	©	SYM	_	_	23	flat:name	_	SpacesAfter=\s\s
+25	licate	licat	ADJ	_	Gender=Fem|Number=Sing	23	flat:name	_	SpacesAfter=\s\s
+26	conversation	conversation	NOUN	_	Gender=Fem|Number=Sing	23	appos	_	SpacesAfter=\s\s
+27	d'	de	ADP	_	_	30	case	_	SpacesAfter=\s\s
+28	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	30	det	_	SpacesAfter=\s\s
+29	bonne	bon	ADJ	_	Gender=Fem|Number=Sing	30	amod	_	SpacesAfter=\s\s
+30	avГ	avГ	PROPN	_	_	26	nmod	_	SpacesAfter=\s\s
+31	©	©	SYM	_	_	35	compound	_	SpacesAfter=\s\s
+32	rГ	rГ	PROPN	_	_	31	flat:name	_	SpacesAfter=\s\s
+33	©	©	SYM	_	_	35	compound	_	SpacesAfter=\s\s
+34	s	s	X	_	_	35	compound	_	SpacesAfter=\s\s
+35	maniГЁres	maniГЁres	PROPN	_	_	30	flat:name	_	SpacesAfter=\s\s
+36	Embusquer	Embusquer	VERB	_	VerbForm=Inf	35	acl	_	SpacesAfter=\s\s
+37	Mon	son	DET	_	Gender=Fem|Number=Sing|PronType=Prs	38	nmod:poss	_	SpacesAfter=\s\s
+38	annotation	annotation	NOUN	_	Gender=Fem|Number=Sing	36	obj	_	SpacesAfter=\s\s
+39	toute	tout	DET	_	Gender=Fem|Number=Sing	40	det	_	SpacesAfter=\s\s
+40	virtuositГ	virtuositГ	PROPN	_	_	38	appos	_	SpacesAfter=\s\s
+41	©	©	SYM	_	_	40	flat:name	_	SpacesAfter=\s\s
+42	pour	pour	ADP	_	_	43	case	_	SpacesAfter=\s\s
+43	messagerie	messagerie	NOUN	_	Gender=Fem|Number=Sing	40	nmod	_	SpacesAfter=\s\s
+44	nГ	nГ	PROPN	_	_	43	appos	_	SpacesAfter=\s\s
+45	©	©	SYM	_	_	44	flat:name	_	SpacesAfter=\s\s
+46	gatif	gatif	ADJ	_	Gender=Masc|Number=Sing	44	amod	_	SpacesAfter=\s\s
+47	fera	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	10	advcl	_	SpacesAfter=\s\s
+48	pas	pas	ADV	_	Polarity=Neg	47	advmod	_	SpacesAfter=\s\s
+49	publiГ	publiГ	PROPN	_	_	47	obj	_	SpacesAfter=\s\s
+50	©	©	SYM	_	_	49	flat:name	_	SpacesAfter=\s\s
+51	e	e	CCONJ	_	_	49	flat:name	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 63
+# text = Cela collectif social met IndГ © niablement dans histoire les clients prГЁs se poser vrais devinetteSauf Que plus ou bien la moins aimables , ainsi , y rГ © pondre avec annonce aussi bien que chez Youtube Les accommodements disparaissent ensuite au bout avec 72 HEt sur lвЂ ™ image du concept en tenant Snapchat Ceci caractГЁre archiptГЁre quelques lettre avis anime de les nouveaux-nГ © s A chez embusquer au-delГВ cachГ © s
+1	Cela	cela	PRON	_	Number=Sing|PronType=Dem	4	nsubj	_	SpacesAfter=\s\s
+2	collectif	collectif	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	SpacesAfter=\s\s
+3	social	social	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	SpacesAfter=\s\s
+4	met	mettre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+5	IndГ	IndГ	PROPN	_	_	4	obj	_	SpacesAfter=\s\s
+6	©	©	SYM	_	_	5	flat:name	_	SpacesAfter=\s\s
+7	niablement	niablement	ADV	_	_	4	advmod	_	SpacesAfter=\s\s
+8	dans	dans	ADP	_	_	9	case	_	SpacesAfter=\s\s
+9	histoire	histoire	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	SpacesAfter=\s\s
+10	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	SpacesAfter=\s\s
+11	clients	client	NOUN	_	Gender=Masc|Number=Plur	14	nsubj	_	SpacesAfter=\s\s
+12	prГЁs	prГЁs	PROPN	_	_	11	appos	_	SpacesAfter=\s\s
+13	se	se	PRON	_	Person=3|PronType=Prs	14	obj	_	SpacesAfter=\s\s
+14	poser	poser	VERB	_	VerbForm=Inf	4	xcomp	_	SpacesAfter=\s\s
+15	vrais	vrai	ADJ	_	Gender=Masc|Number=Plur	14	xcomp	_	SpacesAfter=\s\s
+16	devinetteSauf	devinetteSauf	ADP	_	_	23	case	_	SpacesAfter=\s\s
+17	Que	que	ADV	_	_	18	advmod	_	SpacesAfter=\s\s
+18	plus	plus	ADV	_	_	23	advmod	_	SpacesAfter=\s\s
+19	ou	ou	CCONJ	_	_	20	cc	_	SpacesAfter=\s\s
+20	bien	bien	ADV	_	_	18	conj	_	SpacesAfter=\s\s
+21	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	SpacesAfter=\s\s
+22	moins	moins	ADV	_	_	23	advmod	_	SpacesAfter=\s\s
+23	aimables	aimable	ADJ	_	Gender=Masc|Number=Plur	15	amod	_	SpacesAfter=\s\s
+24	,	,	PUNCT	_	_	14	punct	_	SpacesAfter=\s\s
+25	ainsi	ainsi	ADV	_	_	40	advmod	_	SpacesAfter=\s\s
+26	,	,	PUNCT	_	_	40	punct	_	SpacesAfter=\s\s
+27	y	y	ADV	_	_	40	advmod	_	SpacesAfter=\s\s
+28	rГ	rГ	PROPN	_	_	40	nsubj	_	SpacesAfter=\s\s
+29	©	©	SYM	_	_	28	appos	_	SpacesAfter=\s\s
+30	pondre	pondre	VERB	_	VerbForm=Inf	29	acl	_	SpacesAfter=\s\s
+31	avec	avec	ADP	_	_	32	case	_	SpacesAfter=\s\s
+32	annonce	annoncer	NOUN	_	Gender=Fem|Number=Sing	30	obl	_	SpacesAfter=\s\s
+33	aussi	aussi	ADV	_	_	34	advmod	_	SpacesAfter=\s\s
+34	bien	bien	ADV	_	_	37	cc	_	SpacesAfter=\s\s
+35	que	que	SCONJ	_	_	34	fixed	_	SpacesAfter=\s\s
+36	chez	chez	ADP	_	_	37	case	_	SpacesAfter=\s\s
+37	Youtube	Youtube	PROPN	_	_	32	nmod	_	SpacesAfter=\s\s
+38	Les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	37	flat:name	_	SpacesAfter=\s\s
+39	accommodements	accommodement	NOUN	_	Gender=Masc|Number=Plur	37	flat:name	_	SpacesAfter=\s\s
+40	disparaissent	disparaître	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	parataxis	_	SpacesAfter=\s\s
+41	ensuite	ensuite	ADV	_	_	40	advmod	_	SpacesAfter=\s\s
+42-43	au	_	_	_	_	_	_	_	SpacesAfter=\s\s
+42	à	à	ADP	_	_	44	case	_	_
+43	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	_
+44	bout	bout	NOUN	_	Gender=Masc|Number=Sing	40	obl	_	SpacesAfter=\s\s
+45	avec	avec	ADP	_	_	47	case	_	SpacesAfter=\s\s
+46	72	72	NUM	_	_	47	nummod	_	SpacesAfter=\s\s
+47	HEt	HEt	PROPN	_	_	40	obl	_	SpacesAfter=\s\s
+48	sur	sur	ADP	_	_	49	case	_	SpacesAfter=\s\s
+49	lвЂ	lвЂ	PROPN	_	_	40	obl	_	SpacesAfter=\s\s
+50	™	™	SYM	_	_	49	flat:name	_	SpacesAfter=\s\s
+51	image	image	NOUN	_	Gender=Fem|Number=Sing	49	appos	_	SpacesAfter=\s\s
+52-53	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+52	de	de	ADP	_	_	54	case	_	_
+53	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	54	det	_	_
+54	concept	concept	NOUN	_	Gender=Masc|Number=Sing	51	nmod	_	SpacesAfter=\s\s
+55	en	en	ADP	_	_	56	mark	_	SpacesAfter=\s\s
+56	tenant	tenir	VERB	_	Tense=Pres|VerbForm=Part	51	advcl	_	SpacesAfter=\s\s
+57	Snapchat	Snapchat	PROPN	_	_	56	obj	_	SpacesAfter=\s\s
+58	Ceci	ceci	PROPN	_	_	57	flat:name	_	SpacesAfter=\s\s
+59	caractГЁre	caractГЁre	PROPN	_	_	57	flat:name	_	SpacesAfter=\s\s
+60	archiptГЁre	archiptГЁre	PROPN	_	_	57	flat:name	_	SpacesAfter=\s\s
+61	quelques	quelque	DET	_	Gender=Masc|Number=Plur	63	det	_	SpacesAfter=\s\s
+62	lettre	lettre	ADJ	_	Gender=Masc|Number=Sing	63	amod	_	SpacesAfter=\s\s
+63	avis	avis	NOUN	_	Gender=Masc|Number=Sing	56	xcomp	_	SpacesAfter=\s\s
+64	anime	animé	ADJ	_	Gender=Masc|Number=Sing	63	amod	_	SpacesAfter=\s\s
+65	de	de	ADP	_	_	68	case	_	SpacesAfter=\s\s
+66	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	68	det	_	SpacesAfter=\s\s
+67	nouveaux	nouveau	ADJ	_	Gender=Masc|Number=Plur	68	amod	_	SpaceAfter=No
+68	-nГ	-nГ	PROPN	_	_	63	nmod	_	SpacesAfter=\s\s
+69	©	©	SYM	_	_	71	compound	_	SpacesAfter=\s\s
+70	s	s	X	_	_	71	compound	_	SpacesAfter=\s\s
+71	A	A	X	_	_	68	appos	_	SpacesAfter=\s\s
+72	chez	chez	ADP	_	_	73	mark	_	SpacesAfter=\s\s
+73	embusquer	embusquer	VERB	_	VerbForm=Inf	63	acl	_	SpacesAfter=\s\s
+74	au-delГВ	au-delГВ	PROPN	_	_	73	obj	_	SpacesAfter=\s\s
+75	cachГ	cachГ	PROPN	_	_	74	flat:name	_	SpacesAfter=\s\s
+76	©	©	SYM	_	_	74	flat:name	_	SpacesAfter=\s\s
+77	s	s	X	_	_	74	flat:name	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 64
+# text = L' histoire se situe 23 ans après les événements de la trilogie Alien originale , on incarne un marine colonial stationné à bord de l' USS Endeavor et qui va devoir défourailler du Xénomorphes au cours de quatre campagnes différentes , qui nous permettront d' affronter 20 types d' ennemis différents , dont 11 Xénomorphes différents à différents stade de leur évolution allant des facehuggers aux praetorians , chacun possédant sa propre intelligence pour embusquer , surpasser et éviscérer les marines vulnérables .
+1	L'	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	SpacesAfter=\s\s
+2	histoire	histoire	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	SpacesAfter=\s\s
+3	se	se	PRON	_	Person=3|PronType=Prs	4	obj	_	SpacesAfter=\s\s
+4	situe	situer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+5	23	23	NUM	_	_	6	nummod	_	SpacesAfter=\s\s
+6	ans	an	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	SpacesAfter=\s\s
+7	après	après	ADP	_	_	9	case	_	SpacesAfter=\s\s
+8	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	SpacesAfter=\s\s
+9	événements	événement	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	SpacesAfter=\s\s
+10	de	de	ADP	_	_	12	case	_	SpacesAfter=\s\s
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	SpacesAfter=\s\s
+12	trilogie	trilogie	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	SpacesAfter=\s\s
+13	Alien	Alien	PROPN	_	_	12	appos	_	SpacesAfter=\s\s
+14	originale	original	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	SpacesAfter=\s\s
+15	,	,	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+16	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3	17	nsubj	_	SpacesAfter=\s\s
+17	incarne	incarner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	SpacesAfter=\s\s
+18	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	SpacesAfter=\s\s
+19	marine	marine	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	SpacesAfter=\s\s
+20	colonial	colonial	ADJ	_	Gender=Masc|Number=Sing	19	amod	_	SpacesAfter=\s\s
+21	stationné	stationner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	acl	_	SpacesAfter=\s\s
+22	à	à	ADP	_	_	23	case	_	SpacesAfter=\s\s
+23	bord	bord	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	SpacesAfter=\s\s
+24	de	de	ADP	_	_	26	case	_	SpacesAfter=\s\s
+25	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	26	det	_	SpacesAfter=\s\s
+26	USS	USS	PROPN	_	_	23	nmod	_	SpacesAfter=\s\s
+27	Endeavor	Endeavor	PROPN	_	_	26	flat:name	_	SpacesAfter=\s\s
+28	et	et	CCONJ	_	_	32	cc	_	SpacesAfter=\s\s
+29	qui	qui	PRON	_	PronType=Rel	32	nsubj	_	SpacesAfter=\s\s
+30	va	aller	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	aux	_	SpacesAfter=\s\s
+31	devoir	devoir	AUX	_	VerbForm=Inf	32	aux	_	SpacesAfter=\s\s
+32	défourailler	défourailler	VERB	_	VerbForm=Inf	26	conj	_	SpacesAfter=\s\s
+33-34	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+33	de	de	ADP	_	_	35	case	_	_
+34	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
+35	Xénomorphes	Xénomorphes	PROPN	_	_	32	obl	_	SpacesAfter=\s\s
+36-37	au	_	_	_	_	_	_	_	SpacesAfter=\s\s
+36	à	à	ADP	_	_	38	case	_	_
+37	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	_
+38	cours	cours	NOUN	_	Gender=Masc|Number=Sing	32	obl	_	SpacesAfter=\s\s
+39	de	de	ADP	_	_	41	case	_	SpacesAfter=\s\s
+40	quatre	quatre	NUM	_	_	41	nummod	_	SpacesAfter=\s\s
+41	campagnes	campagne	NOUN	_	Gender=Fem|Number=Plur	38	nmod	_	SpacesAfter=\s\s
+42	différentes	différent	ADJ	_	Gender=Fem|Number=Plur	41	amod	_	SpacesAfter=\s\s
+43	,	,	PUNCT	_	_	41	punct	_	SpacesAfter=\s\s
+44	qui	qui	PRON	_	PronType=Rel	46	nsubj	_	SpacesAfter=\s\s
+45	nous	lui	PRON	_	Number=Plur|Person=1|PronType=Prs	46	iobj	_	SpacesAfter=\s\s
+46	permettront	permettre	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	41	acl:relcl	_	SpacesAfter=\s\s
+47	d'	de	ADP	_	_	48	mark	_	SpacesAfter=\s\s
+48	affronter	affronter	VERB	_	VerbForm=Inf	46	acl	_	SpacesAfter=\s\s
+49	20	20	NUM	_	_	50	nummod	_	SpacesAfter=\s\s
+50	types	type	NOUN	_	Gender=Masc|Number=Plur	48	obj	_	SpacesAfter=\s\s
+51	d'	de	ADP	_	_	52	case	_	SpacesAfter=\s\s
+52	ennemis	ennemi	NOUN	_	Gender=Masc|Number=Plur	50	nmod	_	SpacesAfter=\s\s
+53	différents	différent	ADJ	_	Gender=Masc|Number=Plur	52	amod	_	SpacesAfter=\s\s
+54	,	,	PUNCT	_	_	50	punct	_	SpacesAfter=\s\s
+55	dont	dont	PRON	_	PronType=Rel	57	nmod	_	SpacesAfter=\s\s
+56	11	11	NUM	_	_	57	nummod	_	SpacesAfter=\s\s
+57	Xénomorphes	Xénomorphe	NOUN	_	Gender=Masc|Number=Plur	50	appos	_	SpacesAfter=\s\s
+58	différents	différent	ADJ	_	Gender=Masc|Number=Plur	57	amod	_	SpacesAfter=\s\s
+59	à	à	ADP	_	_	61	case	_	SpacesAfter=\s\s
+60	différents	différent	DET	_	Gender=Masc|Number=Plur	61	det	_	SpacesAfter=\s\s
+61	stade	stade	NOUN	_	Gender=Masc|Number=Sing	57	nmod	_	SpacesAfter=\s\s
+62	de	de	ADP	_	_	64	case	_	SpacesAfter=\s\s
+63	leur	son	DET	_	Gender=Fem|Number=Sing|PronType=Prs	64	nmod:poss	_	SpacesAfter=\s\s
+64	évolution	évolution	NOUN	_	Gender=Fem|Number=Sing	61	nmod	_	SpacesAfter=\s\s
+65	allant	aller	VERB	_	Tense=Pres|VerbForm=Part	64	acl	_	SpacesAfter=\s\s
+66-67	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+66	de	de	ADP	_	_	68	case	_	_
+67	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	68	det	_	_
+68	facehuggers	facehugger	NOUN	_	Gender=Masc|Number=Plur	65	obl	_	SpacesAfter=\s\s
+69-70	aux	_	_	_	_	_	_	_	SpacesAfter=\s\s
+69	à	à	ADP	_	_	71	case	_	_
+70	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	71	det	_	_
+71	praetorians	praetorian	NOUN	_	Gender=Masc|Number=Plur	65	obl	_	SpacesAfter=\s\s
+72	,	,	PUNCT	_	_	57	punct	_	SpacesAfter=\s\s
+73	chacun	chacun	PRON	_	Gender=Masc|Number=Sing	50	appos	_	SpacesAfter=\s\s
+74	possédant	posséder	VERB	_	Tense=Pres|VerbForm=Part	73	acl	_	SpacesAfter=\s\s
+75	sa	son	DET	_	Gender=Fem|Number=Sing|PronType=Prs	77	nmod:poss	_	SpacesAfter=\s\s
+76	propre	propre	ADJ	_	Gender=Fem|Number=Sing	77	amod	_	SpacesAfter=\s\s
+77	intelligence	intelligence	NOUN	_	Gender=Fem|Number=Sing	74	obj	_	SpacesAfter=\s\s
+78	pour	pour	ADP	_	_	79	mark	_	SpacesAfter=\s\s
+79	embusquer	embusquer	VERB	_	VerbForm=Inf	74	advcl	_	SpacesAfter=\s\s
+80	,	,	PUNCT	_	_	81	punct	_	SpacesAfter=\s\s
+81	surpasser	surpasser	VERB	_	VerbForm=Inf	79	conj	_	SpacesAfter=\s\s
+82	et	et	CCONJ	_	_	83	cc	_	SpacesAfter=\s\s
+83	éviscérer	éviscérer	VERB	_	VerbForm=Inf	79	conj	_	SpacesAfter=\s\s
+84	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	85	det	_	SpacesAfter=\s\s
+85	marines	marine	NOUN	_	Gender=Fem|Number=Plur	83	obj	_	SpacesAfter=\s\s
+86	vulnérables	vulnérabl	ADJ	_	Gender=Fem|Number=Plur	85	amod	_	SpacesAfter=\s\s
+87	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 65
+# text = Au programme de ce retour en adaptation vidéoludique : des êtres synthétiques de la corporation Weyland-Yutani , mais surtout des aliens , beaucoup d' aliens - une vingtaine sont ainsi promis par le descriptif déjà en ligne sur la page Steam du jeu , avec 11 Xénomorphes répondant à l' appel allant du simple facehugger en mal d' affection - ou d' infection - jusqu' aux praetoriens , des créateurs " possédant [ leurs ] propre intelligence pour embusquer , surpasser et éviscérer les marines vulnérables " et capables de se faufiler dans les moindres recoins à travers les systèmes d' aérations et les toits dans la plus pure tradition extra-terrestre .
+1-2	Au	_	_	_	_	_	_	_	SpacesAfter=\s\s
+1	À	à	ADP	_	_	3	case	_	_
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	programme	programme	NOUN	_	Gender=Masc|Number=Sing	34	obl	_	SpacesAfter=\s\s
+4	de	de	ADP	_	_	6	case	_	SpacesAfter=\s\s
+5	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	6	det	_	SpacesAfter=\s\s
+6	retour	retour	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	SpacesAfter=\s\s
+7	en	en	ADP	_	_	8	case	_	SpacesAfter=\s\s
+8	adaptation	adaptation	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	SpacesAfter=\s\s
+9	vidéoludique	vidéoludique	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	SpacesAfter=\s\s
+10	:	:	PUNCT	_	_	3	punct	_	SpacesAfter=\s\s
+11-12	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+11	de	de	ADP	_	_	13	case	_	_
+12	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
+13	êtres	être	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	SpacesAfter=\s\s
+14	synthétiques	synthétique	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	SpacesAfter=\s\s
+15	de	de	ADP	_	_	17	case	_	SpacesAfter=\s\s
+16	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	SpacesAfter=\s\s
+17	corporation	corporation	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpacesAfter=\s\s
+18	Weyland-Yutani	Weyland-Yutani	PROPN	_	_	17	appos	_	SpacesAfter=\s\s
+19	,	,	PUNCT	_	_	3	punct	_	SpacesAfter=\s\s
+20	mais	mais	CCONJ	_	_	24	cc	_	SpacesAfter=\s\s
+21	surtout	surtout	ADV	_	_	24	advmod	_	SpacesAfter=\s\s
+22-23	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+22	de	de	ADP	_	_	24	case	_	_
+23	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
+24	aliens	alien	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	SpacesAfter=\s\s
+25	,	,	PUNCT	_	_	28	punct	_	SpacesAfter=\s\s
+26	beaucoup	beaucoup	ADV	_	_	28	det	_	SpacesAfter=\s\s
+27	d'	de	ADP	_	_	26	fixed	_	SpacesAfter=\s\s
+28	aliens	alien	NOUN	_	Gender=Masc|Number=Plur	3	conj	_	SpacesAfter=\s\s
+29	-	-	PUNCT	_	_	3	punct	_	SpacesAfter=\s\s
+30	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	31	det	_	SpacesAfter=\s\s
+31	vingtaine	vingtaine	NOUN	_	Gender=Fem|Number=Sing	34	nsubj:pass	_	SpacesAfter=\s\s
+32	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	34	aux:pass	_	SpacesAfter=\s\s
+33	ainsi	ainsi	ADV	_	_	34	advmod	_	SpacesAfter=\s\s
+34	promis	promettre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpacesAfter=\s\s
+35	par	par	ADP	_	_	37	case	_	SpacesAfter=\s\s
+36	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	SpacesAfter=\s\s
+37	descriptif	descriptif	NOUN	_	Gender=Masc|Number=Sing	34	obl	_	SpacesAfter=\s\s
+38	déjà	déjà	ADV	_	_	40	advmod	_	SpacesAfter=\s\s
+39	en	en	ADP	_	_	40	case	_	SpacesAfter=\s\s
+40	ligne	ligne	NOUN	_	Gender=Fem|Number=Sing	37	nmod	_	SpacesAfter=\s\s
+41	sur	sur	ADP	_	_	43	case	_	SpacesAfter=\s\s
+42	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	43	det	_	SpacesAfter=\s\s
+43	page	page	NOUN	_	Gender=Fem|Number=Sing	40	nmod	_	SpacesAfter=\s\s
+44	Steam	Steam	PROPN	_	_	43	appos	_	SpacesAfter=\s\s
+45-46	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+45	de	de	ADP	_	_	47	case	_	_
+46	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	47	det	_	_
+47	jeu	jeu	NOUN	_	Gender=Masc|Number=Sing	43	nmod	_	SpacesAfter=\s\s
+48	,	,	PUNCT	_	_	34	punct	_	SpacesAfter=\s\s
+49	avec	avec	ADP	_	_	51	case	_	SpacesAfter=\s\s
+50	11	11	NUM	_	_	51	nummod	_	SpacesAfter=\s\s
+51	Xénomorphes	Xénomorphe	NOUN	_	Gender=Fem|Number=Plur	34	obl	_	SpacesAfter=\s\s
+52	répondant	répondre	VERB	_	Tense=Pres|VerbForm=Part	51	acl	_	SpacesAfter=\s\s
+53	à	à	ADP	_	_	55	case	_	SpacesAfter=\s\s
+54	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	55	det	_	SpacesAfter=\s\s
+55	appel	appel	NOUN	_	Gender=Masc|Number=Sing	52	obl	_	SpacesAfter=\s\s
+56	allant	aller	VERB	_	Tense=Pres|VerbForm=Part	55	acl	_	SpacesAfter=\s\s
+57-58	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+57	de	de	ADP	_	_	60	case	_	_
+58	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	60	det	_	_
+59	simple	simple	ADJ	_	Gender=Masc|Number=Sing	60	amod	_	SpacesAfter=\s\s
+60	facehugger	facehugger	NOUN	_	Gender=Masc|Number=Sing	56	obl	_	SpacesAfter=\s\s
+61	en	en	ADP	_	_	62	case	_	SpacesAfter=\s\s
+62	mal	mal	NOUN	_	Gender=Masc|Number=Sing	56	obl	_	SpacesAfter=\s\s
+63	d'	de	ADP	_	_	64	case	_	SpacesAfter=\s\s
+64	affection	affection	NOUN	_	Gender=Fem|Number=Sing	62	nmod	_	SpacesAfter=\s\s
+65	-	-	PUNCT	_	_	55	punct	_	SpacesAfter=\s\s
+66	ou	ou	CCONJ	_	_	68	cc	_	SpacesAfter=\s\s
+67	d'	de	ADP	_	_	68	case	_	SpacesAfter=\s\s
+68	infection	infection	NOUN	_	Gender=Fem|Number=Sing	55	conj	_	SpacesAfter=\s\s
+69	-	-	PUNCT	_	_	68	punct	_	SpacesAfter=\s\s
+70	jusqu'	jusque	ADP	_	_	73	case	_	SpacesAfter=\s\s
+71-72	aux	_	_	_	_	_	_	_	SpacesAfter=\s\s
+71	à	à	ADP	_	_	73	case	_	_
+72	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	73	det	_	_
+73	praetoriens	praetorien	NOUN	_	Gender=Masc|Number=Plur	55	nmod	_	SpacesAfter=\s\s
+74	,	,	PUNCT	_	_	77	punct	_	SpacesAfter=\s\s
+75-76	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+75	de	de	ADP	_	_	77	case	_	_
+76	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	77	det	_	_
+77	créateurs	créateur	NOUN	_	Gender=Masc|Number=Plur	73	conj	_	SpacesAfter=\s\s
+78	"	"	PUNCT	_	_	79	punct	_	SpacesAfter=\s\s
+79	possédant	posséder	VERB	_	Tense=Pres|VerbForm=Part	77	acl	_	SpacesAfter=\s\s
+80	[	[	PUNCT	_	_	81	punct	_	SpacesAfter=\s\s
+81	leurs	son	DET	_	Gender=Fem|Number=Plur|PronType=Prs	84	nmod:poss	_	SpacesAfter=\s\s
+82	]	]	PUNCT	_	_	81	punct	_	SpacesAfter=\s\s
+83	propre	propre	ADJ	_	Gender=Fem|Number=Sing	84	amod	_	SpacesAfter=\s\s
+84	intelligence	intelligence	NOUN	_	Gender=Fem|Number=Sing	79	obj	_	SpacesAfter=\s\s
+85	pour	pour	ADP	_	_	86	mark	_	SpacesAfter=\s\s
+86	embusquer	embusquer	VERB	_	VerbForm=Inf	79	acl	_	SpacesAfter=\s\s
+87	,	,	PUNCT	_	_	88	punct	_	SpacesAfter=\s\s
+88	surpasser	surpasser	VERB	_	VerbForm=Inf	86	conj	_	SpacesAfter=\s\s
+89	et	et	CCONJ	_	_	90	cc	_	SpacesAfter=\s\s
+90	éviscérer	éviscérer	VERB	_	VerbForm=Inf	86	conj	_	SpacesAfter=\s\s
+91	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	92	det	_	SpacesAfter=\s\s
+92	marines	marine	NOUN	_	Gender=Fem|Number=Plur	90	obj	_	SpacesAfter=\s\s
+93	vulnérables	vulnérabl	ADJ	_	Gender=Fem|Number=Plur	92	amod	_	SpacesAfter=\s\s
+94	"	"	PUNCT	_	_	92	punct	_	SpacesAfter=\s\s
+95	et	et	CCONJ	_	_	96	cc	_	SpacesAfter=\s\s
+96	capables	capable	ADJ	_	Gender=Masc|Number=Plur	92	conj	_	SpacesAfter=\s\s
+97	de	de	ADP	_	_	99	mark	_	SpacesAfter=\s\s
+98	se	se	PRON	_	Person=3|PronType=Prs	99	obj	_	SpacesAfter=\s\s
+99	faufiler	faufiler	VERB	_	VerbForm=Inf	96	acl	_	SpacesAfter=\s\s
+100	dans	dans	ADP	_	_	103	case	_	SpacesAfter=\s\s
+101	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	103	det	_	SpacesAfter=\s\s
+102	moindres	moindre	ADJ	_	Gender=Masc|Number=Plur	103	amod	_	SpacesAfter=\s\s
+103	recoins	recoindre	NOUN	_	Gender=Masc|Number=Plur	99	obl	_	SpacesAfter=\s\s
+104	à	à	ADP	_	_	107	case	_	SpacesAfter=\s\s
+105	travers	travers	NOUN	_	Gender=Masc|Number=Sing	104	fixed	_	SpacesAfter=\s\s
+106	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	107	det	_	SpacesAfter=\s\s
+107	systèmes	système	NOUN	_	Gender=Masc|Number=Plur	99	obl	_	SpacesAfter=\s\s
+108	d'	de	ADP	_	_	109	case	_	SpacesAfter=\s\s
+109	aérations	aération	NOUN	_	Gender=Fem|Number=Plur	107	nmod	_	SpacesAfter=\s\s
+110	et	et	CCONJ	_	_	112	cc	_	SpacesAfter=\s\s
+111	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	112	det	_	SpacesAfter=\s\s
+112	toits	toit	NOUN	_	Gender=Masc|Number=Plur	107	conj	_	SpacesAfter=\s\s
+113	dans	dans	ADP	_	_	117	case	_	SpacesAfter=\s\s
+114	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	117	det	_	SpacesAfter=\s\s
+115	plus	plus	ADV	_	_	116	advmod	_	SpacesAfter=\s\s
+116	pure	pur	ADJ	_	Gender=Fem|Number=Sing	117	amod	_	SpacesAfter=\s\s
+117	tradition	tradition	NOUN	_	Gender=Fem|Number=Sing	112	nmod	_	SpacesAfter=\s\s
+118	extra-terrestre	extra-terrestre	ADJ	_	Gender=Fem|Number=Sing	117	amod	_	SpacesAfter=\s\s
+119	.	.	PUNCT	_	_	34	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 66
+# text = Vous voulez un moyen de votre point de vue mettre ГВ son avantage auprГЁs de http://datingmentor.org/fr/friendfinder-review/ les derniers chalandes en surfant sur Tinder ? )
+1	Vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	2	nsubj	_	SpacesAfter=\s\s
+2	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	SpacesAfter=\s\s
+4	moyen	moyen	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	SpacesAfter=\s\s
+5	de	de	ADP	_	_	7	case	_	SpacesAfter=\s\s
+6	votre	son	DET	_	Gender=Masc|Number=Sing|PronType=Prs	7	nmod:poss	_	SpacesAfter=\s\s
+7	point	point	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	SpacesAfter=\s\s
+8	de	de	ADP	_	_	9	case	_	SpacesAfter=\s\s
+9	vue	vue	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	SpacesAfter=\s\s
+10	mettre	mettre	VERB	_	VerbForm=Inf	4	acl	_	SpacesAfter=\s\s
+11	ГВ	ГВ	PROPN	_	_	10	obj	_	SpacesAfter=\s\s
+12	son	son	DET	_	Gender=Masc|Number=Sing|PronType=Prs	13	nmod:poss	_	SpacesAfter=\s\s
+13	avantage	avantage	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	SpacesAfter=\s\s
+14	auprГЁs	auprГЁs	PROPN	_	_	13	appos	_	SpacesAfter=\s\s
+15	de	de	ADP	_	_	19	case	_	SpacesAfter=\s\s
+16	http://datingmentor.org/fr/friendfinder-review/	http://datingmentor.org/fr/friendfinder-review/	PUNCT	_	_	19	punct	_	SpacesAfter=\s\s
+17	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	SpacesAfter=\s\s
+18	derniers	dernier	ADJ	_	Gender=Masc|Number=Plur	19	amod	_	SpacesAfter=\s\s
+19	chalandes	chalande	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	SpacesAfter=\s\s
+20	en	en	ADP	_	_	21	mark	_	SpacesAfter=\s\s
+21	surfant	surfant	VERB	_	Tense=Pres|VerbForm=Part	19	advcl	_	SpacesAfter=\s\s
+22	sur	sur	ADP	_	_	23	case	_	SpacesAfter=\s\s
+23	Tinder	Tinder	PROPN	_	_	21	obl	_	SpacesAfter=\s\s
+24	?	?	PUNCT	_	_	19	punct	_	SpacesAfter=\s\s
+25	)	)	PUNCT	_	_	19	punct	_	SpacesAfter=\s\s
+
+# sent_id = 67
+# text = ГЌВ cette finEt hors de question tergiverser pour embusquer une photographie de mes followers bruissement Cette ami laquelle nвЂ ™ est pas spГ © cialement affriolant
+1	ГЌВ	ГЌВ	PROPN	_	_	7	nsubj	_	SpacesAfter=\s\s
+2	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	SpacesAfter=\s\s
+3	finEt	finEt	PROPN	_	_	1	flat:name	_	SpacesAfter=\s\s
+4	hors	hors	ADP	_	_	6	case	_	SpacesAfter=\s\s
+5	de	de	ADP	_	_	4	fixed	_	SpacesAfter=\s\s
+6	question	question	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	SpacesAfter=\s\s
+7	tergiverser	tergiverser	VERB	_	VerbForm=Inf	0	root	_	SpacesAfter=\s\s
+8	pour	pour	ADP	_	_	9	mark	_	SpacesAfter=\s\s
+9	embusquer	embusquer	VERB	_	VerbForm=Inf	7	advcl	_	SpacesAfter=\s\s
+10	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	SpacesAfter=\s\s
+11	photographie	photographie	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	SpacesAfter=\s\s
+12	de	de	ADP	_	_	14	case	_	SpacesAfter=\s\s
+13	mes	son	DET	_	Gender=Masc|Number=Plur|PronType=Prs	14	nmod:poss	_	SpacesAfter=\s\s
+14	followers	follower	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	SpacesAfter=\s\s
+15	bruissement	bruissement	ADV	_	_	17	advmod	_	SpacesAfter=\s\s
+16	Cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	17	det	_	SpacesAfter=\s\s
+17	ami	ami	NOUN	_	Gender=Masc|Number=Sing	11	appos	_	SpacesAfter=\s\s
+18	laquelle	lequel	PRON	_	Gender=Fem|Number=Sing|PronType=Rel	23	obl	_	SpacesAfter=\s\s
+19	nвЂ	nвЂ	PROPN	_	_	23	nsubj	_	SpacesAfter=\s\s
+20	™	™	SYM	_	_	19	flat:name	_	SpacesAfter=\s\s
+21	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	SpacesAfter=\s\s
+22	pas	pas	ADV	_	Polarity=Neg	23	advmod	_	SpacesAfter=\s\s
+23	spГ	spГ	PROPN	_	_	17	appos	_	SpacesAfter=\s\s
+24	©	©	SYM	_	_	23	flat:name	_	SpacesAfter=\s\s
+25	cialement	cialement	ADV	_	_	26	advmod	_	SpacesAfter=\s\s
+26	affriolant	affrioler	VERB	_	Tense=Pres|VerbForm=Part	23	acl	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 68
+# text = Celui-ci nвЂ ™ y aurait obtient mauvais leurs actions dвЂ ™ art ensuite photogramme qui supportent leurs propres rГ © seaux sociaux consacrГ © s !
+1	Celui-ci	celui-ci	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	6	nsubj	_	SpacesAfter=\s\s
+2	nвЂ	nвЂ	PROPN	_	_	1	appos	_	SpacesAfter=\s\s
+3	™	™	SYM	_	_	2	flat:name	_	SpacesAfter=\s\s
+4	y	y	PRON	_	_	6	nsubj	_	SpacesAfter=\s\s
+5	aurait	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	SpacesAfter=\s\s
+6	obtient	obtenir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+7	mauvais	mauvais	ADJ	_	Gender=Masc|Number=Plur	9	amod	_	SpacesAfter=\s\s
+8	leurs	son	DET	_	Gender=Fem|Number=Plur|PronType=Prs	9	nmod:poss	_	SpacesAfter=\s\s
+9	actions	action	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	SpacesAfter=\s\s
+10	dвЂ	dвЂ	PROPN	_	_	9	appos	_	SpacesAfter=\s\s
+11	™	™	SYM	_	_	10	flat:name	_	SpacesAfter=\s\s
+12	art	artir	NOUN	_	Gender=Masc|Number=Sing	10	appos	_	SpacesAfter=\s\s
+13	ensuite	ensuite	ADV	_	_	14	advmod	_	SpacesAfter=\s\s
+14	photogramme	photogramme	SCONJ	_	_	12	appos	_	SpacesAfter=\s\s
+15	qui	qui	PRON	_	PronType=Rel	16	nsubj	_	SpacesAfter=\s\s
+16	supportent	supporter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	SpacesAfter=\s\s
+17	leurs	son	DET	_	Gender=Masc|Number=Plur|PronType=Prs	19	nmod:poss	_	SpacesAfter=\s\s
+18	propres	propre	ADJ	_	Gender=Masc|Number=Plur	19	amod	_	SpacesAfter=\s\s
+19	rГ	rГ	PROPN	_	_	16	obj	_	SpacesAfter=\s\s
+20	©	©	SYM	_	_	21	cc	_	SpacesAfter=\s\s
+21	seaux	seau	NOUN	_	Gender=Masc|Number=Plur	19	conj	_	SpacesAfter=\s\s
+22	sociaux	social	ADJ	_	Gender=Masc|Number=Plur	21	amod	_	SpacesAfter=\s\s
+23	consacrГ	consacrГ	PROPN	_	_	21	appos	_	SpacesAfter=\s\s
+24	©	©	SYM	_	_	23	flat:name	_	SpacesAfter=\s\s
+25	s	s	X	_	_	23	flat:name	_	SpacesAfter=\s\s
+26	!	!	PUNCT	_	_	14	punct	_	SpacesAfter=\s\s
+
+# sent_id = 69
+# text = Chaque Г © lГ © ment touchant pour lвЂ ™ art en pullEt une manteau vis-Г -vis des carrГ © es voit se trouver sur les pages Raverly AdГ © quat dans Pinterest , !
+1	Chaque	chaque	DET	_	Gender=Masc|Number=Sing	2	det	_	SpacesAfter=\s\s
+2	Г	Г	PROPN	_	_	26	nsubj	_	SpacesAfter=\s\s
+3	©	©	SYM	_	_	2	flat:name	_	SpacesAfter=\s\s
+4	lГ	lГ	PROPN	_	_	2	flat:name	_	SpacesAfter=\s\s
+5	©	©	SYM	_	_	2	flat:name	_	SpacesAfter=\s\s
+6	ment	ment	ADV	_	_	7	advmod	_	SpacesAfter=\s\s
+7	touchant	toucher	VERB	_	Tense=Pres|VerbForm=Part	5	acl	_	SpacesAfter=\s\s
+8	pour	pour	ADP	_	_	9	case	_	SpacesAfter=\s\s
+9	lвЂ	lвЂ	PROPN	_	_	7	obl	_	SpacesAfter=\s\s
+10	™	™	SYM	_	_	9	flat:name	_	SpacesAfter=\s\s
+11	art	art	NOUN	_	Gender=Masc|Number=Sing	9	appos	_	SpacesAfter=\s\s
+12	en	en	ADP	_	_	13	case	_	SpacesAfter=\s\s
+13	pullEt	pullEt	PROPN	_	_	11	nmod	_	SpacesAfter=\s\s
+14	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	SpacesAfter=\s\s
+15	manteau	manteau	NOUN	_	Gender=Fem|Number=Sing	11	appos	_	SpacesAfter=\s\s
+16	vis-Г	vis-Г	PROPN	_	_	15	appos	_	SpacesAfter=\s\s
+17	-	-	PUNCT	_	_	11	punct	_	SpaceAfter=No
+18	vis	vis	NOUN	_	Gender=Fem|Number=Sing	15	appos	_	SpacesAfter=\s\s
+19-20	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+19	de	de	ADP	_	_	21	case	_	_
+20	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	21	det	_	_
+21	carrГ	carrГ	PROPN	_	_	18	nmod	_	SpacesAfter=\s\s
+22	©	©	SYM	_	_	21	flat:name	_	SpacesAfter=\s\s
+23	es	être	X	_	_	18	appos	_	SpacesAfter=\s\s
+24	voit	voir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	aux	_	SpacesAfter=\s\s
+25	se	se	PRON	_	Person=3|PronType=Prs	26	obj	_	SpacesAfter=\s\s
+26	trouver	trouver	VERB	_	VerbForm=Inf	0	root	_	SpacesAfter=\s\s
+27	sur	sur	ADP	_	_	29	case	_	SpacesAfter=\s\s
+28	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	29	det	_	SpacesAfter=\s\s
+29	pages	page	NOUN	_	Gender=Fem|Number=Plur	26	obl	_	SpacesAfter=\s\s
+30	Raverly	Raverly	PROPN	_	_	29	appos	_	SpacesAfter=\s\s
+31	AdГ	AdГ	PROPN	_	_	30	flat:name	_	SpacesAfter=\s\s
+32	©	©	SYM	_	_	30	flat:name	_	SpacesAfter=\s\s
+33	quat	quat	NOUN	_	Gender=Masc|Number=Sing	29	nmod	_	SpacesAfter=\s\s
+34	dans	dans	ADP	_	_	35	case	_	SpacesAfter=\s\s
+35	Pinterest	Pinterest	PROPN	_	_	33	nmod	_	SpacesAfter=\s\s
+36	,	,	PUNCT	_	_	26	punct	_	SpacesAfter=\s\s
+37	!	!	PUNCT	_	_	26	punct	_	SpacesAfter=\s\s
+
+# sent_id = 70
+# text = Mon tissu vous permet avec embusquer des photographies de la somme des bains trottГ © s bandouliГЁres , ! giletвЂ | ensuite quand vous serez de ce variГ © tГ © vers se prГ © senter comme vraiment fГ © condsOu vous pourrez Bien entendu guetter des clichГ © s en tenant nos apparitions du manteau Ensuite Г partir de sa propre production du 2007 , !
+1	Mon	son	DET	_	Gender=Masc|Number=Sing|PronType=Prs	2	nmod:poss	_	SpacesAfter=\s\s
+2	tissu	tissu	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	SpacesAfter=\s\s
+3	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	4	iobj	_	SpacesAfter=\s\s
+4	permet	permettre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+5	avec	avec	ADP	_	_	6	mark	_	SpacesAfter=\s\s
+6	embusquer	embusquer	VERB	_	VerbForm=Inf	4	acl	_	SpacesAfter=\s\s
+7-8	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+7	de	de	ADP	_	_	9	case	_	_
+8	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	9	det	_	_
+9	photographies	photographie	NOUN	_	Gender=Fem|Number=Plur	6	obl	_	SpacesAfter=\s\s
+10	de	de	ADP	_	_	12	case	_	SpacesAfter=\s\s
+11	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	SpacesAfter=\s\s
+12	somme	somme	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	SpacesAfter=\s\s
+13-14	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+13	de	de	ADP	_	_	15	case	_	_
+14	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
+15	bains	bain	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	SpacesAfter=\s\s
+16	trottГ	trottГ	PROPN	_	_	15	appos	_	SpacesAfter=\s\s
+17	©	©	SYM	_	_	16	flat:name	_	SpacesAfter=\s\s
+18	s	s	X	_	_	16	flat:name	_	SpacesAfter=\s\s
+19	bandouliГЁres	bandouliГЁres	PROPN	_	_	16	flat:name	_	SpacesAfter=\s\s
+20	,	,	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+21	!	!	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+22	giletвЂ	giletвЂ	PROPN	_	_	4	obj	_	SpacesAfter=\s\s
+23	|	|	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+24	ensuite	ensuite	ADV	_	_	4	advmod	_	SpacesAfter=\s\s
+25	quand	quand	SCONJ	_	_	27	mark	_	SpacesAfter=\s\s
+26	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	27	nsubj	_	SpacesAfter=\s\s
+27	serez	être	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	4	advcl	_	SpacesAfter=\s\s
+28	de	de	ADP	_	_	30	case	_	SpacesAfter=\s\s
+29	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	30	det	_	SpacesAfter=\s\s
+30	variГ	variГ	PROPN	_	_	27	obl	_	SpacesAfter=\s\s
+31	©	©	SYM	_	_	30	flat:name	_	SpacesAfter=\s\s
+32	tГ	tГ	PROPN	_	_	30	flat:name	_	SpacesAfter=\s\s
+33	©	©	SYM	_	_	27	obj	_	SpacesAfter=\s\s
+34	vers	vers	ADP	_	_	36	case	_	SpacesAfter=\s\s
+35	se	se	PRON	_	Person=3|PronType=Prs	36	expl	_	SpacesAfter=\s\s
+36	prГ	prГ	PROPN	_	_	27	obl	_	SpacesAfter=\s\s
+37	©	©	SYM	_	_	36	flat:name	_	SpacesAfter=\s\s
+38	senter	senter	VERB	_	VerbForm=Inf	36	flat:name	_	SpacesAfter=\s\s
+39	comme	comme	ADP	_	_	41	case	_	SpacesAfter=\s\s
+40	vraiment	vraiment	ADV	_	_	41	advmod	_	SpacesAfter=\s\s
+41	fГ	fГ	PROPN	_	_	27	obl	_	SpacesAfter=\s\s
+42	©	©	SYM	_	_	41	flat:name	_	SpacesAfter=\s\s
+43	condsOu	condsou	PROPN	_	_	41	flat:name	_	SpacesAfter=\s\s
+44	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	47	nsubj	_	SpacesAfter=\s\s
+45	pourrez	pouvoir	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	47	aux	_	SpacesAfter=\s\s
+46	Bien	bien	ADV	_	_	47	advmod	_	SpacesAfter=\s\s
+47	entendu	entendre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	41	acl:relcl	_	SpacesAfter=\s\s
+48	guetter	guetter	NOUN	_	Gender=Masc|Number=Sing	47	obj	_	SpacesAfter=\s\s
+49-50	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+49	de	de	ADP	_	_	51	case	_	_
+50	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	51	det	_	_
+51	clichГ	clichГ	PROPN	_	_	48	nmod	_	SpacesAfter=\s\s
+52	©	©	SYM	_	_	51	flat:name	_	SpacesAfter=\s\s
+53	s	s	X	_	_	51	flat:name	_	SpacesAfter=\s\s
+54	en	en	ADP	_	_	55	mark	_	SpacesAfter=\s\s
+55	tenant	tenir	VERB	_	Tense=Pres|VerbForm=Part	47	advcl	_	SpacesAfter=\s\s
+56	nos	son	DET	_	Gender=Fem|Number=Plur|PronType=Prs	57	nmod:poss	_	SpacesAfter=\s\s
+57	apparitions	apparition	NOUN	_	Gender=Fem|Number=Plur	55	obj	_	SpacesAfter=\s\s
+58-59	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+58	de	de	ADP	_	_	60	case	_	_
+59	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	60	det	_	_
+60	manteau	manteau	NOUN	_	Gender=Masc|Number=Sing	57	nmod	_	SpacesAfter=\s\s
+61	Ensuite	ensuite	PROPN	_	_	60	appos	_	SpacesAfter=\s\s
+62	Г	Г	PROPN	_	_	61	flat:name	_	SpacesAfter=\s\s
+63	partir	partir	VERB	_	VerbForm=Inf	60	acl	_	SpacesAfter=\s\s
+64	de	de	ADP	_	_	67	case	_	SpacesAfter=\s\s
+65	sa	son	DET	_	Gender=Fem|Number=Sing|PronType=Prs	67	nmod:poss	_	SpacesAfter=\s\s
+66	propre	propre	ADJ	_	Gender=Fem|Number=Sing	67	amod	_	SpacesAfter=\s\s
+67	production	production	NOUN	_	Gender=Fem|Number=Sing	63	obl	_	SpacesAfter=\s\s
+68-69	du	_	_	_	_	_	_	_	SpacesAfter=\s\s
+68	de	de	ADP	_	_	70	case	_	_
+69	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	70	det	_	_
+70	2007	2007	NUM	_	_	67	nmod	_	SpacesAfter=\s\s
+71	,	,	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+72	!	!	PUNCT	_	_	4	punct	_	SpacesAfter=\s\s
+
+# sent_id = 71
+# text = le site avis au minimum H quantitГ © dвЂ ™ utilisateurs au abaque .
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	SpacesAfter=\s\s
+2	site	site	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\s\s
+3	avis	avir	NOUN	_	Gender=Masc|Number=Sing	2	compound	_	SpacesAfter=\s\s
+4-5	au	_	_	_	_	_	_	_	SpacesAfter=\s\s
+4	à	à	ADP	_	_	6	case	_	_
+5	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	minimum	minimum	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	SpacesAfter=\s\s
+7	H	H	SYM	_	_	6	appos	_	SpacesAfter=\s\s
+8	quantitГ	quantitГ	PROPN	_	_	7	conj	_	SpacesAfter=\s\s
+9	©	©	SYM	_	_	8	flat:name	_	SpacesAfter=\s\s
+10	dвЂ	dвЂ	PROPN	_	_	8	flat:name	_	SpacesAfter=\s\s
+11	™	™	SYM	_	_	8	flat:name	_	SpacesAfter=\s\s
+12	utilisateurs	utilisateur	NOUN	_	Gender=Masc|Number=Plur	8	flat:name	_	SpacesAfter=\s\s
+13-14	au	_	_	_	_	_	_	_	SpacesAfter=\s\s
+13	à	à	ADP	_	_	15	case	_	_
+14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+15	abaque	abaque	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	SpacesAfter=\s\s
+16	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 72
+# text = Sur cette vidéo diffusée sur les réseaux sociaux ce mercredi 24 mars par le parti Forza Nova , on peut voir six mineurs embusquer puis passer à tabac un autre jeune , à coup de pied , de poing , et avec un bâton .
+1	Sur	sur	ADP	_	_	3	case	_	SpacesAfter=\s\s
+2	cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	SpacesAfter=\s\s
+3	vidéo	vidéo	NOUN	_	Gender=Fem|Number=Sing	21	obl	_	SpacesAfter=\s\s
+4	diffusée	diffuser	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	acl	_	SpacesAfter=\s\s
+5	sur	sur	ADP	_	_	7	case	_	SpacesAfter=\s\s
+6	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	SpacesAfter=\s\s
+7	réseaux	réseau	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	SpacesAfter=\s\s
+8	sociaux	social	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	SpacesAfter=\s\s
+9	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	10	det	_	SpacesAfter=\s\s
+10	mercredi	mercredi	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	SpacesAfter=\s\s
+11	24	24	NUM	_	_	10	nummod	_	SpacesAfter=\s\s
+12	mars	mars	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	SpacesAfter=\s\s
+13	par	par	ADP	_	_	15	case	_	SpacesAfter=\s\s
+14	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	SpacesAfter=\s\s
+15	parti	parti	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	SpacesAfter=\s\s
+16	Forza	Forza	PROPN	_	_	15	appos	_	SpacesAfter=\s\s
+17	Nova	Nova	PROPN	_	_	16	flat:name	_	SpacesAfter=\s\s
+18	,	,	PUNCT	_	_	21	punct	_	SpacesAfter=\s\s
+19	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3	21	nsubj	_	SpacesAfter=\s\s
+20	peut	pouvoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	SpacesAfter=\s\s
+21	voir	voir	VERB	_	VerbForm=Inf	0	root	_	SpacesAfter=\s\s
+22	six	six	NUM	_	_	23	nummod	_	SpacesAfter=\s\s
+23	mineurs	mineur	NOUN	_	Gender=Masc|Number=Plur	21	obj	_	SpacesAfter=\s\s
+24	embusquer	embusquer	VERB	_	VerbForm=Inf	23	acl	_	SpacesAfter=\s\s
+25	puis	puis	SCONJ	_	_	26	cc	_	SpacesAfter=\s\s
+26	passer	passer	VERB	_	VerbForm=Inf	24	conj	_	SpacesAfter=\s\s
+27	à	à	ADP	_	_	28	case	_	SpacesAfter=\s\s
+28	tabac	tabacre	NOUN	_	Gender=Masc|Number=Sing	26	obl	_	SpacesAfter=\s\s
+29	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	30	det	_	SpacesAfter=\s\s
+30	autre	autre	NOUN	_	Gender=Masc|Number=Sing	24	obj	_	SpacesAfter=\s\s
+31	jeune	jeune	ADJ	_	Gender=Masc|Number=Sing	30	amod	_	SpacesAfter=\s\s
+32	,	,	PUNCT	_	_	24	punct	_	SpacesAfter=\s\s
+33	à	à	ADP	_	_	34	case	_	SpacesAfter=\s\s
+34	coup	coup	NOUN	_	Gender=Masc|Number=Sing	24	obl	_	SpacesAfter=\s\s
+35	de	de	ADP	_	_	36	case	_	SpacesAfter=\s\s
+36	pied	pied	NOUN	_	Gender=Masc|Number=Sing	34	nmod	_	SpacesAfter=\s\s
+37	,	,	PUNCT	_	_	24	punct	_	SpacesAfter=\s\s
+38	de	de	ADP	_	_	39	case	_	SpacesAfter=\s\s
+39	poing	poing	NOUN	_	Gender=Masc|Number=Sing	24	obl	_	SpacesAfter=\s\s
+40	,	,	PUNCT	_	_	24	punct	_	SpacesAfter=\s\s
+41	et	et	CCONJ	_	_	44	cc	_	SpacesAfter=\s\s
+42	avec	avec	ADP	_	_	44	case	_	SpacesAfter=\s\s
+43	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	44	det	_	SpacesAfter=\s\s
+44	bâton	bâton	NOUN	_	Gender=Masc|Number=Sing	24	conj	_	SpacesAfter=\s\s
+45	.	.	PUNCT	_	_	21	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 73
+# text = The-Libertines MP Embusquer disparu Г lвЂ ™ Г © gard de harcГЁlement en ligneComme opinion j' dГ © clare tous les fps accueillants Journal 0 adaptГ © s
+1	The-Libertines	The-Libertines	DET	_	Gender=Fem|Number=Plur	2	det	_	SpacesAfter=\s\s
+2	MP	MP	NOUN	_	_	19	nsubj	_	SpacesAfter=\s\s
+3	Embusquer	Embusquer	PROPN	_	_	2	flat:name	_	SpacesAfter=\s\s
+4	disparu	disparaître	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	SpacesAfter=\s\s
+5	Г	Г	PROPN	_	_	4	obj	_	SpacesAfter=\s\s
+6	lвЂ	lвЂ	PROPN	_	_	5	flat:name	_	SpacesAfter=\s\s
+7	™	™	SYM	_	_	5	flat:name	_	SpacesAfter=\s\s
+8	Г	Г	PROPN	_	_	5	flat:name	_	SpacesAfter=\s\s
+9	©	©	SYM	_	_	10	compound	_	SpacesAfter=\s\s
+10	gard	gard	NOUN	_	Gender=Masc|Number=Sing	5	appos	_	SpacesAfter=\s\s
+11	de	de	ADP	_	_	12	case	_	SpacesAfter=\s\s
+12	harcГЁlement	harcГЁlement	PROPN	_	_	10	nmod	_	SpacesAfter=\s\s
+13	en	en	ADP	_	_	14	case	_	SpacesAfter=\s\s
+14	ligneComme	ligneComme	PROPN	_	_	10	nmod	_	SpacesAfter=\s\s
+15	opinion	opinion	NOUN	_	Gender=Fem|Number=Sing	10	appos	_	SpacesAfter=\s\s
+16	j'	je	ADP	_	_	17	case	_	SpacesAfter=\s\s
+17	dГ	dГ	PROPN	_	_	15	nmod	_	SpacesAfter=\s\s
+18	©	©	SYM	_	_	17	flat:name	_	SpacesAfter=\s\s
+19	clare	clarer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+20	tous	tout	DET	_	Gender=Masc|Number=Plur	22	det	_	SpacesAfter=\s\s
+21	les	le	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	SpacesAfter=\s\s
+22	fps	fp	NOUN	_	Gender=Masc|Number=Plur	19	obj	_	SpacesAfter=\s\s
+23	accueillants	accueillant	ADJ	_	Gender=Masc|Number=Plur	22	amod	_	SpacesAfter=\s\s
+24	Journal	journal	PROPN	_	_	22	appos	_	SpacesAfter=\s\s
+25	0	0	NUM	_	_	24	nummod	_	SpacesAfter=\s\s
+26	adaptГ	adaptГ	PROPN	_	_	24	flat:name	_	SpacesAfter=\s\s
+27	©	©	SYM	_	_	28	compound	_	SpacesAfter=\s\s
+28	s	s	X	_	_	24	appos	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 74
+# text = Jecontacte doit condition Г lвЂ ™ Г © gard de voit naissant Il objectifOu identiquement l' ensemble des condition en compagnie de partieSauf Que de procГ © der ГВ l' intermГ © diaire avec mes de ceux et celles espГ © rant crГ © er quelques connaissances sur internet NГ © anmoins , dГ © favorablement en la plupart des condition Г lвЂ ™ Г © gard de voit , !
+1	Jecontacte	Jecontacte	PROPN	_	_	3	nsubj	_	SpacesAfter=\s\s
+2	doit	devoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	SpacesAfter=\s\s
+3	condition	condition	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\s\s
+4	Г	Г	PROPN	_	_	3	obj	_	SpacesAfter=\s\s
+5	lвЂ	lвЂ	PROPN	_	_	4	flat:name	_	SpacesAfter=\s\s
+6	™	™	SYM	_	_	4	flat:name	_	SpacesAfter=\s\s
+7	Г	Г	PROPN	_	_	4	flat:name	_	SpacesAfter=\s\s
+8	©	©	SYM	_	_	9	compound	_	SpacesAfter=\s\s
+9	gard	gard	NOUN	_	Gender=Masc|Number=Sing	4	appos	_	SpacesAfter=\s\s
+10	de	de	ADP	_	_	11	case	_	SpacesAfter=\s\s
+11	voit	voir	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	SpacesAfter=\s\s
+12	naissant	naître	VERB	_	Tense=Pres|VerbForm=Part	11	acl	_	SpacesAfter=\s\s
+13	Il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	SpacesAfter=\s\s
+14	objectifOu	objectifou	CCONJ	_	_	17	cc	_	SpacesAfter=\s\s
+15	identiquement	identiquement	ADV	_	_	17	advmod	_	SpacesAfter=\s\s
+16	l'	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	SpacesAfter=\s\s
+17	ensemble	ensemble	NOUN	_	Gender=Masc|Number=Sing	13	conj	_	SpacesAfter=\s\s
+18-19	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+18	de	de	ADP	_	_	20	case	_	_
+19	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
+20	condition	condition	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	SpacesAfter=\s\s
+21	en	en	ADP	_	_	22	case	_	SpacesAfter=\s\s
+22	compagnie	compagnie	NOUN	_	Gender=Fem|Number=Sing	20	nmod	_	SpacesAfter=\s\s
+23	de	de	ADP	_	_	24	case	_	SpacesAfter=\s\s
+24	partieSauf	partieSauf	PROPN	_	_	22	nmod	_	SpacesAfter=\s\s
+25	Que	que	PROPN	_	_	24	flat:name	_	SpacesAfter=\s\s
+26	de	de	ADP	_	_	24	flat:name	_	SpacesAfter=\s\s
+27	procГ	procГ	PROPN	_	_	24	flat:name	_	SpacesAfter=\s\s
+28	©	©	SYM	_	_	24	flat:name	_	SpacesAfter=\s\s
+29	der	der	PROPN	_	_	24	flat:name	_	SpacesAfter=\s\s
+30	ГВ	ГВ	PROPN	_	_	24	flat:name	_	SpacesAfter=\s\s
+31	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	32	det	_	SpacesAfter=\s\s
+32	intermГ	intermГ	PROPN	_	_	20	appos	_	SpacesAfter=\s\s
+33	©	©	SYM	_	_	34	compound	_	SpacesAfter=\s\s
+34	diaire	diaire	NOUN	_	Gender=Masc|Number=Sing	32	compound	_	SpacesAfter=\s\s
+35	avec	avec	ADP	_	_	36	case	_	SpacesAfter=\s\s
+36	mes	me	NOUN	_	Gender=Fem|Number=Plur	32	nmod	_	SpacesAfter=\s\s
+37	de	de	ADP	_	_	38	case	_	SpacesAfter=\s\s
+38	ceux	celui	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	36	nmod	_	SpacesAfter=\s\s
+39	et	et	CCONJ	_	_	40	cc	_	SpacesAfter=\s\s
+40	celles	celui	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	32	conj	_	SpacesAfter=\s\s
+41	espГ	espГ	PROPN	_	_	40	appos	_	SpacesAfter=\s\s
+42	©	©	SYM	_	_	41	flat:name	_	SpacesAfter=\s\s
+43	rant	rir	VERB	_	Tense=Pres|VerbForm=Part	40	acl	_	SpacesAfter=\s\s
+44	crГ	crГ	PROPN	_	_	46	nsubj	_	SpacesAfter=\s\s
+45	©	©	SYM	_	_	44	flat:name	_	SpacesAfter=\s\s
+46	er	er	VERB	_	VerbForm=Inf	43	ccomp	_	SpacesAfter=\s\s
+47	quelques	quelque	DET	_	Gender=Fem|Number=Plur	48	det	_	SpacesAfter=\s\s
+48	connaissances	connaissance	NOUN	_	Gender=Fem|Number=Plur	46	obj	_	SpacesAfter=\s\s
+49	sur	sur	ADP	_	_	50	case	_	SpacesAfter=\s\s
+50	internet	internet	NOUN	_	Gender=Masc|Number=Sing	48	nmod	_	SpacesAfter=\s\s
+51	NГ	NГ	PROPN	_	_	50	conj	_	SpacesAfter=\s\s
+52	©	©	SYM	_	_	51	flat:name	_	SpacesAfter=\s\s
+53	anmoins	anmoins	ADV	_	_	51	advmod	_	SpacesAfter=\s\s
+54	,	,	PUNCT	_	_	51	punct	_	SpacesAfter=\s\s
+55	dГ	dГ	PROPN	_	_	51	appos	_	SpacesAfter=\s\s
+56	©	©	SYM	_	_	55	flat:name	_	SpacesAfter=\s\s
+57	favorablement	favorablement	ADV	_	_	55	advmod	_	SpacesAfter=\s\s
+58	en	en	ADP	_	_	60	case	_	SpacesAfter=\s\s
+59	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	60	det	_	SpacesAfter=\s\s
+60	plupart	plupart	NOUN	_	Gender=Fem|Number=Sing	57	obl	_	SpacesAfter=\s\s
+61-62	des	_	_	_	_	_	_	_	SpacesAfter=\s\s
+61	de	de	ADP	_	_	63	case	_	_
+62	les	le	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	63	det	_	_
+63	condition	condition	NOUN	_	Gender=Fem|Number=Sing	60	nmod	_	SpacesAfter=\s\s
+64	Г	Г	PROPN	_	_	63	appos	_	SpacesAfter=\s\s
+65	lвЂ	lвЂ	PROPN	_	_	64	flat:name	_	SpacesAfter=\s\s
+66	™	™	SYM	_	_	64	flat:name	_	SpacesAfter=\s\s
+67	Г	Г	PROPN	_	_	64	flat:name	_	SpacesAfter=\s\s
+68	©	©	SYM	_	_	69	compound	_	SpacesAfter=\s\s
+69	gard	gard	NOUN	_	Gender=Masc|Number=Sing	64	appos	_	SpacesAfter=\s\s
+70	de	de	ADP	_	_	71	case	_	SpacesAfter=\s\s
+71	voit	voir	NOUN	_	Gender=Masc|Number=Sing	69	nmod	_	SpacesAfter=\s\s
+72	,	,	PUNCT	_	_	3	punct	_	SpacesAfter=\s\s
+73	!	!	PUNCT	_	_	3	punct	_	SpacesAfter=\s\s
+
+# sent_id = 75
+# text = le site Jecontacte vous permet avec condition avec Г lвЂ ™ Г © gard de embusquer vrais annonces vous circonscrivant puis introduisant de montant Г § a lequel vous-mГЄme voulez
+1	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	SpacesAfter=\s\s
+2	site	site	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	SpacesAfter=\s\s
+3	Jecontacte	Jecontacte	PROPN	_	_	2	appos	_	SpacesAfter=\s\s
+4	vous	lui	PRON	_	Number=Plur|Person=2|PronType=Prs	5	nsubj	_	SpacesAfter=\s\s
+5	permet	permettre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpacesAfter=\s\s
+6	avec	avec	ADP	_	_	7	case	_	SpacesAfter=\s\s
+7	condition	condition	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	SpacesAfter=\s\s
+8	avec	avec	ADP	_	_	9	case	_	SpacesAfter=\s\s
+9	Г	Г	PROPN	_	_	5	obl	_	SpacesAfter=\s\s
+10	lвЂ	lвЂ	PROPN	_	_	9	flat:name	_	SpacesAfter=\s\s
+11	™	™	SYM	_	_	9	flat:name	_	SpacesAfter=\s\s
+12	Г	Г	PROPN	_	_	9	flat:name	_	SpacesAfter=\s\s
+13	©	©	SYM	_	_	14	compound	_	SpacesAfter=\s\s
+14	gard	gard	NOUN	_	Gender=Masc|Number=Sing	9	appos	_	SpacesAfter=\s\s
+15	de	de	ADP	_	_	16	mark	_	SpacesAfter=\s\s
+16	embusquer	embusquer	VERB	_	VerbForm=Inf	5	acl	_	SpacesAfter=\s\s
+17	vrais	vrai	ADJ	_	Gender=Masc|Number=Plur	18	amod	_	SpacesAfter=\s\s
+18	annonces	annonce	NOUN	_	Gender=Fem|Number=Plur	16	obj	_	SpacesAfter=\s\s
+19	vous	vous	PRON	_	Number=Plur|Person=2|PronType=Prs	20	obj	_	SpacesAfter=\s\s
+20	circonscrivant	circonscriver	VERB	_	Tense=Pres|VerbForm=Part	16	advcl	_	SpacesAfter=\s\s
+21	puis	puis	SCONJ	_	_	22	cc	_	SpacesAfter=\s\s
+22	introduisant	introduire	VERB	_	Tense=Pres|VerbForm=Part	20	conj	_	SpacesAfter=\s\s
+23	de	de	ADP	_	_	24	mark	_	SpacesAfter=\s\s
+24	montant	monter	VERB	_	Tense=Pres|VerbForm=Part	22	acl	_	SpacesAfter=\s\s
+25	Г	Г	PROPN	_	_	24	obj	_	SpacesAfter=\s\s
+26	§	§	PUNCT	_	_	25	punct	_	SpacesAfter=\s\s
+27	a	avoir	ADP	_	_	28	case	_	SpacesAfter=\s\s
+28	lequel	lequel	PRON	_	Gender=Masc|Number=Sing|PronType=Rel	30	obl	_	SpacesAfter=\s\s
+29	vous-mГЄme	vous-mГЄme	PROPN	_	_	30	nsubj	_	SpacesAfter=\s\s
+30	voulez	vouloir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	SpaceAfter=No
+

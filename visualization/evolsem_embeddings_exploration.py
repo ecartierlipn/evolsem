@@ -26,9 +26,9 @@ from subprocess import PIPE, run
 import udpipe_utils
 
 # mysql
-import mysql.connector
-from mysql.connector import Error
-import traceback
+#import mysql.connector
+#from mysql.connector import Error
+#import traceback
 
 # mysql connection parameters
 host = 'localhost'

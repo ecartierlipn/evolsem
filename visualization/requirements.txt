@@ -2,4 +2,3 @@ streamlit
 pandas
 transformers
 udapi
-streamlit.components.v1

@@ -2,4 +2,4 @@ streamlit
 pandas
 transformers
 udapi
-st_aggrid
+streamlit-aggrid

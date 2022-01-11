@@ -1,6 +1,5 @@
 streamlit
 pandas
 transformers
-traceback
 udapi
 streamlit.components.v1

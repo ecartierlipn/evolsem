@@ -164,9 +164,9 @@ hide_dataframe_row_index = """
 #st.sidebar.header("Parameters")
 st.title("EvolSem project : exploration of word meaning")
 st.write("This web interface proposes to explore : 1/ Word and Contextual Embeddings Models capability to identify word meanings; 2/ Dependency analysis to get prototypical lexico-syntactic usage of a given lexeme. You can either explore specific sentences analysis or explore the meanings of a word globally. Please first choose a kind of exploration on the left panel.")
-with st.expander("More Information",expanded=False):
-    st.markdown(get_file_content_as_string("readme2.md"))
-    st.table(dfdesc)
+#with st.expander("More Information",expanded=False):
+#    st.markdown(get_file_content_as_string("readme2.md"))
+#    st.table(dfdesc)
 
 analysis = st.sidebar.radio(
      "Choose a kind of exploration",

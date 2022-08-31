@@ -230,11 +230,17 @@ class Document(object):
             OAI_BASEURL = 'https://gallica.bnf.fr/services/OAIRecord?ark='
             url = "".join([OAI_BASEURL, id])
             log.info(url)
-            s = requests_retry_session().get(url, stream=True)
-            soup = BeautifulSoup(s.content,"lxml-xml")
-            file = open(tmpfile, 'wb')
-            file.write(soup.prettify().encode('UTF-8'))
-            file.close()
+            try:
+                s = requests_retry_session().get(url, stream=True)
+                soup = BeautifulSoup(s.content,"lxml-xml")
+                file = open(tmpfile, 'wb')
+                file.write(soup.prettify().encode('UTF-8'))
+                file.close()
+            except Exception as e:
+                log.error("Error with this file : " + tmpfile + ". Error : " + str(e))
+                os.remove(tmpfile)
+                return ['', '']
+
         with open(tmpfile) as xml:
             doc = xmltodict.parse(xml.read())
             #log.info(doc)
@@ -249,9 +255,12 @@ class Document(object):
                     date = res['dc:date']
                 else :
                     date= ''
+                os.remove(tmpfile)
                 return [id, date]
             except Exception as e:
                 log.error("Error with this file : " + tmpfile + ". Error : " + str(e))
+                os.remove(tmpfile)
+                return ['', '']
         
     @staticmethod
     def OAI(id):
@@ -690,15 +699,15 @@ def save_sentences_to_mysql(table, data, debug=False):
 def main():
     # define task(s) and words
     tasks = ['word_sythesis','corpus_synthesis','word_documents','word_contexts','clean_word_contexts','contexts_embeddings','word_contexts_mysql','all']
-    tasks = ['word_contexts_mysql']
-    from_wordlist = 'file_csv' # 'file', 'pickle','word'
+    task = ['all']
+    from_wordlist = 'word' # 'file', 'pickle','word'
     word_filter = [15] # ie noun, 15 for verb
     #word_pos = {'verre':'15', 'rose', 'vestiaire', 'volupté', 'voile', 'voyou', 'volant', 'zeste', 'rouge', 'volume', 'vitrifier', 'blanc', 'volée', 'veste', 'verge', 'vilain', 'jaune', 'brun', 'vulgate', 'zélote', 'zinc', 'vert', 'violet', 'visite', 'vignette', 'vortex', 'volubilité', 'vestige', 'visa', 'vilaine', 'virement', 'orange', 'zéphyr', 'vedette', 'œillet', 'bleu', 'vogue', 'noir', 'gris'}
 
     ############### retrieve wordlists
     # read candidat lists for verbs and nouns
     if from_wordlist =='word':
-        vlist = ['réaliser']
+        vlist = ['téléphone']
     elif from_wordlist =='pickle':
         data = pickle.load(open("../contextual_embeddings/FrenchSemEval-1.1-191210/FSE-1.1.data.xmlverbs_sentence_nb.pkl", mode="rb"))
         #print(data)
@@ -754,7 +763,7 @@ def main():
     #################### launch process 0 . From words retrieve occurrences synthesis (API recherche GALLICA : Categories)
     # => <word>.synthesis.json in output dir
 
-    if 'word_sythesis' in tasks or 'all' in tasks:
+    if 'word_sythesis' in task or 'all' in task:
         log.info("*"*10 + "Task : word_sythesis")
         outputdir = './gallica_output/synthesis/'
         print("*"*10 + "Task : word_sythesis", ", check outputdir : " + outputdir)
@@ -775,7 +784,7 @@ def main():
     # pour les différents types de corpus (1700-1950)
     corplist = ['monographie','fascicule']
 
-    if 'corpus_synthesis' in tasks or 'all' in tasks:
+    if 'corpus_synthesis' in task or 'all' in task:
         log.info("*"*10 +  " Task : corpus_synthesis")
         outputdir = './gallica_output/'
         print("*"*10 + "Task : corpus_synthesis", ", check outputdir : " + outputdir)
@@ -805,7 +814,7 @@ def main():
     # 1.b. retrieve word occurrences (attention ici on se limite aux fascicules)
 
 
-    if 'word_documents' in tasks or 'all' in tasks:
+    if 'word_documents' in task or 'all' in task:
         log.info("*"*10 + " Task : word_documents")
         outputdir = './gallica_output/'
         print("*"*10 + "Task : word_documents", ", check outputdir : " + outputdir)
@@ -887,7 +896,7 @@ def main():
     #  and save all information in one xlsx file : <word>.xlsx
 
 
-    if 'word_contexts' in tasks or 'all' in tasks:
+    if 'word_contexts' in task or 'all' in task:
         log.info("*"*10 + " Task : word_contexts")
         outputdir = './gallica_output/'
         print("*"*10 + "Task : word_contexts", ", check outputdir : " + outputdir)
@@ -962,7 +971,7 @@ def main():
                 log.error("Error" + str(e))
 
     # for saving into mysql
-    if 'all' in tasks or 'clean_word_contexts' in tasks:
+    if 'all' in task or 'clean_word_contexts' in task:
         log.info("*"*10 + " Task : clean_word_contexts")
         word_errors={}
         input_dir ='./gallica_output/'
@@ -1036,7 +1045,7 @@ def main():
             log.info("All is done")
 
     # save to mysql (contexts and lexies)
-    if 'all' in tasks or 'word_contexts_mysql' in tasks:
+    if 'word_contexts_mysql' in task:
         log.info("*"*10 + " Task : word_contexts_mysql")
         word_errors={}
         input_dir ='./gallica_output/'
@@ -1093,7 +1102,7 @@ def main():
             log.info("All is done")
         
     # for parsing with word/token embeddings
-    if 'all' in tasks or 'contexts_embeddings' in tasks:
+    if 'all' in task or 'contexts_embeddings' in task:
         log.info("*"*10 + " Task : contexts_embeddings")
         word_errors={}
         input_dir ='./gallica_output/'
@@ -1118,7 +1127,7 @@ def main():
                 #log.info(df.info())
                 #log.info("parsing : " + w, df.shape[0], ' initial entries')
                 # delete nqamoyen < 0.80
-                df = df[df.nqamoyen > 80]
+                df = df[df.nqamoyen > 95]
                 #log.info("after nqamoyen > 80 : " + w, df.shape[0], ' entries')
                 df.rename(columns={'dc:identifier':'url','contexts':'sentence','dc:title':'journal','datetime':'date2'}, inplace=True)
                 df['corpus']='gallica'
@@ -1129,6 +1138,7 @@ def main():
                 df.dropna(subset=['key_word'],inplace=True)
                 df['sentence'].replace(to_replace="<span class='highlight'>", value="", regex=True, inplace=True)  
                 df['sentence'].replace(to_replace="<\/span>", value="", regex=True, inplace=True)  
+                #df["sentence"].replace(to_replace=r"^(.{40,}?)\(\.\.\.\)", value=r'\1', regex=True,inplace=True)
                 #log.info(df['date2'].unique())
                 df['date']= pd.to_datetime(df['date2'], errors='coerce', infer_datetime_format=True)
                 errors = df.loc[df['date'].isnull()]['date2'].unique().tolist()

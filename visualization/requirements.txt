@@ -10,4 +10,4 @@ tqdm==4.64.0
 transformers==4.21.0
 udapi==0.3.0
 streamlit-aggrid==0.2.3.post2
-pytorch==1.12.1
+pytorch==1.0.2

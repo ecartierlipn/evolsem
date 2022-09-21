@@ -134,11 +134,15 @@ def load_sentences(word, token=False):
         df = pd.read_csv(wordsdic[word])
         if token:
             s = df[df.key_word==token]["sentence"]
-            if s.shape[0]> 100:
+            #print(s)
+            if s.shape[0]>100: #len(s)> 100: 
                 s = s.sample(n=100, random_state=1).tolist()
+            else:
+                s = s.tolist()
         else:
             s = df["sentence"].sample(n=100, random_state=1).tolist()
         s.insert(0,"Choose a sentence")
+        print(s)
         return s
 
 @st.cache(allow_output_mutation=True)

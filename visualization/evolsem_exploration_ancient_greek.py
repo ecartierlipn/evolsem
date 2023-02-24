@@ -300,11 +300,11 @@ if analysis == 'Specific Sentence Analysis':
     text_input=''
 
     # load lexem input files
-    files = glob("./input_files/ancient_greek/*.csv")
-    print(files)   
-    wordsdic = {f.split('/')[3].split('.')[0]:f for f in files}
+    files = glob("input_files/ancient_greek/*.csv")
+    print("files : ", files)   
+    wordsdic = {f.split('/')[2].split('.')[0]:f for f in files}
     words = list(wordsdic.keys())
-    print(words)
+    print("Words : ",words)
     words.insert(0,"Choose a lexeme")
 
     lang_model = st.sidebar.selectbox(label="language model",

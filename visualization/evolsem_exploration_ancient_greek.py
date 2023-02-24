@@ -301,7 +301,7 @@ if analysis == 'Specific Sentence Analysis':
 
     # load lexem input files
     realpath = os.path.dirname(__file__)  + '/'
-    st.write(realpath)
+    #st.write(realpath)
     files = glob( realpath + "input_files/ancient_greek/*.csv")
     #st.write("files : ", files)   
     wordsdic = {f.split('/')[-1].split('.')[0]:f for f in files}

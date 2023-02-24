@@ -906,10 +906,11 @@ elif analysis == 'Word/Contextual Embeddings (global)':
                                             options=sorted(words))
     if word != 'Choose a lexeme':
         st.sidebar.info("Dictionaries")
-        st.sidebar.markdown("https://www.cnrtl.fr/definition/"+word,unsafe_allow_html=True)
-        st.sidebar.markdown("https://www.littre.org/definition/"+word,unsafe_allow_html=True)
-        with st.sidebar.expander("Wiktionary"):
-            components.iframe("https://fr.wiktionary.org/wiki/" + word+ "#Français",height=400, scrolling=True)
+        st.sidebar.markdown("https://www.lsj.gr/wiki/"+word,unsafe_allow_html=True) # 
+        st.sidebar.markdown("https://dictionaries.brillonline.com/montanari",unsafe_allow_html=True)
+        #with st.sidebar.expander("Wiktionary"):
+        #    components.iframe("https://gr.wiktionary.org/wiki/" + word + "#Français",height=400, scrolling=True)
+
         
         # Contextual embeddings
         data = pickle.load(open(wordsdic[word],mode="rb"))

@@ -887,12 +887,18 @@ elif analysis == 'Dependency Analysis (global)':
 # overall analysis
 elif analysis == 'Word/Contextual Embeddings (global)':
     # load preanalysed data per corpus.word
-    files = glob("../reference_data/*diorisis_sentences.csv.pickle")
+    # load lexem input files
+    realpath = os.path.dirname(__file__)  + '/'
+    #st.write(realpath)
+    files = glob( realpath + "input_files/ancient_greek/*.csv")
+
+
+    files = glob( realpath +  "input_files/ancient_greek/*diorisis_sentences.csv.pickle")
     print(files) 
     # just wordlist to get words with data in both corpus
     wordlist = [f.split('/')[-1].split('.')[0] for f in files]
 
-    wordsdic = {f.split('/')[2].split('.')[0]:f for f in files}
+    wordsdic = {f.split('/')[-1].split('.')[0]:f for f in files}
     words = list(wordsdic.keys())
     print(words)
     words.insert(0,"Choose a lexeme")

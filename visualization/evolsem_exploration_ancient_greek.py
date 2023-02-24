@@ -303,10 +303,10 @@ if analysis == 'Specific Sentence Analysis':
     realpath = os.path.dirname(__file__)  + '/'
     st.write(realpath)
     files = glob( realpath + "input_files/ancient_greek/*.csv")
-    st.write("files : ", files)   
+    #st.write("files : ", files)   
     wordsdic = {f.split('/')[-1].split('.')[0]:f for f in files}
     words = list(wordsdic.keys())
-    st.write("Words : ",words)
+    #st.write("Words : ",words)
     words.insert(0,"Choose a lexeme")
 
     lang_model = st.sidebar.selectbox(label="language model",

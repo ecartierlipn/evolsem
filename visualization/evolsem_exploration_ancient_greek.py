@@ -300,9 +300,10 @@ if analysis == 'Specific Sentence Analysis':
     text_input=''
 
     # load lexem input files
-    files = glob("input_files/ancient_greek/*.csv")
+    realpath = os.path.realpath(__file__)  + '/'
+    files = glob( realpath + "input_files/ancient_greek/*.csv")
     print("files : ", files)   
-    wordsdic = {f.split('/')[2].split('.')[0]:f for f in files}
+    wordsdic = {f.split('/')[-1].split('.')[0]:f for f in files}
     words = list(wordsdic.keys())
     print("Words : ",words)
     words.insert(0,"Choose a lexeme")

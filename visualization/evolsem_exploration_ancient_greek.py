@@ -301,11 +301,12 @@ if analysis == 'Specific Sentence Analysis':
 
     # load lexem input files
     realpath = os.path.realpath(__file__)  + '/'
+    st.write(realpath)
     files = glob( realpath + "input_files/ancient_greek/*.csv")
-    print("files : ", files)   
+    st.write("files : ", files)   
     wordsdic = {f.split('/')[-1].split('.')[0]:f for f in files}
     words = list(wordsdic.keys())
-    print("Words : ",words)
+    st.write("Words : ",words)
     words.insert(0,"Choose a lexeme")
 
     lang_model = st.sidebar.selectbox(label="language model",

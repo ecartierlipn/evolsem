@@ -308,7 +308,7 @@ if analysis == 'Specific Sentence Analysis':
     words.insert(0,"Choose a lexeme")
 
     lang_model = st.sidebar.selectbox(label="language model",
-                                    options=['hf-maintainers/bert-base-multilingual-uncased','hf-maintainers/bert-base-multilingual-cased','pranaydeeps/Ancient-Greek-BERT'])
+                                    options=['bert-base-multilingual-uncased','bert-base-multilingual-cased','pranaydeeps/Ancient-Greek-BERT'])
                                     #options=['camembert-base','camembert/camembert-large','flaubert/flaubert_base_uncased','flaubert/flaubert_large_cased','xlm-roberta-large'])
     word = st.sidebar.selectbox(label="Lexeme",
                                     options=sorted(words))#'T-SNE (3d) - longer!',, 'LDA'

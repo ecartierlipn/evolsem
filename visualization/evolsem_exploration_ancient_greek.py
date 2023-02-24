@@ -300,7 +300,7 @@ if analysis == 'Specific Sentence Analysis':
     text_input=''
 
     # load lexem input files
-    realpath = os.path.realpath(__file__)  + '/'
+    realpath = os.path.dirname(__file__)  + '/'
     st.write(realpath)
     files = glob( realpath + "input_files/ancient_greek/*.csv")
     st.write("files : ", files)   
